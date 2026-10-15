@@ -42233,8 +42233,7 @@
       "name": "Searing",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://9064807398",
-       "waveform": "oqs3ww0xvxxwv35w11yxsx54039/zror.OOPPSQTRQQRRSVUTTVRPPRWTUUXVTPNO"
+       "sound": "rbxassetid://9064807398"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42251,8 +42250,7 @@
       "name": "BackgroundThud",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://9125402735",
-       "waveform": "4/yv85q41hksmbPLIKIHGGEDECDBBBAA.YdUWdaTXTQUVNLGGEEDCCCCBBBBAAAAA"
+       "sound": "rbxassetid://9125402735"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42269,8 +42267,7 @@
       "name": "Beam Shoot",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://5400248069",
-       "waveform": "I/++76414m2tgooDEHOMLOLJEDDCBBAA.BgjidaUTUQQQNNMBBCEEEFEDCBBAAAAA"
+       "sound": "rbxassetid://5400248069"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42287,8 +42284,7 @@
       "name": "BlastHit",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://5493355091",
-       "waveform": "/zndggjlVQSNLNLQOPPRQPMKKEEFEDDC.PPNOLNKKIGGFFEEEFFEEFFEDDCBCBBBB"
+       "sound": "rbxassetid://5493355091"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42305,8 +42301,7 @@
       "name": "BoomHit",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6455377128",
-       "waveform": "///8/7/9+/xs/161rjuWcodTWaURPGEB.cieYefkXZgUXWTXZPOSJMTKIJJIJECCA"
+       "sound": "rbxassetid://6455377128"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42323,8 +42318,7 @@
       "name": "DelayedFireBurst",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://7278163473",
-       "waveform": "AAAAABIz/zoleXVTRLJOJDDBBBAAAAAA.AAAAAABPTUPOLJJHFEDDCBBAAAAAAAAA"
+       "sound": "rbxassetid://7278163473"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42341,8 +42335,7 @@
       "name": "Detonate",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://1388740053",
-       "waveform": "0zo39/zw/0wdnjfddZVRRMINFMLHDCBA.TSNaVdTUZRYMOOQLJKMIIFEFCGFDBBAA"
+       "sound": "rbxassetid://1388740053"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42359,8 +42352,7 @@
       "name": "EnergyBurst",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://5599554943",
-       "waveform": "AAB6//tpqmtmiihebYaXUVUPMJHEAAAA.AAATUROQPMNMLLKKIIIIHIHFEEDBAAAA"
+       "sound": "rbxassetid://5599554943"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42377,8 +42369,7 @@
       "name": "Eruption",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3517242261",
-       "waveform": "AAAe/zsjaWXZUSRRPPPPPOSOOIEBAAAA.AAAEQONKIHGGGGFFFFFEEFEEECBAAAAA"
+       "sound": "rbxassetid://3517242261"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42395,8 +42386,7 @@
       "name": "FieryExplosion",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://7343795436",
-       "waveform": "Zz93/52ifqlingbYRSSRLMNIEGGEDECA.IMZVZUVONPPNMMLJHFGGFEFCCCBBBBAA"
+       "sound": "rbxassetid://7343795436"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42413,8 +42403,7 @@
       "name": "FireBurst",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://7128851174",
-       "waveform": "A8/52q4pcXSOLHFEJDCCCBBCBAABAAAA.AWiYXMRQKKGEEDCBCBBBBAAAAAAAAAAA"
+       "sound": "rbxassetid://7128851174"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42431,8 +42420,7 @@
       "name": "FireballThrow2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://438666196",
-       "waveform": "fn29631725+755//28vx0jXcQNJFEBBA.JOUZcYcZWYbYXZefaWRRUNGKHGECCBAA"
+       "sound": "rbxassetid://438666196"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42449,8 +42437,7 @@
       "name": "FireballThrow3",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://5169902349",
-       "waveform": "tz//mgYUMKLHJGEIFEFDDCBBBBBABAAA.LTYSQLJHFDDDCCCBBBBBBBAAAAAAAAAA"
+       "sound": "rbxassetid://5169902349"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42467,8 +42454,7 @@
       "name": "FlameEnd",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://5868574236",
-       "waveform": "AAAc/720526vqtmkhidZQRQNMKHFCBAA.AAAITUQSTSPQONLKKIIHGFEEDDCBBAAA"
+       "sound": "rbxassetid://5868574236"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42485,8 +42471,7 @@
       "name": "FlameEnd2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3291021366",
-       "waveform": "Gkir097/ry133whkgpcleXYXYUWTOSQH.BLNQVUTTQSTTVQNPMOMMKJIIIGHHFGGB"
+       "sound": "rbxassetid://3291021366"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42503,8 +42488,7 @@
       "name": "FlameThrower Loop",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://9061999173",
-       "waveform": "7fn86+40//++7jskaany0547/8587+2w.MKNSVVSTTbZXRNNLIJLOQSTYXUTVWVTS"
+       "sound": "rbxassetid://9061999173"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42521,8 +42505,7 @@
       "name": "Flamethrower",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://346067083",
-       "waveform": "w++/3x66v1rytuow4z44q2yszzuponqs.QRWWTRSQSROQQOPQRSUSPRPQPNPOOOOO"
+       "sound": "rbxassetid://346067083"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42539,8 +42522,7 @@
       "name": "FlashFireWhistle",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3634981288",
-       "waveform": "9//2t5wvruuuhaUVUVQOMJJJJEFFEECD.UcZXTWSVPQQRQLHKLKIGFEEFECCCBCBB"
+       "sound": "rbxassetid://3634981288"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42557,8 +42539,7 @@
       "name": "GroundSmash",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://130972023",
-       "waveform": "//3feRQONHIKFIHEEEICBBCAAAAAAAAA.ibVMJGGFFDCDCDBBBBBBAAAAAAAAAAAA"
+       "sound": "rbxassetid://130972023"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42575,8 +42556,7 @@
       "name": "LowBoom",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://130792180",
-       "waveform": "y/qmlsqyujhmeYbSLMGGGKGMHEDCBBBA.QUTQMQPPSLJLKJHHEEDCCDCDDCBBAAAA"
+       "sound": "rbxassetid://130792180"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42593,8 +42573,7 @@
       "name": "MUDADA",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://5803928182",
-       "waveform": "FZZfqkpgQzsqqquyt1y/88/4551rNDAA.BKMLMLMHDQVSKMQQPRTTUWVVTUQNDBAA"
+       "sound": "rbxassetid://5803928182"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42611,8 +42590,7 @@
       "name": "PianoTapSFX",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4501201015",
-       "waveform": "AAa/641woiZOOKLJHGGFEEDCCBCBCCDC.AAHcbXXWPMJGFEDEDDCCCCBBBBBBBBBB"
+       "sound": "rbxassetid://4501201015"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42629,8 +42607,7 @@
       "name": "Swoosh",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://134012322",
-       "waveform": "AAAACJOUkev/x1qpz4ip4ggsRRQKFFEA.AAAABEGJSMSdUVPNQWMPZNNSHIHECCCA"
+       "sound": "rbxassetid://134012322"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42647,8 +42624,7 @@
       "name": "ThudSFX",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://1650073108",
-       "waveform": "Z4/pjemkcRZZRPTPNUMOIGHFFDDECCCB.JVbRNMSQKHMKHHGHEHHGDCDDCBBBBBBA"
+       "sound": "rbxassetid://1650073108"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42665,8 +42641,7 @@
       "name": "WispAbsorb",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://5207654419",
-       "waveform": "ACDFIIRRPVfi/qgabRPRQOLLMFIGFEEE.AABBCCFGGGKPONJJJGFGGEEEECDCCBBB"
+       "sound": "rbxassetid://5207654419"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42683,8 +42658,7 @@
       "name": "WispDespawn",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://9114463022",
-       "waveform": "AABFGMRd020/8+4zgYSROGDCBBAAAAAA.AAABDFGLSSWZTXSUNJHGFCBBAAAAAAAA"
+       "sound": "rbxassetid://9114463022"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42701,8 +42675,7 @@
       "name": "Guck",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://5534386370",
-       "waveform": "AECBCCABEM++38/1KFFDCCCBCBDEDEDI.ABBABBABBCOaUVbNDCCBBBBBBABBBBBE"
+       "sound": "rbxassetid://5534386370"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42719,8 +42692,7 @@
       "name": "Nai",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://5534351189",
-       "waveform": "AAC/+qSQPSfubNLKPcrfaNKOKLHGCAAA.AAAOQLIKJGKRIEEEFIOLLFEFEEDCBAAA"
+       "sound": "rbxassetid://5534351189"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42737,8 +42709,7 @@
       "name": "OHO",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://8470137342",
-       "waveform": "d//8//////sk/////////+//6//YIIFE.KbabefimoXNJdlhhonqqpggfadaHDDCB"
+       "sound": "rbxassetid://8470137342"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42755,8 +42726,7 @@
       "name": "Whaa",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://5534387509",
-       "waveform": "AAGABIMm/1w787740vmeZVWRSONJQFHC.AABAABDGcaVZdfbXRPNJIHHHGFFDECBB"
+       "sound": "rbxassetid://5534387509"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42773,8 +42743,7 @@
       "name": "sfx",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://5989939664",
-       "waveform": "Feg//6cTMNMHGFEDCCCCDBCBBBBBBAAA.BHKRQRIHEEDCCBBBBBBABBBAAAAAAAAA"
+       "sound": "rbxassetid://5989939664"
       },
       "description": "Sound from the open-source RBXM file posted by @i_like_pancakes_and_ducks5751 in RoVFX",
       "source": {
@@ -42791,8 +42760,7 @@
       "name": "Break",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3744391247",
-       "waveform": "6/7/XPMLKJILJHFEDECCGECDCDCAABAA.UhYZIGEDDDCCCCBBBBBBBAAAAAAAAAAA"
+       "sound": "rbxassetid://3744391247"
       },
       "description": "Sound from the open-source RBXM file posted by @omniphane_xyz in RoVFX",
       "source": {
@@ -42809,8 +42777,7 @@
       "name": "Hit1",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://7083947294",
-       "waveform": "Dgtn/5rv7lnWJJHCCBBAAAAAAAAAAAAA.ALOORUONYONIDDCBBAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://7083947294"
       },
       "description": "Sound from the open-source RBXM file posted by @omniphane_xyz in RoVFX",
       "source": {
@@ -42827,8 +42794,7 @@
       "name": "Ragdoll",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://12222152",
-       "waveform": "BCDFGGHHVLHbiakqvtu5z8/44+v0xagN.BBBDDDCDKGDNRRRTadbhbgicgcbVZIRE"
+       "sound": "rbxassetid://12222152"
       },
       "description": "Sound from the open-source RBXM file posted by @omniphane_xyz in RoVFX",
       "source": {
@@ -42845,8 +42811,7 @@
       "name": "RockDebris2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3932587669",
-       "waveform": "P////+/2oorwpWYMFEDBAAAAAAAAAAAA.EaebdbVSPQNOMJGGCBBAAAAAAAAAAAAA"
+       "sound": "rbxassetid://3932587669"
       },
       "description": "Sound from the open-source RBXM file posted by @omniphane_xyz in RoVFX",
       "source": {
@@ -42863,8 +42828,7 @@
       "name": "Spawn",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://12221944",
-       "waveform": "8444/9821310ztsrppooqollmljjkjjc.afdcdccdcbcbaZYYZZYXZYWXWWVVVUUN"
+       "sound": "rbxassetid://12221944"
       },
       "description": "Sound from the open-source RBXM file posted by @omniphane_xyz in RoVFX",
       "source": {
@@ -42881,8 +42845,7 @@
       "name": "Multiple",
       "type": "sound",
       "sound": {
-       "file": "f4f3e250ef2b363a8487f",
-       "waveform": "/f4miOJHGFEEDDDCBBBBAAAAAAAAAAAA.VIQLJEDCCCBBBBBAAAAAAAAAAAAAAAAA"
+       "file": "f4f3e250ef2b363a8487f"
       },
       "description": "Open-source asset by @omniphane_xyz in RoVFX",
       "source": {
@@ -42899,8 +42862,7 @@
       "name": "HitSFX",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://314390675",
-       "waveform": "O8/+///m3qyu2RIGEFHHIIOKGVUDHBBB.EZgcfhnRfUXZXGDCCCCCCDEDBEFBBAAA"
+       "sound": "rbxassetid://314390675"
       },
       "description": "Sound from the open-source RBXM file posted by @omniphane_xyz in RoVFX",
       "source": {
@@ -42917,8 +42879,7 @@
       "name": "Punched3",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://153092238",
-       "waveform": "M/772uxtmaedeaIHFFEDDDCCBBBAAAAA.EcXSTRVUNKJONKDCCCCBBBBBBAAAAAAA"
+       "sound": "rbxassetid://153092238"
       },
       "description": "Sound from the open-source RBXM file posted by @omniphane_xyz in RoVFX",
       "source": {
@@ -42935,8 +42896,7 @@
       "name": "DashCharging",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4085783973",
-       "waveform": "//9/+//79vxjhdVUKKHFDCCBBBAAAAAA.dhikihidbUWSRNLJFFDCBBBAAAAAAAAA"
+       "sound": "rbxassetid://4085783973"
       },
       "description": "Sound from the open-source RBXM file posted by @normally10 in RoVFX",
       "source": {
@@ -42954,8 +42914,7 @@
       "name": "Explode",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4307213273",
-       "waveform": "y043241/yqkfcYVSSOLIGFEDCBBAAAAA.RaZbaZYXVPSMMLIHHGFEDCCBBAAAAAAA"
+       "sound": "rbxassetid://4307213273"
       },
       "description": "Sound from the open-source RBXM file posted by @normally10 in RoVFX",
       "source": {
@@ -42973,8 +42932,7 @@
       "name": "Burst",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://698224146",
-       "waveform": "6+6+v125/t42xxkmmaTPPJHFDCCBAAAA.XbZVUUVZbQYYWYPQPMJFHFDCBBBAAAAA"
+       "sound": "rbxassetid://698224146"
       },
       "description": "Sound from the open-source RBXM file posted by @normally10 in RoVFX",
       "source": {
@@ -42992,8 +42950,7 @@
       "name": "Startup",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3763467000",
-       "waveform": "//////x28+1rUSNFEDCCCBAAAAAAAAAA.ZecbhkTUSVQQHFECBBBBAAAAAAAAAAAA"
+       "sound": "rbxassetid://3763467000"
       },
       "description": "Sound from the open-source RBXM file posted by @normally10 in RoVFX",
       "source": {
@@ -43011,8 +42968,7 @@
       "name": "Wind1",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4085859074",
-       "waveform": "BETgxklk/hjLLKIGGDDCBAAAAAAAAAAA.ABFLRMPLRMKEEEDCCBBBAAAAAAAAAAAA"
+       "sound": "rbxassetid://4085859074"
       },
       "description": "Sound from the open-source RBXM file posted by @normally10 in RoVFX",
       "source": {
@@ -43030,8 +42986,7 @@
       "name": "Wind2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4085859364",
-       "waveform": "BMft7/ykkwsYKIJGGDDBBAAAAAAAAAAA.ADIMZcUNMPQHEDDCCBBAAAAAAAAAAAAA"
+       "sound": "rbxassetid://4085859364"
       },
       "description": "Sound from the open-source RBXM file posted by @normally10 in RoVFX",
       "source": {
@@ -43049,8 +43004,7 @@
       "name": "Startup2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4418405082",
-       "waveform": "/////////+8/5t1wdcbelTWPMJHGEDBA.rlnknghgfZXZURURMLKLKHIFEDDCBBAA"
+       "sound": "rbxassetid://4418405082"
       },
       "description": "Sound from the open-source RBXM file posted by @normally10 in RoVFX",
       "source": {
@@ -43068,8 +43022,7 @@
       "name": "hit 7",
       "type": "sound",
       "sound": {
-       "file": "fb2fde349b33155d2052d",
-       "waveform": "FShfhq+kZ/2TRMHDEDDCCCBBBBBAAAAA.BFJNOJXQPUVJFECBCBBBBBABBAAAAAAA"
+       "file": "fb2fde349b33155d2052d"
       },
       "description": "Open-source asset by @barbedwire22 in RoVFX",
       "source": {
@@ -43087,8 +43040,7 @@
       "name": "hit 6",
       "type": "sound",
       "sound": {
-       "file": "fdbe2abd50fa61b87f473",
-       "waveform": "GJR5r274z/sfQWMMKGEDECBAAAAAAAAA.BEGSTTXWclXOFGEHECBBCBAAAAAAAAAA"
+       "file": "fdbe2abd50fa61b87f473"
       },
       "description": "Open-source asset by @barbedwire22 in RoVFX",
       "source": {
@@ -43106,8 +43058,7 @@
       "name": "hit 5",
       "type": "sound",
       "sound": {
-       "file": "f6622b118a4acb7d95217",
-       "waveform": "Fpu079g/XUQQFEFDCDCDCCCAAAAAAAAA.CMaWaYRfJKHFCCCBBBBBBBBAAAAAAAAA"
+       "file": "f6622b118a4acb7d95217"
       },
       "description": "Open-source asset by @barbedwire22 in RoVFX",
       "source": {
@@ -43125,8 +43076,7 @@
       "name": "hit 4",
       "type": "sound",
       "sound": {
-       "file": "ffdb6ca7147d7f30ec19e",
-       "waveform": "CJVinv3/ur4sVTOKFICCBBAAAAAAAAAA.BEHMQRZcXZmSHJFECCBAAAAAAAAAAAAA"
+       "file": "ffdb6ca7147d7f30ec19e"
       },
       "description": "Open-source asset by @barbedwire22 in RoVFX",
       "source": {
@@ -43144,8 +43094,7 @@
       "name": "hit 3",
       "type": "sound",
       "sound": {
-       "file": "f38dc8465a1f21f0881b5",
-       "waveform": "HZ/x5s7y6siSLKFFEDDCCCCBCBBBBAAA.CIUTXTWWXUOJFDCCCBBBBBBABBBAAAAA"
+       "file": "f38dc8465a1f21f0881b5"
       },
       "description": "Open-source asset by @barbedwire22 in RoVFX",
       "source": {
@@ -43163,8 +43112,7 @@
       "name": "hit 2",
       "type": "sound",
       "sound": {
-       "file": "f5e9890ed44114b57bbc4",
-       "waveform": "ep549570/w3hdelRTRSVKHFECAAAAAAA.IPbWXZmcdVZTONRJLLJMGEDCBAAAAAAA"
+       "file": "f5e9890ed44114b57bbc4"
       },
       "description": "Open-source asset by @barbedwire22 in RoVFX",
       "source": {
@@ -43182,8 +43130,7 @@
       "name": "hit 1",
       "type": "sound",
       "sound": {
-       "file": "f524f2b4e3f53532e1ef8",
-       "waveform": "Juvot3/a6k14bUXVMLJFHEECAAAAAAAA.CNVNQSdMZQYbNJLLGEDCCCBBAAAAAAAA"
+       "file": "f524f2b4e3f53532e1ef8"
       },
       "description": "Open-source asset by @barbedwire22 in RoVFX",
       "source": {
@@ -43201,8 +43148,7 @@
       "name": "Coin Pierce",
       "type": "sound",
       "sound": {
-       "file": "f4e5b12f248bd69ec7fba",
-       "waveform": "IWJEKm//VMJJJIGGFECCBAAAAAAAAAAA.BFCBCMmTHEEEDECCCCBBAAAAAAAAAAAA"
+       "file": "f4e5b12f248bd69ec7fba"
       },
       "description": "Open-source asset by @diminutives in RoVFX",
       "source": {
@@ -43220,8 +43166,7 @@
       "name": "Shinra Bansho man",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://103409926488249",
-       "waveform": "ell/w9w0quzkmnptkmegiXUWUPOONKJH.LNPURTPQOONMMNNMMMKKJIGHGFEEEDDC"
+       "sound": "rbxassetid://103409926488249"
       },
       "description": "Sound from the open-source RBXM file posted by @dante.z in RoVFX",
       "source": {
@@ -43239,8 +43184,7 @@
       "name": "Brust",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://99788162731894",
-       "waveform": "Ajxyy58/3/z66wtz503z842yqtzsnfhg.AJSVXXcZVUSXUTQSWTRTZXXWVYZTOOQR"
+       "sound": "rbxassetid://99788162731894"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -43258,8 +43202,7 @@
       "name": "Charging",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3748209484",
-       "waveform": "BFKTcdZ88/wlkrfggTOHHHDBBBBAAAAA.ABDFJKHVVVPNNPKLKGECCCBAAAAAAAAA"
+       "sound": "rbxassetid://3748209484"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -43277,8 +43220,7 @@
       "name": "Music",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://116361357901849",
-       "waveform": "A/9/nkibbgigYYXTQTPPQTQSPMMNNJIG.ASaUMMKKKLMKIHGGFFFFFFEFEDDEEDDD"
+       "sound": "rbxassetid://116361357901849"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -43296,8 +43238,7 @@
       "name": "Release",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3932669475",
-       "waveform": "HVqclv6/zjsjadWTKIFDCCCCBBBAAAAA.CFLKLQUdWMSOKIHFEDCBBBBBAAAAAAAA"
+       "sound": "rbxassetid://3932669475"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -43315,8 +43256,7 @@
       "name": "Sound",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://89149204024755",
-       "waveform": "/4zxlhffbaWNJGFBBBAAAAAAAAAAAAAA.VZROLLJJIIGEDBBAAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://89149204024755"
       },
       "description": "Sound from the open-source RBXM file posted by @veesyk1 in RoVFX",
       "source": {
@@ -43334,8 +43274,7 @@
       "name": "Sword 1",
       "type": "sound",
       "sound": {
-       "file": "f3f6383b74dd930143e96",
-       "waveform": "ACRdw89/2zwiaYSQMKKJLIECCBAAAAAA.AADKMUYlXTQMKJGFEEEDDCBBBAAAAAAA"
+       "file": "f3f6383b74dd930143e96"
       },
       "description": "Open-source asset by @chekor8 in RoVFX",
       "source": {
@@ -43353,8 +43292,7 @@
       "name": "punch 1",
       "type": "sound",
       "sound": {
-       "file": "f0087bc67f175c15a8884",
-       "waveform": "CGNUy/TFFIUo4/GECCBBBAAAAAAAAAAA.ACEINSEBBDHKSJCBBAAAAAAAAAAAAAAA"
+       "file": "f0087bc67f175c15a8884"
       },
       "description": "Open-source asset by @chekor8 in RoVFX",
       "source": {
@@ -43372,8 +43310,7 @@
       "name": "Posion",
       "type": "sound",
       "sound": {
-       "file": "f66a72f814bd0c7bc68a2",
-       "waveform": "IkhdQRMIS/TVOMIKLNLJKGFECCBAAAAA.BJJGEFDCEHEEDDCCCDDCCCBBBAAAAAAA"
+       "file": "f66a72f814bd0c7bc68a2"
       },
       "description": "Open-source asset by @chekor8 in RoVFX",
       "source": {
@@ -43391,8 +43328,7 @@
       "name": "Beam Charge",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://7790499106",
-       "waveform": "iu3s38757t540ur945235+755+547/x2.JNVPXUWSYQVWTQPUTVQVWWSYVYUWVYPO"
+       "sound": "rbxassetid://7790499106"
       },
       "description": "Sound from the open-source RBXM file posted by @gabriel332 in RoVFX",
       "source": {
@@ -43410,8 +43346,7 @@
       "name": "sparkle",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://118315466257318",
-       "waveform": "/gTUNJIGHGGEDCDDCCBBBBBBBABBAAAA.PLGHFDDCCCCBBBBBBBAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://118315466257318"
       },
       "description": "Sound from the open-source RBXM file posted by @gabriel332 in RoVFX",
       "source": {
@@ -43429,8 +43364,7 @@
       "name": "sparkle 02",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://116238018455576",
-       "waveform": "C////////////////////////////5kX.ASkbU4040241zv40zv13vv4qy3vljWRJ"
+       "sound": "rbxassetid://116238018455576"
       },
       "description": "Sound from the open-source RBXM file posted by @gabriel332 in RoVFX",
       "source": {
@@ -43448,8 +43382,7 @@
       "name": "sparkle 03",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://99723098897148",
-       "waveform": "Rkgn1/v9zztthjddYYSVNLJIHFFDDCCB.GIMNQTRTRQONMLKJIHHGFEDCCCCBBBBA"
+       "sound": "rbxassetid://99723098897148"
       },
       "description": "Sound from the open-source RBXM file posted by @gabriel332 in RoVFX",
       "source": {
@@ -43467,8 +43400,7 @@
       "name": "barb hits large impact",
       "type": "sound",
       "sound": {
-       "file": "f858f9e5dfbf3b59a14e6",
-       "waveform": "ACU////lPKHEBAAAAADT///viNMFDBAA.AAFckncPGEDBAAAAAABGcllTMFFCBAAA"
+       "file": "f858f9e5dfbf3b59a14e6"
       },
       "description": "Open-source asset by @barbedwire22 in RoVFX",
       "source": {
@@ -43486,8 +43418,7 @@
       "name": "Highlight",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://121280858667554",
-       "waveform": "AAVzzjhx/pjcfSPNHKymhWbXaSNGDBBB.AAEXVPNQZQOLMIFEDDWQNJLJIHFCBAAA"
+       "sound": "rbxassetid://121280858667554"
       },
       "description": "Sound from the open-source RBXM file posted by @kn1femustard in RoVFX",
       "source": {
@@ -43505,8 +43436,7 @@
       "name": "Vault",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://136224586361044",
-       "waveform": "GHROz+yo/neUIEDDBAAAAAAAAAAAAAAA.BCEEPTLJQLKFCBBBAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://136224586361044"
       },
       "description": "Sound from the open-source RBXM file posted by @kn1femustard in RoVFX",
       "source": {
@@ -43524,8 +43454,7 @@
       "name": "combo sounds",
       "type": "sound",
       "sound": {
-       "file": "ff24c0415bf627a464827",
-       "waveform": "AAEBAGQO57Q059w/nmLtLobN0sVTHBAA.AABAABCCNWFHRYQJIIDLDLGEWQKGBAAA"
+       "file": "ff24c0415bf627a464827"
       },
       "description": "Open-source asset by @oshiriona in RoVFX",
       "source": {
@@ -43543,8 +43472,7 @@
       "name": "foleyB2 1",
       "type": "sound",
       "sound": {
-       "file": "f4d89ce31ba6787518628",
-       "waveform": "HIMMQbbVux/sfZZlIFEDFEDQCBBIBBBA.DDFEEKHGNTTPKFJIDCBBBBBCBAABAAAA"
+       "file": "f4d89ce31ba6787518628"
       },
       "description": "Open-source asset by @stampysmells in RoVFX",
       "source": {
@@ -43562,8 +43490,7 @@
       "name": "foleyB2",
       "type": "sound",
       "sound": {
-       "file": "f4d89ce31ba6787518628",
-       "waveform": "HIMMQbbVux/sfZZlIFEDFEDQCBBIBBBA.DDFEEKHGNTTPKFJIDCBBBBBCBAABAAAA"
+       "file": "f4d89ce31ba6787518628"
       },
       "description": "Open-source asset by @stampysmells in RoVFX",
       "source": {
@@ -43581,8 +43508,7 @@
       "name": "0706",
       "type": "sound",
       "sound": {
-       "file": "f1c06a0cb59d0651e2e55",
-       "waveform": "o53xgj/712zz3x51241v12724kgPHAAA.LRSPKKSSSRQSQQRRQRQPRSSVPMHECAAA"
+       "file": "f1c06a0cb59d0651e2e55"
       },
       "description": "Open-source asset by @deliquentstar in RoVFX",
       "source": {
@@ -43600,8 +43526,7 @@
       "name": "NotMuch",
       "type": "sound",
       "sound": {
-       "file": "f7006c3a35734dadcac4c",
-       "waveform": "xze7/866565xyPq65ayweNONjfSQLMPN.IQIQLWUUUTSQOFHTVHKLGEEEGIEEEEEE"
+       "file": "f7006c3a35734dadcac4c"
       },
       "description": "Open-source asset by @deliquentstar in RoVFX",
       "source": {
@@ -43619,8 +43544,7 @@
       "name": "0705",
       "type": "sound",
       "sound": {
-       "file": "f844705f649791b59d3f9",
-       "waveform": "Wt7/5y0uv3zpkyngUUNIGECBAAAAAAAA.FNWWTTRQSUPOOSNJIFDDCBBAAAAAAAAA"
+       "file": "f844705f649791b59d3f9"
       },
       "description": "Open-source asset by @deliquentstar in RoVFX",
       "source": {
@@ -43638,8 +43562,7 @@
       "name": "Cool sound2",
       "type": "sound",
       "sound": {
-       "file": "ff9942e9f5aa0a210dcad",
-       "waveform": "AAAA70fFA70cRI36/vf81fKFBBAAAAAA.AAAAPQHBATRIFCJXUQNVRHDBAAAAAAAA"
+       "file": "ff9942e9f5aa0a210dcad"
       },
       "description": "Open-source asset by @deliquentstar in RoVFX",
       "source": {
@@ -43657,8 +43580,7 @@
       "name": "Flamey",
       "type": "sound",
       "sound": {
-       "file": "f587a07f697e6ecc5a205",
-       "waveform": "AAAAo7u24XY0g/744i484525yfPNGCCC.AAAAISLOTIERILXVPKXbVTWSQJEDCBBA"
+       "file": "f587a07f697e6ecc5a205"
       },
       "description": "Open-source asset by @deliquentstar in RoVFX",
       "source": {
@@ -43676,8 +43598,7 @@
       "name": "0711",
       "type": "sound",
       "sound": {
-       "file": "f5c04802c0d7c8047852c",
-       "waveform": "/+zz+77+icWQIGFDCBBBAAAAAAAAAAAA.XcVSWVZSNLJFDDCBBAAAAAAAAAAAAAAA"
+       "file": "f5c04802c0d7c8047852c"
       },
       "description": "Open-source asset by @deliquentstar in RoVFX",
       "source": {
@@ -43695,8 +43616,7 @@
       "name": "wallcombo new",
       "type": "sound",
       "sound": {
-       "file": "fda555c8138cf4c32a288",
-       "waveform": "C5SQ/////////1p////////qWaSIGEBA.AEEFXisqstnqbRRTkivvjhcSKMHDDCAA"
+       "file": "fda555c8138cf4c32a288"
       },
       "description": "Open-source asset by @barbedwire22 in RoVFX",
       "source": {
@@ -43714,8 +43634,7 @@
       "name": "barb hits hard hits",
       "type": "sound",
       "sound": {
-       "file": "ff4890ac7a73845f0eff9",
-       "waveform": "//HV/9QB/nDD/8FA//jM//OA//OC//eE.jVBCsWEAlMBAjRBAeeMCgXEAfaFAicLB"
+       "file": "ff4890ac7a73845f0eff9"
       },
       "description": "Open-source asset by @barbedwire22 in RoVFX",
       "source": {
@@ -43733,8 +43652,7 @@
       "name": "move2",
       "type": "sound",
       "sound": {
-       "file": "f0b48ca09c285e9840ba4",
-       "waveform": "ij751cU72bpwq/wtgTWF/8jVGECBBAAA.QYNXaHEUZLLaVYTLIFCBYeNHDBBAAAAA"
+       "file": "f0b48ca09c285e9840ba4"
       },
       "description": "Open-source asset by @barbedwire22 in RoVFX",
       "source": {
@@ -43752,8 +43670,7 @@
       "name": "magic impact",
       "type": "sound",
       "sound": {
-       "file": "f9a53b37844898995fecb",
-       "waveform": "AAAABz/oqkmukvjhvhUPLOONJHEECCBB.AAAAAVTPONPOOLPQSOIGFFHGFCCCBBAA"
+       "file": "f9a53b37844898995fecb"
       },
       "description": "Open-source asset by @barbedwire22 in RoVFX",
       "source": {
@@ -43771,8 +43688,7 @@
       "name": "TalkSound",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://929615246",
-       "waveform": "s/sy+qsvqpghheaSXRLLJJGGFEDCBBAA.VeYbeXUWXSRPQNOKKHGFFEDDCCBBAAAA"
+       "sound": "rbxassetid://929615246"
       },
       "description": "Sound from the open-source RBXM file posted by @gabi.gabinator in RoVFX",
       "source": {
@@ -43790,8 +43706,7 @@
       "name": "TalkSound 02",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://2633343843",
-       "waveform": "h4/4vw017203tppwstwiOMGEBAAAAAAA.LWXYWVTWaaaWVYSUVUSOGFCBBAAAAAAA"
+       "sound": "rbxassetid://2633343843"
       },
       "description": "Sound from the open-source RBXM file posted by @gabi.gabinator in RoVFX",
       "source": {
@@ -43809,8 +43724,7 @@
       "name": "TalkSound 03",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://5417004822",
-       "waveform": "Iaiyxmzxy+xz23/4k6yhtojdVPQRAAAA.DLRVXZXYYdYYfbagXacSTXSMLIHIAAAA"
+       "sound": "rbxassetid://5417004822"
       },
       "description": "Sound from the open-source RBXM file posted by @gabi.gabinator in RoVFX",
       "source": {
@@ -43828,8 +43742,7 @@
       "name": "kick prac",
       "type": "sound",
       "sound": {
-       "file": "f635da87c0a4b123a8420",
-       "waveform": "AFeZdvs45It/1gbs153//qVFCBAAABAA.ABHHJPNWKCNSXMJNORRXcKEBAAAAAAAA"
+       "file": "f635da87c0a4b123a8420"
       },
       "description": "Open-source asset by @i_have_no_idea1413 in RoVFX",
       "source": {
@@ -43847,8 +43760,7 @@
       "name": "22222",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://101343565113128",
-       "waveform": "DW00///////wpabXQLLGEDCBAAAAAAAA.ADNTZgltlofTNLLHGEEDCBBAAAAAAAAA"
+       "sound": "rbxassetid://101343565113128"
       },
       "description": "Sound from the open-source RBXM file posted by @deleted_user_42802fc144c0 in RoVFX",
       "source": {
@@ -43866,8 +43778,7 @@
       "name": "Core Shockwave",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://124596082414077",
-       "waveform": "bs///32yw1/////////34z0ytyjVOHEE.KUfebaVVSYdrusqrnhYXXYabYVPLHDCC"
+       "sound": "rbxassetid://124596082414077"
       },
       "description": "Sound from the open-source RBXM file posted by @deleted_user_42802fc144c0 in RoVFX",
       "source": {
@@ -43885,8 +43796,7 @@
       "name": "Heavy Hit Shockwave (SFX)",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://137455842313478",
-       "waveform": "///+vz0mlieWSQKGDECBBBAAAAAAAAAA.SZXWQWSPNLLJIGECBBBBAAAAAAAAAAAA"
+       "sound": "rbxassetid://137455842313478"
       },
       "description": "Sound from the open-source RBXM file posted by @deleted_user_42802fc144c0 in RoVFX",
       "source": {
@@ -43904,8 +43814,7 @@
       "name": "Lor Shockwave Second",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://101893450601813",
-       "waveform": "/++9/3vumiffZVQPNJLIFEDDCCBBBAAA.ihedcWTSPNKJJIGGEEECCCBBBBAAAAAA"
+       "sound": "rbxassetid://101893450601813"
       },
       "description": "Sound from the open-source RBXM file posted by @deleted_user_42802fc144c0 in RoVFX",
       "source": {
@@ -43923,8 +43832,7 @@
       "name": "Naoya Zenin loud killsound",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://137799351973002",
-       "waveform": "UWJHsljopj9U8urbYdWotzeH/775qJAA.FHCBOKMOLGdFVSKHFJLMNQLCTTVSLCAA"
+       "sound": "rbxassetid://137799351973002"
       },
       "description": "Sound from the open-source RBXM file posted by @deleted_user_42802fc144c0 in RoVFX",
       "source": {
@@ -43942,8 +43850,7 @@
       "name": "explode gore",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://96624593271151",
-       "waveform": "mokeZTQSLdQZ/2hgda8L3vPPLAAAAAAA.NPMJIFFGCJGFKKFEEDICJLDCBAAAAAAA"
+       "sound": "rbxassetid://96624593271151"
       },
       "description": "Sound from the open-source RBXM file posted by @deleted_user_42802fc144c0 in RoVFX",
       "source": {
@@ -43961,8 +43868,7 @@
       "name": "naoya",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://80110557581012",
-       "waveform": "AAAmcw5x/bBAA/sdxvXhagIACm4y1BAA.AAAKGNLKMFAAALIFLLFIILBAALQPKAAA"
+       "sound": "rbxassetid://80110557581012"
       },
       "description": "Sound from the open-source RBXM file posted by @deleted_user_42802fc144c0 in RoVFX",
       "source": {
@@ -43980,8 +43886,7 @@
       "name": "Blast",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://340722848",
-       "waveform": "pu90w/1wxp3tmlhffdYYXXWURPSONQMN.MRTTTTRRPORNNMNKLJJIIHHHGGGGFEED"
+       "sound": "rbxassetid://340722848"
       },
       "description": "Sound from the open-source RBXM file posted by @jeff1230623 in RoVFX",
       "source": {
@@ -43999,8 +43904,7 @@
       "name": "Bling",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://462606062",
-       "waveform": "5/wymmfdXTOOJKIIFGEFDEDCDCCCCCBB.XWRRQMLKIHGEEDDDCCBCBBBBBBBBBBBA"
+       "sound": "rbxassetid://462606062"
       },
       "description": "Sound from the open-source RBXM file posted by @jeff1230623 in RoVFX",
       "source": {
@@ -44018,8 +43922,7 @@
       "name": "Charge",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://864314069",
-       "waveform": "v19/z79zstzxz10qztsvxtlfdfYTROKH.PSTTSWVUTUTSSTTRSRRQQONMLKIIGFDC"
+       "sound": "rbxassetid://864314069"
       },
       "description": "Sound from the open-source RBXM file posted by @jeff1230623 in RoVFX",
       "source": {
@@ -44037,8 +43940,7 @@
       "name": "Shoot",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://577577319",
-       "waveform": "///////////////uncQMGGICBBBAAAAA.dnmjihijfihffeaPNNGFCDCBBBAAAAAA"
+       "sound": "rbxassetid://577577319"
       },
       "description": "Sound from the open-source RBXM file posted by @jeff1230623 in RoVFX",
       "source": {
@@ -44056,8 +43958,7 @@
       "name": "Tangle",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3750956745",
-       "waveform": "46/5767/35140zssecTWLLHHECBBAAAA.ZebaZYZWYVWWUPROKKHHEEDCBBAAAAAA"
+       "sound": "rbxassetid://3750956745"
       },
       "description": "Sound from the open-source RBXM file posted by @shunsou in RoVFX",
       "source": {
@@ -44075,8 +43976,7 @@
       "name": "Disappear",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3755126907",
-       "waveform": "N7/252xliYTKMHEDCCBBBBAAAAAAAAAA.EdYZebSNNIGEDCBBBAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://3755126907"
       },
       "description": "Sound from the open-source RBXM file posted by @shunsou in RoVFX",
       "source": {
@@ -44094,8 +43994,7 @@
       "name": "Abyss 2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4299509575",
-       "waveform": "V234/4slofccbYQWWMOJJIFEECBBBAAA.FQUTUUROPNMMMLGJHGGEDDCCCBBAAAAA"
+       "sound": "rbxassetid://4299509575"
       },
       "description": "Sound from the open-source RBXM file posted by @shunsou in RoVFX",
       "source": {
@@ -44113,8 +44012,7 @@
       "name": "Abyss",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3755105210",
-       "waveform": "k595/+//+/89ncgWRNJIECCBBAAAAAAA.JRUWZYZbZacTOKKIFFDCBBBAAAAAAAAA"
+       "sound": "rbxassetid://3755105210"
       },
       "description": "Sound from the open-source RBXM file posted by @shunsou in RoVFX",
       "source": {
@@ -44132,8 +44030,7 @@
       "name": "wallcombo",
       "type": "sound",
       "sound": {
-       "file": "f279343d1d13a7d029298",
-       "waveform": "Fvov///3vmVP18ocy///zjXNFFDBCBBA.BNLMkhWRKKFDMULIMWhfUNHECCBBAAAA"
+       "file": "f279343d1d13a7d029298"
       },
       "description": "Open-source asset by @i_have_no_idea1413 in RoVFX",
       "source": {
@@ -44151,8 +44048,7 @@
       "name": "Mac Flesh Explosion",
       "type": "sound",
       "sound": {
-       "file": "f38eeacfe734fd1e3beed",
-       "waveform": "B///////oyhYFGBCCIABABAAAAAAAAAA.ATqicWXSKGDDABAAABAAAAAAAAAAAAAA"
+       "file": "f38eeacfe734fd1e3beed"
       },
       "description": "Open-source asset by @macaque6 in RoVFX\nAttribution to @macaque6 is required if you use this asset",
       "source": {
@@ -44170,8 +44066,7 @@
       "name": "Wind",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://140065475003739",
-       "waveform": "EIRUYrVWXPYWhZ/x2xywcQLQSMIHHGDC.CEGHKPKIKHJLLJTRTPTOJGFFFFDCCCBB"
+       "sound": "rbxassetid://140065475003739"
       },
       "description": "Sound from the open-source RBXM file posted by @noni_carcar in RoVFX",
       "source": {
@@ -44189,8 +44084,7 @@
       "name": "FLySound",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://13775494",
-       "waveform": "ABn59+/suslccYSQNNOMKHGEDDCBBAAA.AANVYWYUSPNKKIHGFFEEDCCCBBBBAAAA"
+       "sound": "rbxassetid://13775494"
       },
       "description": "Sound from the open-source RBXM file posted by @jusmad_ in RoVFX",
       "source": {
@@ -44208,8 +44102,7 @@
       "name": "Hero",
       "type": "sound",
       "sound": {
-       "file": "faa26bb4264613204b3c8",
-       "waveform": "60014x9+96+0975893x423+92+895y5/.ZUVWSTVbcUcUUVUUZVTWSVWbSVbTSUVY"
+       "file": "faa26bb4264613204b3c8"
       },
       "description": "Open-source asset by @angelictico in RoVFX",
       "source": {
@@ -44227,8 +44120,7 @@
       "name": "Sound 02",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://134477429955198",
-       "waveform": "kqz9/gOIFDCBBBAAAAAAAAAAAAAAAAAA.SRVWVLFDCBBBAAAAAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://134477429955198"
       },
       "description": "Sound from the open-source RBXM file posted by @uchihaitachi9812 in RoVFX",
       "source": {
@@ -44246,8 +44138,7 @@
       "name": "BigHit",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4981805269",
-       "waveform": "S0/7vlsqjbdQOIEECCCBBAAAAAAAAAAA.GQYYSPSQNKKFFDCBBBBAAAAAAAAAAAAA"
+       "sound": "rbxassetid://4981805269"
       },
       "description": "Sound from the open-source RBXM file posted by @truthofstrecxs in RoVFX",
       "source": {
@@ -44265,8 +44156,7 @@
       "name": "BlastHit 02",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://2640194863",
-       "waveform": "CDKLMWWn//54613RLHFDDCBBBBCBBBAA.BBEHIIKUYpfebaOIECCBBBABAABBBAAA"
+       "sound": "rbxassetid://2640194863"
       },
       "description": "Sound from the open-source RBXM file posted by @truthofstrecxs in RoVFX",
       "source": {
@@ -44284,8 +44174,7 @@
       "name": "Clash1",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://211059855",
-       "waveform": "/2ligjdZVSOLFGCDEFDDDDCCBBBAAAAA.VRPLMMKJIGHECDBBCECDCCBBBBAAAAAA"
+       "sound": "rbxassetid://211059855"
       },
       "description": "Sound from the open-source RBXM file posted by @truthofstrecxs in RoVFX",
       "source": {
@@ -44303,8 +44192,7 @@
       "name": "Clash2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4678745096",
-       "waveform": "ACFWz///u1cJDEDDGHGBBBBBAAAAAAAA.ABBLLmmfbdNDBCBBCCBAAAAAAAAAAAAA"
+       "sound": "rbxassetid://4678745096"
       },
       "description": "Sound from the open-source RBXM file posted by @truthofstrecxs in RoVFX",
       "source": {
@@ -44322,8 +44210,7 @@
       "name": "Climb2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://2083126507",
-       "waveform": "AABBCDITco25/0eaLPMPMKGDFDDCBAAA.AAABBBDJPVchmhRJGGFGFEDBCBBBAAAA"
+       "sound": "rbxassetid://2083126507"
       },
       "description": "Sound from the open-source RBXM file posted by @truthofstrecxs in RoVFX",
       "source": {
@@ -44341,8 +44228,7 @@
       "name": "Cling",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://2885026620",
-       "waveform": "//9y74WLKIFDCCBBBAAAAAAAAAAAAAAA.tpVNKLFEEDBBBBAAAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://2885026620"
       },
       "description": "Sound from the open-source RBXM file posted by @truthofstrecxs in RoVFX",
       "source": {
@@ -44360,8 +44246,7 @@
       "name": "ExecuteSlash",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4648298786",
-       "waveform": "X/sybSRSLMIIEFCDDCBBBBBAAAAAAAAA.FYRTJHHHFFDCCCBBBBAABAAAAAAAAAAA"
+       "sound": "rbxassetid://4648298786"
       },
       "description": "Sound from the open-source RBXM file posted by @truthofstrecxs in RoVFX",
       "source": {
@@ -44379,8 +44264,7 @@
       "name": "FistSwing",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4954439454",
-       "waveform": "CCGIPu/1qvoeUOPLHHDCBBBAAAAAAAAA.BBCDGPjXRWSMJHHEDDBBAAAAAAAAAAAA"
+       "sound": "rbxassetid://4954439454"
       },
       "description": "Sound from the open-source RBXM file posted by @truthofstrecxs in RoVFX",
       "source": {
@@ -44398,8 +44282,7 @@
       "name": "HeavySwing1",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6241709963",
-       "waveform": "BBDNezw0/lSNIFEDCCBBBBBBAAAAAAAA.ABBEKSRTTMIEDCBBBBAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://6241709963"
       },
       "description": "Sound from the open-source RBXM file posted by @truthofstrecxs in RoVFX",
       "source": {
@@ -44417,8 +44300,7 @@
       "name": "Hit2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4981805515",
-       "waveform": "X20/l3orlkeOOGECCCCBBBAAAAAAAAAA.HTVXRVTQNMKFECBBBABAAAAAAAAAAAAA"
+       "sound": "rbxassetid://4981805515"
       },
       "description": "Sound from the open-source RBXM file posted by @truthofstrecxs in RoVFX",
       "source": {
@@ -44436,8 +44318,7 @@
       "name": "OldClash1",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4954198253",
-       "waveform": "/nldbXQLIGEDDEECDCCBBBBBBAAAAAAA.TPPMJJGEDDBBBCCBBBBABAAAAAAAAAAA"
+       "sound": "rbxassetid://4954198253"
       },
       "description": "Sound from the open-source RBXM file posted by @truthofstrecxs in RoVFX",
       "source": {
@@ -44455,8 +44336,7 @@
       "name": "OldParried",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4954186776",
-       "waveform": "/hjvcVROPMIKGFFGHGEEEDDCCBBBAAAA.TNMKKIFFFEDDDCCCCCCCCBBBBAAAAAAA"
+       "sound": "rbxassetid://4954186776"
       },
       "description": "Sound from the open-source RBXM file posted by @truthofstrecxs in RoVFX",
       "source": {
@@ -44474,8 +44354,7 @@
       "name": "ParrySwing",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://28166555",
-       "waveform": "ACY/tUHDBAAAAAAAAAAAAAAAAAAAAAAA.ABGXQHDBAAAAAAAAAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://28166555"
       },
       "description": "Sound from the open-source RBXM file posted by @truthofstrecxs in RoVFX",
       "source": {
@@ -44493,8 +44372,7 @@
       "name": "PunchHit",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3932505023",
-       "waveform": "1+4/3XglURNGEHEEFGDCCCCDCBAAAAAA.QlfjfLPVLIHECECCDDCBBBBCBAAAAAAA"
+       "sound": "rbxassetid://3932505023"
       },
       "description": "Sound from the open-source RBXM file posted by @truthofstrecxs in RoVFX",
       "source": {
@@ -44512,8 +44390,7 @@
       "name": "Roll",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4340253186",
-       "waveform": "ADFHFQjZQ//WfSJJIGHGEDDCBBAAAAAA.ABCCCFQKGPcJMIEDCDDCCBBBAAAAAAAA"
+       "sound": "rbxassetid://4340253186"
       },
       "description": "Sound from the open-source RBXM file posted by @truthofstrecxs in RoVFX",
       "source": {
@@ -44531,8 +44408,7 @@
       "name": "SoundCue",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://5052019732",
-       "waveform": "VWRdeVWVs/qQTWTNIPGHEEDDDBBBAAAA.JIGIJGHINWNGGHGEEECDCCBBBBAAAAAA"
+       "sound": "rbxassetid://5052019732"
       },
       "description": "Sound from the open-source RBXM file posted by @truthofstrecxs in RoVFX",
       "source": {
@@ -44550,8 +44426,7 @@
       "name": "StomachGrowl",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://5036646904",
-       "waveform": "Ve/xvtkdZYcdaXWPMLIIHEFEDDCBBAAA.EPTQPOLJIGIJIHGEEEDDDCCCBBBAAAAA"
+       "sound": "rbxassetid://5036646904"
       },
       "description": "Sound from the open-source RBXM file posted by @truthofstrecxs in RoVFX",
       "source": {
@@ -44569,8 +44444,7 @@
       "name": "Swimming",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4765114943",
-       "waveform": "CFRSUeu/sWWTNKUMPPSURPPSOKKEDCBA.BDEGFNTYXGGGDDDDEGGHGFFEEDDBBBAA"
+       "sound": "rbxassetid://4765114943"
       },
       "description": "Sound from the open-source RBXM file posted by @truthofstrecxs in RoVFX",
       "source": {
@@ -44588,8 +44462,7 @@
       "name": "Swing2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4954439686",
-       "waveform": "DMNLXXiqkx/icWLWKKGEEDCBBBAAAAAA.BEFFKMOTOXbOLLFIEDCCCBBAAAAAAAAA"
+       "sound": "rbxassetid://4954439686"
       },
       "description": "Sound from the open-source RBXM file posted by @truthofstrecxs in RoVFX",
       "source": {
@@ -44607,8 +44480,7 @@
       "name": "Walljump",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://379398649",
-       "waveform": "/HDDHQIDCBBIGBADFCBBBBBCCBFAAAAA.NDCBDFDCBAACBAAABAAAAAABAABAAAAA"
+       "sound": "rbxassetid://379398649"
       },
       "description": "Sound from the open-source RBXM file posted by @truthofstrecxs in RoVFX",
       "source": {
@@ -44626,8 +44498,7 @@
       "name": "WaterDash",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4751364807",
-       "waveform": "uxhbbizn5/ll2m71q57vTTVWQHFFCBBA.KQJKKMROWXNNUPULSWWVHHKNGCDCBBAA"
+       "sound": "rbxassetid://4751364807"
       },
       "description": "Sound from the open-source RBXM file posted by @truthofstrecxs in RoVFX",
       "source": {
@@ -44645,8 +44516,7 @@
       "name": "WaterGasp",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://5036655750",
-       "waveform": "LUcxzrtpg/hZSIHIGDCDCCCBBBABAAAA.DHLORRNNMgQKIEDEDBBCBBBBBBAAAAAA"
+       "sound": "rbxassetid://5036655750"
       },
       "description": "Sound from the open-source RBXM file posted by @truthofstrecxs in RoVFX",
       "source": {
@@ -44664,8 +44534,7 @@
       "name": "Die",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://645811027",
-       "waveform": "ONNOZeQVWVNVbiskryVn4149/0vijkhs.FFGGIJFILJFHIOONNPJNSUSTRRSPQPQS"
+       "sound": "rbxassetid://645811027"
       },
       "description": "Sound from the open-source RBXM file posted by @wcl4 in RoVFX",
       "source": {
@@ -44683,8 +44552,7 @@
       "name": "Dodge",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://453318796",
-       "waveform": "AABMVTYp/7QKJKKKOIMJECBAAAAAAAAA.AAADGGHOWPFDDEEDEDDDBBAAAAAAAAAA"
+       "sound": "rbxassetid://453318796"
       },
       "description": "Sound from the open-source RBXM file posted by @wcl4 in RoVFX",
       "source": {
@@ -44702,8 +44570,7 @@
       "name": "Fire",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://151130059",
-       "waveform": "/XLHESLGGJEHFEEDGPDDDDDDDDDDDFDD.OGDCBDCCCCBCBBBBBCBBBBBBBBBBBBBB"
+       "sound": "rbxassetid://151130059"
       },
       "description": "Sound from the open-source RBXM file posted by @wcl4 in RoVFX",
       "source": {
@@ -44721,8 +44588,7 @@
       "name": "Guard",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://648479338",
-       "waveform": "O/70bdKJEEHEDDBAAAAAAAAAAAAAAAAA.EdeSLLFFCCECBBAAAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://648479338"
       },
       "description": "Sound from the open-source RBXM file posted by @wcl4 in RoVFX",
       "source": {
@@ -44740,8 +44606,7 @@
       "name": "HeavyPunch",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://933302532",
-       "waveform": "Lnos3lz4/8v1yzrvglihaYTRUMMJDCBA.CNRQURWXZRRTUURRLONMLJHGGEEDBBAA"
+       "sound": "rbxassetid://933302532"
       },
       "description": "Sound from the open-source RBXM file posted by @wcl4 in RoVFX",
       "source": {
@@ -44759,8 +44624,7 @@
       "name": "Punch",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://200632136",
-       "waveform": "EYbr//6/7kdrTUPIIHFECCBBAAAAAAAA.CKNTVdaZYOKTIKFEEDCCBBBAAAAAAAAA"
+       "sound": "rbxassetid://200632136"
       },
       "description": "Sound from the open-source RBXM file posted by @wcl4 in RoVFX",
       "source": {
@@ -44778,8 +44642,7 @@
       "name": "Rush",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://2899837055",
-       "waveform": "////////////////////////////////.QfghiihjkgjjihjjighgifggggehgfcO"
+       "sound": "rbxassetid://2899837055"
       },
       "description": "Sound from the open-source RBXM file posted by @wcl4 in RoVFX",
       "source": {
@@ -44797,8 +44660,7 @@
       "name": "StandAppear",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://463010917",
-       "waveform": "y23zwp30y22s58np7z/qqrqjjZXSLJFB.NUTSRPORSQSOTUQPTSSRQQOMKIHFEDBA"
+       "sound": "rbxassetid://463010917"
       },
       "description": "Sound from the open-source RBXM file posted by @wcl4 in RoVFX",
       "source": {
@@ -44816,8 +44678,7 @@
       "name": "StandJumpSFX",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://157878578",
-       "waveform": "//797xrrpehdbYcVZWRRTQOPPLIMKFHF.gfbaSQPMLLMIKIJIIIGHIGFFGEDFECDC"
+       "sound": "rbxassetid://157878578"
       },
       "description": "Sound from the open-source RBXM file posted by @wcl4 in RoVFX",
       "source": {
@@ -44835,8 +44696,7 @@
       "name": "StarFinger",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://1125531635",
-       "waveform": "AAAABCFFp65+775k467u1/697xSDAAAA.AAAAABBBIXZbdbZJSZcZadYZUQFBAAAA"
+       "sound": "rbxassetid://1125531635"
       },
       "description": "Sound from the open-source RBXM file posted by @wcl4 in RoVFX",
       "source": {
@@ -44854,8 +44714,7 @@
       "name": "balright",
       "type": "sound",
       "sound": {
-       "file": "f916446c1733e3dba1395",
-       "waveform": "AABGLe/ytnnlhobapq4YYWRQJGDDGDEF.AAADFHdTRPOQOTNMPTTKKKHGEDDDDDDC"
+       "file": "f916446c1733e3dba1395"
       },
       "description": "Open-source asset by @bursayshello in RoVFX",
       "source": {
@@ -44873,8 +44732,7 @@
       "name": "Barrier 2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3750937651",
-       "waveform": "24n1/41884zgZTLKHGDDDCCBBAAAAAAA.PYNUYTVVbYRLJGEDDCBBBBAAAAAAAAAA"
+       "sound": "rbxassetid://3750937651"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -44892,8 +44750,7 @@
       "name": "Bind of isaac heal",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6268259128",
-       "waveform": "BCDGLLRZcovnz/8245rmjclcZiacYWWC.ABBCDEGIKLQNRSVTWVOMKJNJJMIJIHGA"
+       "sound": "rbxassetid://6268259128"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -44911,8 +44768,7 @@
       "name": "Electric Charge",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4299586215",
-       "waveform": "Tq0/6p/8073sqlhwhiXXSTQOKJGGDDBA.ELQXSPVSRQQOOMKMKKIHGFFEDDCCBBAA"
+       "sound": "rbxassetid://4299586215"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -44930,8 +44786,7 @@
       "name": "Electric Release",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4953173408",
-       "waveform": "/244vqtquggVURQIHHCCBBBBAAAAAAAA.VVXaZYSUaOVMIHGEECBBBAAAAAAAAAAA"
+       "sound": "rbxassetid://4953173408"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -44949,8 +44804,7 @@
       "name": "Healing",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4299623826",
-       "waveform": "k17//798997997038999+twsk096/ooh.MUTcaWZWVUUXbUSUXYVWYQRNNVSabPQM"
+       "sound": "rbxassetid://4299623826"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -44968,8 +44822,7 @@
       "name": "Healing Activate",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://233091161",
-       "waveform": "8////63zyxqxjjcbUSSMJHHECCCBBBBA.TilebUSPRQRPLKKJHGGEDDDCBBBAAAAA"
+       "sound": "rbxassetid://233091161"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -44987,8 +44840,7 @@
       "name": "JudgementCut",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://9104123269",
-       "waveform": "f2//sUIHNNIIGGFDDCBBwxuniYNIGDCB.IPRTMFCCEGDCCCCBBBAAIOOMJHECBBAA"
+       "sound": "rbxassetid://9104123269"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45006,8 +44858,7 @@
       "name": "Summon",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3748210175",
-       "waveform": "ACGPbho/vy4+ut1raPOLEDCBAAAAAAAA.AABEIMMWVWRVPSXPKGFDBBBAAAAAAAAA"
+       "sound": "rbxassetid://3748210175"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45025,8 +44876,7 @@
       "name": "Summon 2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://8608755152",
-       "waveform": "Oao/07mnZXSPKZHHFMIIBAAAAAAAAAAA.FKNVNSOMJIGFEFDCCECCAAAAAAAAAAAA"
+       "sound": "rbxassetid://8608755152"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45044,8 +44894,7 @@
       "name": "Sword Spin (1)",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://8477376443",
-       "waveform": "C/+///3thTYVaONINIIGGFDDCCBAAAAA.ANYehaSOLHJHIFFDFEDDDCBBBAAAAAAA"
+       "sound": "rbxassetid://8477376443"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45063,8 +44912,7 @@
       "name": "Sword Spin (2)",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://8536604550",
-       "waveform": "AFNXh2yrrw4kl6/xofqv6iiWQROPGECB.ABEIMYURRSWOPZaQONORaRMGHGHFCBBA"
+       "sound": "rbxassetid://8536604550"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45082,8 +44930,7 @@
       "name": "Blocked Punch",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4306994923",
-       "waveform": "D6/z6tqfIEHDCCCCBBBBAAAAAAAAAAAA.BdZZYUXOECDCBBBBBBBAAAAAAAAAAAAA"
+       "sound": "rbxassetid://4306994923"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45101,8 +44948,7 @@
       "name": "Blocked Punch 2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4056972363",
-       "waveform": "BIZ59/7gfXWaTFQLIKJFDDDCCCBBBAAA.AFMfmweOQLNQKCHGEHEDCCCBBCBBAAAA"
+       "sound": "rbxassetid://4056972363"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45120,8 +44966,7 @@
       "name": "Blocked Punch 3",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4306995205",
-       "waveform": "E7/46vQNKLEECCCBBAAAAAAAAAAAAAAA.BZdkjYHFFFCCBBBAAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://4306995205"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45139,8 +44984,7 @@
       "name": "Blocked Punch 5",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4306994267",
-       "waveform": "Gj2//pWNIFDCDDBBCBBBAABBBAAAAAAA.BNbqgTKGECBBBBBBBAAAAABAAAAAAAAA"
+       "sound": "rbxassetid://4306994267"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45158,8 +45002,7 @@
       "name": "Blocked Sword 1",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://7223765833",
-       "waveform": "d292/pjcikffYYVVUTUTUQSOMJGDBBBB.EQSVTOLKLLMKJIIJJJJJIIJHGFDBAAAA"
+       "sound": "rbxassetid://7223765833"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45177,8 +45020,7 @@
       "name": "Bomb Fall :)",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://2320860923",
-       "waveform": "CDDFIFJONcNNNONNdedbquolmv/vrgPD.ABBCDCCEFHEFEFFEIKMJQSVSUeiYZOGB"
+       "sound": "rbxassetid://2320860923"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45196,8 +45038,7 @@
       "name": "Explosion",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://1343809012",
-       "waveform": "/uwzqmqwzxsvxuvhpjVQTNJFDDBBAAAA.SPSQOLOPTQPRRPRNMKGGGEDCBBAAAAAA"
+       "sound": "rbxassetid://1343809012"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45215,8 +45056,7 @@
       "name": "Explosion 2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3932587334",
-       "waveform": "DMYp21/8wlhlROXTb3OS0jJGOHVEEBBB.BFJRaWXVVNKKFFFHHKFFGEDCCCCBCBAA"
+       "sound": "rbxassetid://3932587334"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45234,8 +45074,7 @@
       "name": "Explosion Drop",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3755107859",
-       "waveform": "/++7++9/80lfSdbNNLJIGGDDCBBBBAAA.aeeffcbaWUMMJLLFGFEDDCBBBBAAAAAA"
+       "sound": "rbxassetid://3755107859"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45253,8 +45092,7 @@
       "name": "Explosion Heavy",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://7060388705",
-       "waveform": "+9/99/9//96////6w41kitXZRLIFECBA.XcebXdcgjYYicdhXYbfPQSKLHGECBBAA"
+       "sound": "rbxassetid://7060388705"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45272,8 +45110,7 @@
       "name": "Explosion Heavy 2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://192410077",
-       "waveform": "//////9/78/0vt9jnbXWQJHGEDDCCBBA.cqkhmlbjWVWVQQYPPIIGGDCCBBBBBAAA"
+       "sound": "rbxassetid://192410077"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45291,8 +45128,7 @@
       "name": "Explosion Impact",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://231917888",
-       "waveform": "///////8/834vfmglgaYQRLMHEDCCBBA.iksvppskhVVWUNOMOPIHHHEEDBCBBAAA"
+       "sound": "rbxassetid://231917888"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45310,8 +45146,7 @@
       "name": "Explosion Impact 2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3748209678",
-       "waveform": "z/vv6efoegZdRSNJIFFFCBBAAAAAAAAA.RXRSULLPKLIJFFDDCCBCBAAAAAAAAAAA"
+       "sound": "rbxassetid://3748209678"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45329,8 +45164,7 @@
       "name": "Explosion Light",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://7055317022",
-       "waveform": "///////0xshnkzchaUSdPPLNKIIFECBA.ZhpdimhRUROQOPJNLIHKFGEEDDDCBBAA"
+       "sound": "rbxassetid://7055317022"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45348,8 +45182,7 @@
       "name": "Explosion Pheonix",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://919941001",
-       "waveform": "/njhhjkikjiijjlikjfgbVUWQMJJIECB.XXSRSSTURUVTVRTSRQONKJKIGGFECCBA"
+       "sound": "rbxassetid://919941001"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45367,8 +45200,7 @@
       "name": "Explosion Reverebed",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6581095753",
-       "waveform": "/7y4wwz74stwfaaRQPPLKHGEDDCCCCBB.bbTUUXTTUSSPLLJGHFFEEDCBBBBBBBAA"
+       "sound": "rbxassetid://6581095753"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45386,8 +45218,7 @@
       "name": "Explosion Rock 4",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4307214211",
-       "waveform": "Mcmp8////sdZVTKLHHFEDDCBAAAAAAAA.EMPUYdahWPJLIGDECCCCBBBAAAAAAAAA"
+       "sound": "rbxassetid://4307214211"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45405,8 +45236,7 @@
       "name": "Explosion Rock 5",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3848082818",
-       "waveform": "w///wnt6belZZaaYcddaeZXHGDDDBBBA.NdfZPOLOJJMJKKJIJNONNNKCDCBBAAAA"
+       "sound": "rbxassetid://3848082818"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45424,8 +45254,7 @@
       "name": "Explosion Slamming",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://8775748486",
-       "waveform": "05/0lyXkfeYHJCDCCBBBAAAAAAAAAAAA.MXWXQQKNOOIDDBBBBBBAAAAAAAAAAAAA"
+       "sound": "rbxassetid://8775748486"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45443,8 +45272,7 @@
       "name": "Explosion Stomp",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://231917806",
-       "waveform": "///////9iqWdQNIFEEDBBBAAAAAAAAAA.rsosljgjOSLKGFECCBBAAAAAAAAAAAAA"
+       "sound": "rbxassetid://231917806"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45462,8 +45290,7 @@
       "name": "Explosion Swoosh",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://9117894165",
-       "waveform": "AA//3zu8/11fbUPNMLLHEDCDBAAAAAAA.AArgYPPTWVQJIGFEEDDCCBBBAAAAAAAA"
+       "sound": "rbxassetid://9117894165"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45481,8 +45308,7 @@
       "name": "ULTRAKILL   EXPLOSION",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://135670616983730",
-       "waveform": "///////////////5039ahWTRKKHGCBAA.0zotynnnoqjkmdlUYafMOJIHFFECBAAA"
+       "sound": "rbxassetid://135670616983730"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45500,8 +45326,7 @@
       "name": "Body Bite",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3739364168",
-       "waveform": "//343szaszc908ZRITFFCCCBHBCBBCDB.OfRYQMMJLLFRMOFECCBBBAAABAAAAAAA"
+       "sound": "rbxassetid://3739364168"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45519,8 +45344,7 @@
       "name": "Body Hit",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3932145654",
-       "waveform": "///qSMFMKaEFLEkJBBABDBDBAAAAABAA.WcWTHDBBCDBBBBDBAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://3932145654"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45538,8 +45362,7 @@
       "name": "Body Hit 2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3932145123",
-       "waveform": "////30XQZGIGCCKDCGHQCBBABBABBAAA.SfiZXPJEDBCCBBBBABBBAAAAAAAAAAAA"
+       "sound": "rbxassetid://3932145123"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45557,8 +45380,7 @@
       "name": "Body Hit 3",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3932142219",
-       "waveform": "k///QJZIFOIDDDEGBhODVCRBBAAPABAA.JhkUGDDCBCBBBBBBADCACABAAAABAAAA"
+       "sound": "rbxassetid://3932142219"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45576,8 +45398,7 @@
       "name": "Body Hit 4",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3932141920",
-       "waveform": "29/uiSLJIGDFECGDBBBEDCEBABABBAAA.NbjTNHEECBBBBABAAAABBBBAAAAAAAAA"
+       "sound": "rbxassetid://3932141920"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45595,8 +45416,7 @@
       "name": "Body Rip + Drop",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6849041223",
-       "waveform": "////8UKLNX//qRJDEDCCFFIKGFDBAAAA.pxpgULDEDFSPJECBBBAAABBCBBAAAAAA"
+       "sound": "rbxassetid://6849041223"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45614,8 +45434,7 @@
       "name": "Body Ripping",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6750490488",
-       "waveform": "c669//5s4mmr8bgfXVMKOGHECDCBBBAA.BjVXZVROOLMNQLKIFGDDDBBBBBAAAAAA"
+       "sound": "rbxassetid://6750490488"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45633,8 +45452,7 @@
       "name": "Body Ripping 2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4086189694",
-       "waveform": "t4y17j///0TuYr3tTkQdJMNCIFABDAAA.GQJKSJTdUOFNEJIKDIEFBBCABAAAAAAA"
+       "sound": "rbxassetid://4086189694"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45652,8 +45470,7 @@
       "name": "Body Stab",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3739363791",
-       "waveform": "2n/of0mrPIuyNXjiRqfjPHGKJHCAAEAC.RPeKJPLKECNOEFKKEKGGECCBBCAAABAA"
+       "sound": "rbxassetid://3739363791"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45671,8 +45488,7 @@
       "name": "Neck Break",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4086190131",
-       "waveform": "p/irswzqklllclkbhqmegoWGCCCBFBAA.MVLOOQRPNMLKJLKHGLJFHIEBBABABAAA"
+       "sound": "rbxassetid://4086190131"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45690,8 +45506,7 @@
       "name": "Air Punch",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://7029708570",
-       "waveform": "R///sTOJIHFEDCDBCBBAAAAAAAAAAAAA.EbtWRFEDDCCBBBBAAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://7029708570"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45709,8 +45524,7 @@
       "name": "Arrow Hit",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://9120627987",
-       "waveform": "ABTcILeg/hPNMJQIFEECCCCCBBAAAAAA.AACFDEIMSKFFEDEDCBBBBBBBAAAAAAAA"
+       "sound": "rbxassetid://9120627987"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45728,8 +45542,7 @@
       "name": "Bloody hit (minor)",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://7920370156",
-       "waveform": "AAEIw/0/374cZfPVLPFCCDBBBBCBAAAA.AABCVZSaXddMLOGFEFCBBBAAAAAAAAAA"
+       "sound": "rbxassetid://7920370156"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45747,8 +45560,7 @@
       "name": "Bullet Hit",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://1489924400",
-       "waveform": "///zbXYVTUGEDDBCCBBDEBAAAAAAAAAA.cfrSLLLLNJCBBBABBAABBAAAAAAAAAAA"
+       "sound": "rbxassetid://1489924400"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45766,8 +45578,7 @@
       "name": "Bullet Hit 2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3802437696",
-       "waveform": "+/u1qvpONMVMLFEDCCCDDDDDCCBCBBBA.cgVRRQMGFGJGECCBBBBBBBBBBBBBAAAA"
+       "sound": "rbxassetid://3802437696"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45785,8 +45596,7 @@
       "name": "Caught Fire Hit",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://2295409845",
-       "waveform": "AFh+/09okkillmmmommmmnajeWMJGDCB.ABJUZTWRPPNQNQQTSWSWUTOROJFEDBBA"
+       "sound": "rbxassetid://2295409845"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45804,8 +45614,7 @@
       "name": "Collapse",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3784889529",
-       "waveform": "K04s/31yx103tuv2iQQgZMHICBCBBBBA.FVhYdgfaifokbahkOHIWMFDDBABAAAAA"
+       "sound": "rbxassetid://3784889529"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45823,8 +45632,7 @@
       "name": "Down Slam",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://1843146382",
-       "waveform": "A5/20xYgVQKGDDCBBBBAAAAAAAAAAAAA.AYVXSRKKHGDCBBBAAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://1843146382"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45842,8 +45650,7 @@
       "name": "Explosion Hit",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4602827568",
-       "waveform": "r/003zy6oluavmrimphicnohahaXSNGB.QVWSURRTSScLTMQMQQLLMMPLLMKIGECA"
+       "sound": "rbxassetid://4602827568"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45861,8 +45668,7 @@
       "name": "Fire Hit",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3763467590",
-       "waveform": "Jg///9z6q4x1xsjNNJLHDCDBBBAAAAAA.CHgjgQRTQVSTTPLEFEEDBBBAAAAAAAAA"
+       "sound": "rbxassetid://3763467590"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45880,8 +45686,7 @@
       "name": "Gorey Hit",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6750270946",
-       "waveform": "ow4/73upsjl7jnfhdSNQMFEDEECDDBAA.HTYbcYRSTOMgRPOVNIGGFCCCCCBBBAAA"
+       "sound": "rbxassetid://6750270946"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45899,8 +45704,7 @@
       "name": "Gorey Hit 02",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4529474217",
-       "waveform": "cz4/4vejTNFFDBBBBBHCBBBBBBBBBBBB.HRYgXVKOIGCBBAAAAABBAAAAAAAAAAAA"
+       "sound": "rbxassetid://4529474217"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45918,8 +45722,7 @@
       "name": "Heavy Flame Infused hit",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6947964914",
-       "waveform": "i5/4u050vnnjvmcogjYNQORIHGFEDCBA.IYbVSUWSTNONROMONMKFFGFDDCCBBBAA"
+       "sound": "rbxassetid://6947964914"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45937,8 +45740,7 @@
       "name": "Heavy Hit",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6706979361",
-       "waveform": "//////vscQYKNKIFGFEECCBBBBAAAAAA.d01vgeaUMHJFGEDCDCBBBBAAAAAAAAAA"
+       "sound": "rbxassetid://6706979361"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45956,8 +45758,7 @@
       "name": "Heavy Hit 2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3763473874",
-       "waveform": "27+/3yzyzglTWSQKMJIHFDCBBAAAAAAA.VcgnmgdeWNOJKLKGIGFEDCBAAAAAAAAA"
+       "sound": "rbxassetid://3763473874"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45975,8 +45776,7 @@
       "name": "Heavy Hit 3",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3763474082",
-       "waveform": "04/+x11vvekRUSQKLJIHGFCCBAAAAAAA.UcjmidgcXONKJKJHIFGEEDBBAAAAAAAA"
+       "sound": "rbxassetid://3763474082"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -45994,8 +45794,7 @@
       "name": "Heavy Hit 4",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3763474273",
-       "waveform": "1//zx545ysf5hWRNIFGFEDDCCBBAAAAA.RhnaehgdbTLULHFFDCCCCCCBBAAAAAAA"
+       "sound": "rbxassetid://3763474273"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46013,8 +45812,7 @@
       "name": "Heavy Hit 5",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3763474469",
-       "waveform": "u8311/7z06ywwvtrukOMIDCBBBAAAAAA.HikmhliiafhgfdWYcNHHEBBBBAAAAAAA"
+       "sound": "rbxassetid://3763474469"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46032,8 +45830,7 @@
       "name": "Heavy Hit 6",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4306987778",
-       "waveform": "////////////9dXTGFDCCCCBBBAAAAAA.c30wupqtwhkrfNLLECBBBBBBAAAAAAAA"
+       "sound": "rbxassetid://4306987778"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46051,8 +45848,7 @@
       "name": "Lightning Hit",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4086009537",
-       "waveform": "Snsq/qjpdrwmXYQNIIEDEBBBBBAAAAAA.FNQNRQLMKNOMIHHGDDBBBAAAAAAAAAAA"
+       "sound": "rbxassetid://4086009537"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46070,8 +45866,7 @@
       "name": "Metalic Hit",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://7290135911",
-       "waveform": "5w/2//37s6shfhhYaYhRNQIIFEDBBBAA.UTiYdYaZVYSOLLMKKLNIFGDDCBBBAAAA"
+       "sound": "rbxassetid://7290135911"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46089,8 +45884,7 @@
       "name": "Quick Hit | NS",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6706982964",
-       "waveform": "BD////////kJFDCBEBBBABAAAAAAAAAA.ABnvursnnkMDCBBBBAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://6706982964"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46108,8 +45902,7 @@
       "name": "Ringing Hit",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://203691785",
-       "waveform": "4/z0njZWQKHKFECBBAAAAAAAAAAAAAAA.SZXVMMJHGDDDCBBAAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://203691785"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46127,8 +45920,7 @@
       "name": "Space Hit Reverbed",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://7072545145",
-       "waveform": "//+///9whverqoohfXeWUQPLLJGFECBA.SibcfgZTPTOTVSQOMKLKJHHFFEDCCBBA"
+       "sound": "rbxassetid://7072545145"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46146,8 +45938,7 @@
       "name": "Sword Hit",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6594869919",
-       "waveform": "L28/67415zxeffWaUOLIHGGEDCCBBBBA.CefhigiieYbNMOJMMHFDDCCBBBBAAAAA"
+       "sound": "rbxassetid://6594869919"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46165,8 +45956,7 @@
       "name": "Wall Slam",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://1843115950",
-       "waveform": "AA/77vmmnbklcNNNOOMMJKIHFFCBBAAA.AAUYZUPMOKMPJFFFGGEFEDDDCCBAAAAA"
+       "sound": "rbxassetid://1843115950"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46184,8 +45974,7 @@
       "name": "Windy Hit",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://5933939542",
-       "waveform": "9/5QHEDEEDCCCBBBBBBBAAAAAAAAAAAA.akfFCCBBBBBBBBAAAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://5933939542"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46203,8 +45992,7 @@
       "name": "Ice 1 SFX",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://632919727",
-       "waveform": "AACifbl/7kmdUmWibSPYgKFLGCBBDDBB.AAAJOQTddRJHGJFFFFEEGCBCBAAAAAAA"
+       "sound": "rbxassetid://632919727"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46222,8 +46010,7 @@
       "name": "Dashing Slice",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6893609123",
-       "waveform": "SjHo1/4XWMKHGECCBBBAAAAAAAAAAAAA.DGCHOUPJGEDDCBBBAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://6893609123"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46241,8 +46028,7 @@
       "name": "Sheathe / Unseathe",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://9119747260",
-       "waveform": "AAFS7+/oWJDCCBBBBAAAAAAAAAAAAAAA.AABFUZTMHDBBBBBBAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://9119747260"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46260,8 +46046,7 @@
       "name": "Slash Tempo",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4958427918",
-       "waveform": "ADLe0/vrZTPMJIFFDDDBBBBBBBAAAAAA.ABDJQYROJGGEDDBCBBBBBAAAAAAAAAAA"
+       "sound": "rbxassetid://4958427918"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46279,8 +46064,7 @@
       "name": "Sword Parry / Clash 1",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4953118406",
-       "waveform": "Hl//ukTQJGDCCCCCCCBBBBBBBBAAAAAA.CMZUOOJGECBBBBBBBBBBABBBAAAAAAAA"
+       "sound": "rbxassetid://4953118406"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46298,8 +46082,7 @@
       "name": "Sword Parry / Clash 2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4953118940",
-       "waveform": "CT2/uZXSOMJGFECCBBBBBAAAAAAAAAAA.AKOURKLIGFEDCCBBBAABAAAAAAAAAAAA"
+       "sound": "rbxassetid://4953118940"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46317,8 +46100,7 @@
       "name": "Sword Parry / Clash 3",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4953120125",
-       "waveform": "BGj7/zWNJHIHHGGGECDDDCCBAAAAAAAA.ABPYUQJEDDDEEEEDCCCCCBBAAAAAAAAA"
+       "sound": "rbxassetid://4953120125"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46336,8 +46118,7 @@
       "name": "Sword Parry / Clash 4",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4953120382",
-       "waveform": "ER///zZPMJGEDCCBBABBBAAAAAAAAAAA.BJSdVOJGFEDCBBBBAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://4953120382"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46355,8 +46136,7 @@
       "name": "Sword Parry / Clash 5",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4953120611",
-       "waveform": "ACO1/5iWSLKHFEEEDCBBBAAAAAAAAAAA.AAEQYRNIHFECCCCCBBAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://4953120611"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46374,8 +46154,7 @@
       "name": "Sword Spinning",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://7769030990",
-       "waveform": "Wn/dl6fjefhdslkgbnjcn2vlZmlciUKB.FNTKIPJLJILINKIKIKKJKMLKHLJJKGCA"
+       "sound": "rbxassetid://7769030990"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46393,8 +46172,7 @@
       "name": "Sword1",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://935843979",
-       "waveform": "AAACHlZ/u+norlfZhVlMddZbIHGGCAAA.AAAACOLbUcSQPWLPVMVHTSORGEEFBAAA"
+       "sound": "rbxassetid://935843979"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46412,8 +46190,7 @@
       "name": "Sword5",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://7545764969",
-       "waveform": "Vh/1OGCCBBBBAAAAAAAAAAAAAAAAAAAA.FKSOECBBAAAAAAAAAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://7545764969"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46431,8 +46208,7 @@
       "name": "Blade Swing 1",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4085939047",
-       "waveform": "EX2/pqeTOMHEDDCBBBBBAAAAAAAAAAAA.BHTXPNLHFECCBBBBAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://4085939047"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46450,8 +46226,7 @@
       "name": "Blade Swing 2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3755636152",
-       "waveform": "Cp/wpUMKIIFCCCCCBBBBAAAAAAAAAAAA.AJURLGEEEDBBBBBBAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://3755636152"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46469,8 +46244,7 @@
       "name": "Blade Swing 3",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3755635916",
-       "waveform": "r/vkbRLFFEDCCBBBAAAAAAAAAAAAAAAA.MUQMKGECCBBBBAAAAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://3755635916"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46488,8 +46262,7 @@
       "name": "Blade Swing 4",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3755635752",
-       "waveform": "S4/zZSPUMKJGEDCCBBBAAAAAAAAAAAAA.ETVQJHGHFEDCCBBBBAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://3755635752"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46507,8 +46280,7 @@
       "name": "Blade Swing 5",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4085938599",
-       "waveform": "L/vfTMIFCCBBAAAAAAAAAAAAAAAAAAAA.CTPIGEDCBBAAAAAAAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://4085938599"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46526,8 +46298,7 @@
       "name": "Blade Swing 6",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3755634930",
-       "waveform": "Dt/4iXSLIGGEDCCBBAAAAAAAAAAAAAAA.AHZTMIGEDDCCBBBAAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://3755634930"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46545,8 +46316,7 @@
       "name": "Blade Swing 7",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3755635374",
-       "waveform": "Rr/ynYVPKHGDDCBBBAAAAAAAAAAAAAAA.EQTROHFEDCCBBBAAAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://3755635374"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46564,8 +46334,7 @@
       "name": "Claw Swing",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6051772613",
-       "waveform": "M1/trhlohcbWVULKLGHDCCCBBBBBBAAA.CNVQQMMLMLKLJIEEFDCBBBBAAAAAAAAA"
+       "sound": "rbxassetid://6051772613"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46583,8 +46352,7 @@
       "name": "Dagger Swing",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://8759525785",
-       "waveform": "DRcv/wZSURLFDCBBBAAAAAAAAAAAAAAA.BFISYSJIJGECBBAAAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://8759525785"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46602,8 +46370,7 @@
       "name": "Fire Slash 2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://75422951",
-       "waveform": "EEGqfWTp+/vZSMKGFDFCBCDCBBCCDBBB.BBCORJHNSXRMGEDDCBBBBBBBBBBBBAAA"
+       "sound": "rbxassetid://75422951"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46621,8 +46388,7 @@
       "name": "Fist Swing",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://5835032207",
-       "waveform": "AADNTae+//////qvrniejfUPRLLKKHEA.AABFHOMXegtvwfTVSRPOPOJHGGHDEDBA"
+       "sound": "rbxassetid://5835032207"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46640,8 +46406,7 @@
       "name": "Fist Swing 2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://200632211",
-       "waveform": "HJams9x8/xloiRYMIJJIFIEDCBAAAAAA.DEKSRVaeecQPKHLFEEEEDECBBBAAAAAA"
+       "sound": "rbxassetid://200632211"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46659,8 +46424,7 @@
       "name": "General Swing",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://1428541279",
-       "waveform": "AAJj8/6/3tgRQILDDBCCBAAAAAAAAAAA.AADLbifhaSMIHEEBCBBBAAAAAAAAAAAA"
+       "sound": "rbxassetid://1428541279"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46678,8 +46442,7 @@
       "name": "Heavy Punch Swing",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://408866397",
-       "waveform": "+98+9/+98453z3whslgbbXQOLIFFDDBB.deglgihfcXVXXVSMPMJIIIFEEDCCBBAA"
+       "sound": "rbxassetid://408866397"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46697,8 +46460,7 @@
       "name": "Heavy Swing",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6706981173",
-       "waveform": "BIOPeYr/1mUPHEFDDDEEDDDBBAAAAAAA.ACFGKJQaVRHFDCCCBBCBBBBBBAAAAAAA"
+       "sound": "rbxassetid://6706981173"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46716,8 +46478,7 @@
       "name": "Heavy Swing 1",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4488231113",
-       "waveform": "AACDDGObmx8+u1/yldSLKGGCBBBAAAAA.AABBBDGLNRbfSZbZOOHEDDCBBAAAAAAA"
+       "sound": "rbxassetid://4488231113"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46735,8 +46496,7 @@
       "name": "Heavy Swing 2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4488231430",
-       "waveform": "AAABGVr7/79uiivoimngVMNKFDAAAAAA.AAAACLNTaVWSQOXRORRPLGHEDBAAAAAA"
+       "sound": "rbxassetid://4488231430"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46754,8 +46514,7 @@
       "name": "Heavy Swing 3",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4488231670",
-       "waveform": "AAAFLk177767+//kdaQMGFEDCBBBAAAA.AAACEOVWXaVZbUZQLJHGDDCBBAAAAAAA"
+       "sound": "rbxassetid://4488231670"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46773,8 +46532,7 @@
       "name": "Heavy Swing 4",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4488234722",
-       "waveform": "DLV568/9j789lZPJHGEEDDCCBBAAAAAA.BEHUSbYYQXYfQMHFDDCCCBBBBAAAAAAA"
+       "sound": "rbxassetid://4488234722"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46792,8 +46550,7 @@
       "name": "Heavy Sword Swing",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://8563136052",
-       "waveform": "HPj57+775/nz46upccQOWVLMTKHFHFDB.DGOWYcgcYjQWcWQUNKIHJIFFJDDCCCCA"
+       "sound": "rbxassetid://8563136052"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46811,8 +46568,7 @@
       "name": "Saber Swing",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://1398471768",
-       "waveform": "ADDLdiqzj4/0mk+qoaTRQKFDDEBBBAAA.AABDJMPONTXOLLRUZPKKJECBBBBAAAAA"
+       "sound": "rbxassetid://1398471768"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46830,8 +46586,7 @@
       "name": "Shoot 02",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://137881820395559",
-       "waveform": "Kmox2/1xy4upxtskbfaZURNLIGECBBAA.CMPTSUTQUUQRRTTMKPLLIGGFDDCBBAAA"
+       "sound": "rbxassetid://137881820395559"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46849,8 +46604,7 @@
       "name": "Teleport / Hit",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://5301078479",
-       "waveform": "Htu7z/30o8upnjjfeaXWTSOMOKDDBBAA.CKRWTTSSORONNLKKJIHHGGFEECBBAAAA"
+       "sound": "rbxassetid://5301078479"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46868,8 +46622,7 @@
       "name": "Teleport / Kick",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6969752955",
-       "waveform": "4//////+4331UznmgdbWPRQPNRTTRPRR.TlqnlmqpdfbbKWSMNKJIGGGFFHIIHHHE"
+       "sound": "rbxassetid://6969752955"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46887,8 +46640,7 @@
       "name": "Teleport / Swinging",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://8804198795",
-       "waveform": "Nyz/xgXWccGEEDDDCBAAAAAAAAAAAAAA.CQQROKIHIGCCBBBBBAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://8804198795"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46906,8 +46658,7 @@
       "name": "Fire 02",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://1538607239",
-       "waveform": "BGFLSOhpo/nXTPJQRNOJHJKKIJHFDBAA.ADDFIHNVUaSLHFDFIFGEDEFFEEEDBBAA"
+       "sound": "rbxassetid://1538607239"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46925,8 +46676,7 @@
       "name": "Fire 3",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3763467977",
-       "waveform": "LUu99///////////39/ugZWRPEDCBBBB.DHPTUZlmniledgdbWRSSIJIGFCBBBBAA"
+       "sound": "rbxassetid://3763467977"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46944,8 +46694,7 @@
       "name": "Fire 4",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3763470680",
-       "waveform": "dYeXbTTRndnUePiZd/chUZVVtiYYhczZ.FEFEFEFEFFFFFEEFFFEEEFEEFFEFFFFE"
+       "sound": "rbxassetid://3763470680"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46963,8 +46712,7 @@
       "name": "Fire Incinrate",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://8597296318",
-       "waveform": "HYx+u70t/thnohZiaeWchZONQVKMNKPN.CHUXUYUXcSPPOLKLKMJKMKGFGGEGFEEE"
+       "sound": "rbxassetid://8597296318"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -46982,8 +46730,7 @@
       "name": "Fire Pillar",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6952411082",
-       "waveform": "AKmq7/x1wjjfqidfaTROMOPLJHFEDDBA.ADLPYUVWTPONPNKOKHHFFFEDDDCBBBAA"
+       "sound": "rbxassetid://6952411082"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47001,8 +46748,7 @@
       "name": "Fire Up in flames",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://331888892",
-       "waveform": "+++/8+1+4qwx4ut03rrhkddVZUPQLLHC.cdeZZcbXXUVZaaVacaSPPPPJMJHJGEDB"
+       "sound": "rbxassetid://331888892"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47020,8 +46766,7 @@
       "name": "Freeze",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://199146069",
-       "waveform": "L/pm5NKPMGXGJCBDBBBBBABAAAAAAAAA.CJHGICDCCBDBBBBAAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://199146069"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47039,8 +46784,7 @@
       "name": "Ice Cuts",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3518139865",
-       "waveform": "Xtx0wtu6001/zlqfLFFGFEDDCCAAAAAA.LNRQNNOQSRRSPMLIDCCBBBBBBAAAAAAA"
+       "sound": "rbxassetid://3518139865"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47058,8 +46802,7 @@
       "name": "Ice Shatter",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6381167064",
-       "waveform": "sRxz/6x756kfXPTOFFFEDIDDCCBBBBAA.MFOUWRPURRKJGDDDCBBCBBBBBBBAAAAA"
+       "sound": "rbxassetid://6381167064"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47077,8 +46820,7 @@
       "name": "Ice magic",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3750959107",
-       "waveform": "689/689865zsz7dSKHGEECCBBBAAAAAA.PehdfhbZbSWRQSMFDDDCCBBAAAAAAAAA"
+       "sound": "rbxassetid://3750959107"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47096,8 +46838,7 @@
       "name": "1",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4086012327",
-       "waveform": "W67/5YcelskdfYeRLKJIGHHCCBBBAAAA.EUcaQJKLNOLKKKIGDEEDCDCBBBBAAAAA"
+       "sound": "rbxassetid://4086012327"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47115,8 +46856,7 @@
       "name": "Lightning Charge Release",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3929458420",
-       "waveform": "BDGI0/tzwoaWXPNIFECDCBBBBBAAAAAA.ABCCMZPRTNKIIGFCCCBBBBAAAAAAAAAA"
+       "sound": "rbxassetid://3929458420"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47134,8 +46874,7 @@
       "name": "Lightning Clash",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4299587602",
-       "waveform": "/897232286xpvuirbeTUiTLGDBBBAAAA.bXZXaaXYVWVPTUNSLKGJMIFDCBAAAAAA"
+       "sound": "rbxassetid://4299587602"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47153,8 +46892,7 @@
       "name": "Lightning Dash",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://2964899181",
-       "waveform": "Zr0/034ut9vusoqeeaXaWPKMGDCCBBAA.FNRTUSUQQPRPOLMKLJIIHEDDCBBBAAAA"
+       "sound": "rbxassetid://2964899181"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47172,8 +46910,7 @@
       "name": "Lightning Hit 2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4299511359",
-       "waveform": "dzv3vx/uxmqcjgYWSSJOIEFCCBBAAAAA.HPRTRUWRPMOKKNJHHHEFDCCBBAAAAAAA"
+       "sound": "rbxassetid://4299511359"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47191,8 +46928,7 @@
       "name": "Lightning Magic",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://9116282409",
-       "waveform": "AFadniim3/cVNIGHFEDDDBBBBAAAAAAA.ABGKKKJNQOIGDCCCBBBBBAAAAAAAAAAA"
+       "sound": "rbxassetid://9116282409"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47210,8 +46946,7 @@
       "name": "Lightning Wind",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6497101230",
-       "waveform": "Xie03+/+2xy05qushjmpllkaicVRPLEB.ELKQTVUTTQQRQNOPLKMLKMKIKJHGGDBA"
+       "sound": "rbxassetid://6497101230"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47229,8 +46964,7 @@
       "name": "Lightning hit Shore",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://5120875152",
-       "waveform": "+/66697+4wvmgbXSVMOIJGIHHEDCBBBA.VdaYXYXVSPQMLIHFGFEDDDCCCCBBBAAA"
+       "sound": "rbxassetid://5120875152"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47248,8 +46982,7 @@
       "name": "Water Casting Charge",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://5033484993",
-       "waveform": "/w0stnhjaUPMMKHGEECBBBAAAAAAAAAA.XPTQQOKKKHHFFEDDBCBBAAAAAAAAAAAA"
+       "sound": "rbxassetid://5033484993"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47267,8 +47000,7 @@
       "name": "Water Charge",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3744392667",
-       "waveform": "ABFGKQUiYUYt8/2zikVJHFCBBAAAAAAA.AABCCEIJHHHLSUSRKKGDCBBAAAAAAAAA"
+       "sound": "rbxassetid://3744392667"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47286,8 +47018,7 @@
       "name": "Water Concentrate",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3744393124",
-       "waveform": "ENafpkx7/7xzqmdWUQOJHGEECBBAAAAA.BDHKLMOWXUQPNLJHGFEDCCBBBAAAAAAA"
+       "sound": "rbxassetid://3744393124"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47305,8 +47036,7 @@
       "name": "Water Dive",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://137304720",
-       "waveform": "P/QPdUNOOQWcXUMJIFEDDCBCBBBBBAAA.CMEEHGEEEEHHHFDDDBBBBAAAAAAAAAAA"
+       "sound": "rbxassetid://137304720"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47324,8 +47054,7 @@
       "name": "Water Drain",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4085858384",
-       "waveform": "ltscWmksusfOTjqp13/SSWYuj0kxWeYW.MQMIGLNRQOHEGLPOSVPHGHJRNRQQHIJI"
+       "sound": "rbxassetid://4085858384"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47343,8 +47072,7 @@
       "name": "Water Hit",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3750961471",
-       "waveform": "3wel/ywdeZVYTOLJJIFECBBBAAAAAAAA.KPJKbVPKJIHHGEDDCCCBBAAAAAAAAAAA"
+       "sound": "rbxassetid://3750961471"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47362,8 +47090,7 @@
       "name": "Water Impact",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3750961248",
-       "waveform": "//9Xbmsr7dsnfeSPMKIFGEDCCBBAAAAA.PPPIKLMOSKQNLKHFEDDCCBBBBAAAAAAA"
+       "sound": "rbxassetid://3750961248"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47381,8 +47108,7 @@
       "name": "Water Wave Impact",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://9120611160",
-       "waveform": "t555733/8oolXTMKFGEDDCCBBBBAAAAA.JRTSRQQRROMKIGEDCCBBBBBAAAAAAAAA"
+       "sound": "rbxassetid://9120611160"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47400,8 +47126,7 @@
       "name": "Wind Boomerang",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6006851551",
-       "waveform": "Jcdn/y34sdxfwjaaWQYVRTSONKMFECBA.CILQXRPYQMOMQLJKJGIHGIHGEEECBBAA"
+       "sound": "rbxassetid://6006851551"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47419,8 +47144,7 @@
       "name": "Wind Orb Activate",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4580495407",
-       "waveform": "CTVXRamc0t/scni4lktfYTTOPQRKLHEF.BGIJHNOMWVbPNNNUQPPLHHHGGFGDEDCC"
+       "sound": "rbxassetid://4580495407"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47438,8 +47162,7 @@
       "name": "Wind Swoosh2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://138985470940122",
-       "waveform": "/35xiSOROMLKKGJGHGGEDECDCCBBBBBA.UZaaOGFFFEEFECDCCDCBBBBBBBAAAAAA"
+       "sound": "rbxassetid://138985470940122"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47457,8 +47180,7 @@
       "name": "Wind Tornado",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6289440018",
-       "waveform": "KUWcfmu5/6yyvtpljZYinXbabaYUPPMI.DFGJKMMPPRQQPONLLIILJHIIIIHGFEEC"
+       "sound": "rbxassetid://6289440018"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47476,8 +47198,7 @@
       "name": "Wind Whirl",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://8520504070",
-       "waveform": "AKglwt/9ox3yvs60uhkpogYeUPOJGEED.ADKOSQVZOUbQVPTTUOORPLLLIHEECBBB"
+       "sound": "rbxassetid://8520504070"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47495,8 +47216,7 @@
       "name": "Wind Woosh 1 (bullet)",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3809085650",
-       "waveform": "L3/vcltx1uYUUPNNMIHHGFFEEDCCCBBB.ELTPKNQSSQJIHGFEEDDDDDDCCBBBBBAA"
+       "sound": "rbxassetid://3809085650"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47514,8 +47234,7 @@
       "name": "Wind Woosh 2 (bullet)",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3809085250",
-       "waveform": "HNXp/yj+stVWKNJKWTIGFFDDDCCCCBBB.CGKRZWPYTPJHEEDEJHDCCCBBBBBBBBAA"
+       "sound": "rbxassetid://3809085250"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47533,8 +47252,7 @@
       "name": "Wind Woosh 3 (bullet)",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3809084884",
-       "waveform": "DJMNSYp04/mWRYRMIIGHGFGEEDEDDCCC.BCEFGJMUTURIHJHEDDCCCCCCCBCBBBBB"
+       "sound": "rbxassetid://3809084884"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47552,8 +47270,7 @@
       "name": "Wind hit",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://140728595235867",
-       "waveform": "CMy///////3r/rWPLGEDCBBBAAAAAAAA.AEPckipghjUQZNIEDBBBAAAAAAAAAAAA"
+       "sound": "rbxassetid://140728595235867"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47571,8 +47288,7 @@
       "name": "wind Sound",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://134236578893022",
-       "waveform": "AIOm/81wncdrwyqdaecVYUTOLMLKIGCA.ABEJPRQNKJILONLJIIHGFFFEDDDDCBAA"
+       "sound": "rbxassetid://134236578893022"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47590,8 +47306,7 @@
       "name": "Break Beat",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://5933939295",
-       "waveform": "/81YUXNGFECDCCBCBBBBABAAAAAAAAAA.XaYLHJDCBBBBBBAAAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://5933939295"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47609,8 +47324,7 @@
       "name": "Cash",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://131886985",
-       "waveform": "MMh/whnYWTUQOMQmXVXiYNHFIHGEDCCB.DEIUPJOJHIHHGFHOJIIMIEDCDDCCBBBB"
+       "sound": "rbxassetid://131886985"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47628,8 +47342,7 @@
       "name": "Clap",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://9114758344",
-       "waveform": "//XLIIDCCBBAAAAAAAAAAAAAAAAAAAAA.hTJFDCBBBAAAAAAAAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://9114758344"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47647,8 +47360,7 @@
       "name": "ClockTick",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4556286113",
-       "waveform": "AA+/HCBBBBCBAAAAAAACAAAAAAADAAAA.AAOOCBAAAAAAAAAAAAAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://4556286113"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47666,8 +47378,7 @@
       "name": "Confetti",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4621548161",
-       "waveform": "AAAAAAAAAepmcHDDq/65IDCBBBAAAAAA.AAAAAAAAAGVSLCBBMcZRDBBBAAAAAAAA"
+       "sound": "rbxassetid://4621548161"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47685,8 +47396,7 @@
       "name": "Dash",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3929467229",
-       "waveform": "AFHIar/7dWxZgSxUZWiQhfNKJGEEDCBA.ABDDIOVXNJMIJHLGLIJFKKFEDCBBBBAA"
+       "sound": "rbxassetid://3929467229"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47704,8 +47414,7 @@
       "name": "Drink",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3583411622",
-       "waveform": "ACCBjN4//SFXQ8eVTOOLIobRGDTDKMEA.ABCBKDLWcFCEDRHFGDEDCJIDCBEBCCBA"
+       "sound": "rbxassetid://3583411622"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47723,8 +47432,7 @@
       "name": "Eat",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4511723890",
-       "waveform": "ACEFGuiYlVJiX/KFHYGJSekhWWJErDAA.ABBCCOLHJHDLJQDCDHCEGJJKHFCBHBAA"
+       "sound": "rbxassetid://4511723890"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47742,8 +47450,7 @@
       "name": "Appear",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3932669033",
-       "waveform": "FLWcilos1x9/6rskjYYOOIGEECBBAAAA.CEHJLMNQPRTUSQNMKHHFEDCBBBAAAAAA"
+       "sound": "rbxassetid://3932669033"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47761,8 +47468,7 @@
       "name": "Horror",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4086220550",
-       "waveform": "cp/89rnfbWPQRXNJKJLJJHGGEDDBBAAA.HNTTSPNKIHFFHJEDDDEDDCCCBBBAAAAA"
+       "sound": "rbxassetid://4086220550"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47780,8 +47486,7 @@
       "name": "Notification",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4299511784",
-       "waveform": "DUos//bZeeejdYWSSPKGECCBAAAAAAAA.BHMOZZKJMKKKJIIGGEDCBBBAAAAAAAAA"
+       "sound": "rbxassetid://4299511784"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47799,8 +47504,7 @@
       "name": "Ravage",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://4299625529",
-       "waveform": "Ugu7z474z/274wlwptmilmaVRUOKFCAA.GLOTRQRRRRTTTPNMMKOKKKHGFFEDCBAA"
+       "sound": "rbxassetid://4299625529"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47818,8 +47522,7 @@
       "name": "Summoning Beat",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://7060389277",
-       "waveform": "Ftveelmphjr/rjgqmljZggcbaaVTOGEC.BIONMQORPSTbWQQZacdNOXSRNSPNKDCA"
+       "sound": "rbxassetid://7060389277"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47837,8 +47540,7 @@
       "name": "Crow Yell",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3465873748",
-       "waveform": "AAAAAAAAAAAAAAAApxnlv0/w0jnQDCBA.AAAAAAAAAAAAAAAAJPNOSSXXUPNFBAAA"
+       "sound": "rbxassetid://3465873748"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47856,8 +47558,7 @@
       "name": "Dragon Roar",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://5727297364",
-       "waveform": "BO/997+88mcbhquwZdrkcifUJEDEDBBB.AEWYadbZTOJLPWYaNMSMMPLJECBCBBAA"
+       "sound": "rbxassetid://5727297364"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47875,8 +47576,7 @@
       "name": "Lion Roar",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://9116294355",
-       "waveform": "AAAADe47wz1/sjdNQJFDBBAAAAAAAAAA.AAAAAIaYUWVSTPJFFECBBAAAAAAAAAAA"
+       "sound": "rbxassetid://9116294355"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47894,8 +47594,7 @@
       "name": "Wolves Howl",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://357647862",
-       "waveform": "AA/5qbYZccZWcfgdYYNOMNKJPKIHIDCB.AAbYQMKKNNLKMOPNLJGHEFEEGFDDDCBA"
+       "sound": "rbxassetid://357647862"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47913,8 +47612,7 @@
       "name": "HAHAHAHAHAHA",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6943797850",
-       "waveform": "i2+3/15m7x5m4y5106y5G3G4k3u52BAA.GSVSYQSLQJQIOJNKKMFQCQCQEOEOJAAA"
+       "sound": "rbxassetid://6943797850"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47932,8 +47630,7 @@
       "name": "JBA   Bow Down to my power",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6310134992",
-       "waveform": "Ilrx1nDHGldHh0yrokollc/mpyztoqaA.CNQOPLBCBPECGRQQPJONGIRHHSUSMOFA"
+       "sound": "rbxassetid://6310134992"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47951,8 +47648,7 @@
       "name": "JBA   Taunt",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6943346557",
-       "waveform": "3224y520i333y7P2/w4U24v24z301LAA.NWTXLQYTIRTUPQDPXRODTVHRQPTLKBAA"
+       "sound": "rbxassetid://6943346557"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47970,8 +47666,7 @@
       "name": "JBA   Taunt2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6943347162",
-       "waveform": "n2/pKx224xGd146y1Kz661x34d342VBB.GTbGDQSOVMCGTYVLQCQWTUWWRIPVSEAA"
+       "sound": "rbxassetid://6943347162"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -47989,8 +47684,7 @@
       "name": "JBA   Taunt3",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6943346932",
-       "waveform": "38969+7V74/F18me/s6Mz8JnNx768tlM.LWUTVUQEUSTBJWGDRJOCOSCKCJSTQSMC"
+       "sound": "rbxassetid://6943346932"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -48008,8 +47702,7 @@
       "name": "JBA   This is the world",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://7098547035",
-       "waveform": "M4868smlaMBAp28++/9+jYhRaaDAAAAA.BOVUSOLKIDAAMLWWVVWRJFJFHJBAAAAA"
+       "sound": "rbxassetid://7098547035"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -48027,8 +47720,7 @@
       "name": "You're an eyesore",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://7117631162",
-       "waveform": "AHKPhpu1wU1+/37wnQFLIFCDBAAAAAAA.ADFGJORUPHQbYXYRLDBDDBBBAAAAAAAA"
+       "sound": "rbxassetid://7117631162"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -48046,8 +47738,7 @@
       "name": "You've got no discipline",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://7117632452",
-       "waveform": "AAHLEDEKe/26yaxsAHiillZLNHDDBBAA.AABDBBBCHSPTPKOIABJKKJFDECBBAAAA"
+       "sound": "rbxassetid://7117632452"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -48065,8 +47756,7 @@
       "name": "BreathOff",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://5297497050",
-       "waveform": "BESnv/2jaXTNKKHGGGEEDCCBBAAAAAAA.ABFLPRPLJHFEEDCCCCBBBBBAAAAAAAAA"
+       "sound": "rbxassetid://5297497050"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -48084,8 +47774,7 @@
       "name": "BreathOn",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://5297498542",
-       "waveform": "ACIMacfrunp84625u/q73+9wzWPEBAAA.ABCFIKMNUOQTVXWRSXRVVTWQOIEBAAAA"
+       "sound": "rbxassetid://5297498542"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -48103,8 +47792,7 @@
       "name": "Grr... GRAAAAGH",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://6706982698",
-       "waveform": "ABDn///yuoqojihWTMFDBBAAAAAAAAAA.AABLknZWWUTUQQNLIECBAAAAAAAAAAAA"
+       "sound": "rbxassetid://6706982698"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -48122,8 +47810,7 @@
       "name": "NRAAAAAAGH",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://7459025368",
-       "waveform": "du465623032220847728+0/3513vpdIA.JVaZWSUVUUVUWUVaYVTVXSURTSSPNGBA"
+       "sound": "rbxassetid://7459025368"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -48141,8 +47828,7 @@
       "name": "RAAAAAAGH",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://7459022839",
-       "waveform": "Vs458z1xy1210z11651+271/4z0xweFA.FWXYXaaWXXZaYZZZZZWWWVVVVTUUSHBA"
+       "sound": "rbxassetid://7459022839"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -48160,8 +47846,7 @@
       "name": "Demonic Scream",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://3041462242",
-       "waveform": "9//2765563504y0ssrjjcZUQPLIGAAAA.chcYcadZWXWWXTSQPPNMLKIHFDDBAAAA"
+       "sound": "rbxassetid://3041462242"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -48179,8 +47864,7 @@
       "name": "Vampire Echo",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://2666357215",
-       "waveform": "EWt+2/+/4//+99/////96pZOLLMNQKIB.BFNVTWZUTXXUUVXZYWVSSNIFEEEFHECA"
+       "sound": "rbxassetid://2666357215"
       },
       "description": "Sound from the open-source RBXM file posted by @phuvinh9551 in RoVFX",
       "source": {
@@ -48198,8 +47882,7 @@
       "name": "TriggerSound",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://116681718184334",
-       "waveform": "A/xaaMJIKIMMIKHHGFIHGFFHFFFFECBA.ATPLHFDDDDEEDDDCCCDCCCCCCCCCCBAA"
+       "sound": "rbxassetid://116681718184334"
       },
       "description": "Sound from the open-source RBXM file posted by @babygoataxel in RoVFX",
       "source": {
@@ -48217,8 +47900,7 @@
       "name": "Quack1",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://24111685",
-       "waveform": "BJKCBBJLCBBKUEBBOQCe/2qxg3bGCCBB.ACDBBABDBBACHCBBEEBIaeZWOYICBAAA"
+       "sound": "rbxassetid://24111685"
       },
       "description": "Sound from the open-source RBXM file posted by @vrxq in RoVFX",
       "source": {
@@ -48236,8 +47918,7 @@
       "name": "Quack2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://24111782",
-       "waveform": "EbHguE6ZEL0IGxHIFmSE9RHvOp4O/pGE.BGCFHBNEBCKCDMCDCJECOECNEHRDSICB"
+       "sound": "rbxassetid://24111782"
       },
       "description": "Sound from the open-source RBXM file posted by @vrxq in RoVFX",
       "source": {
@@ -48255,8 +47936,7 @@
       "name": "Quack3",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://24111798",
-       "waveform": "BBLBJTDKZDCRXCCVRCCVS9/514eDYSCC.BADBBGBBJBBDGBBGEBBGDXcfhjHBHEBA"
+       "sound": "rbxassetid://24111798"
       },
       "description": "Sound from the open-source RBXM file posted by @vrxq in RoVFX",
       "source": {
@@ -48274,8 +47954,7 @@
       "name": "Quack4",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://24111823",
-       "waveform": "CECCCCOKCCCOLEj/13tphgmkKFCCCCDC.ABBBBBFDBBBEEBJZZXVVSRSNDCBBBBBB"
+       "sound": "rbxassetid://24111823"
       },
       "description": "Sound from the open-source RBXM file posted by @vrxq in RoVFX",
       "source": {
@@ -48293,8 +47972,7 @@
       "name": "Jump",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://9114890978",
-       "waveform": "BDIMYfqx+/5w/+4HJHFDCBBBAAAAAAAA.BCEGIMTUbaZWjdNCDCCBBAAAAAAAAAAA"
+       "sound": "rbxassetid://9114890978"
       },
       "description": "Sound from the open-source RBXM file posted by @tor1n3 in RoVFX",
       "source": {
@@ -48312,8 +47990,7 @@
       "name": "Slam",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://8588542238",
-       "waveform": "/1xkZLMLLKIJIFFFEDCCCBBBBBAAAAAA.ZVSPHEFEDDDDDCCCCBBBBBAAAAAAAAAA"
+       "sound": "rbxassetid://8588542238"
       },
       "description": "Sound from the open-source RBXM file posted by @tor1n3 in RoVFX",
       "source": {
@@ -48331,8 +48008,7 @@
       "name": "clonesfx",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://147722165",
-       "waveform": "//9///////974xvylvnxiijdlehhfZfB.gfjjieebfeYVUSSTORPPOMMLNMLKLJKA"
+       "sound": "rbxassetid://147722165"
       },
       "description": "Sound from the open-source RBXM file posted by @tor1n3 in RoVFX",
       "source": {
@@ -48350,8 +48026,7 @@
       "name": "1 02",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://9116903486",
-       "waveform": "BBCDGOajn3/YKJEDCBCBBAAAAAAAAAAA.AABBCHNNVggMGECBBBAAAAAAAAAAAAAA"
+       "sound": "rbxassetid://9116903486"
       },
       "description": "Sound from the open-source RBXM file posted by @tor1n3 in RoVFX",
       "source": {
@@ -48369,8 +48044,7 @@
       "name": "2",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://9116904355",
-       "waveform": "BEKNgXo/sylLSSLFHCCCBBBBAAAAAAAA.ACFGOLPcVXRFJKFDDBBBBBAAAAAAAAAA"
+       "sound": "rbxassetid://9116904355"
       },
       "description": "Sound from the open-source RBXM file posted by @tor1n3 in RoVFX",
       "source": {
@@ -48388,8 +48062,7 @@
       "name": "5",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://9116904875",
-       "waveform": "AAABCHVu/lQOHGIEDCCBBBAAAAAAAAAA.AAABBEIYkOIHDDECBBBAAAAAAAAAAAAA"
+       "sound": "rbxassetid://9116904875"
       },
       "description": "Sound from the open-source RBXM file posted by @tor1n3 in RoVFX",
       "source": {
@@ -48407,8 +48080,7 @@
       "name": "2 02",
       "type": "sound",
       "sound": {
-       "sound": "rbxassetid://8971633315",
-       "waveform": "FGMl/2kWMKHIGFGFFGFAAAAAAAAAAAAA.CCDJYROHEDDDCCCCCCCAAAAAAAAAAAAA"
+       "sound": "rbxassetid://8971633315"
       },
       "description": "Sound from the open-source RBXM file posted by @tor1n3 in RoVFX",
       "source": {
