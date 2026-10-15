@@ -1,0 +1,42 @@
+{
+ "format": "forge-manifest",
+ "formatVersion": 1,
+ "packs": [
+  {
+   "id": "rovfx/textures",
+   "name": "RoVFX Community",
+   "authors": [],
+   "url": "rovfx_textures.pack.json",
+   "assetCount": 2117
+  },
+  {
+   "id": "saythrt/mega-pack",
+   "name": "Saythrt Mega Pack",
+   "authors": [
+    "saythrt"
+   ],
+   "url": "saythrt_mega_pack.pack.json",
+   "assetCount": 6219
+  },
+  {
+   "id": "fir/textures",
+   "name": "Fir's Texture Pack",
+   "authors": [
+    "fir"
+   ],
+   "url": "firs_texture_pack.pack.json",
+   "assetCount": 289
+  },
+  {
+   "id": "ghost/meshkit",
+   "name": "Ghost's Meshkit",
+   "authors": [
+    "Ghost",
+    "Shiver",
+    "1Tent"
+   ],
+   "url": "ghost_meshkit.pack.json",
+   "assetCount": 587
+  }
+ ]
+}

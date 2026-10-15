@@ -1,0 +1,3147 @@
+{
+ "format": "forge",
+ "formatVersion": 1,
+ "id": "fir",
+ "name": "Fir's Texture Pack",
+ "version": "3.0.1",
+ "description": "mostly just a collection of random stuff ive found over my vfx career that i can actually post here now",
+ "authors": [
+  "fir"
+ ],
+ "license": {
+  "spdx": "CC-BY-4.0",
+  "url": "https://creativecommons.org/licenses/by/4.0/",
+  "scope": "pack",
+  "notice": "This license covers the pack file itself: the selection and arrangement of assets, their names, descriptions and source records. Reuse, modification or extraction of this data requires attribution to VFX Forge. The assets the pack references are not covered; see assetLicense."
+ },
+ "assetLicense": {
+  "name": "Starlight pack terms",
+  "url": "https://github.com/MrrowLabs/starlight-megarepo",
+  "notice": "Each asset is published by its Starlight pack's author under that pack's own terms."
+ },
+ "root": {
+  "assets": [],
+  "folders": [
+   {
+    "name": "Textures",
+    "assets": [],
+    "folders": [
+     {
+      "name": "Rings",
+      "assets": [
+       {
+        "name": "Swirl Ring 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://13189668031",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 512
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Noise Ring 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://12656891076",
+         "layout": "8x8",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Faint Ring 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://78389631181227"
+        }
+       },
+       {
+        "name": "Smoke Ring 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://13189666095",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 512
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Energy Ring 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://74212672665535"
+        }
+       },
+       {
+        "name": "Ring Fragment 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://130190999672824"
+        }
+       },
+       {
+        "name": "Smoke Ring 02",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://16924714763",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Text Ring 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://136177840465887"
+        }
+       },
+       {
+        "name": "Energy Ring 02",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://17000892071",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Energy Ring 03",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://71480638310656"
+        }
+       },
+       {
+        "name": "Energy Ring 04",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://90802513972466"
+        }
+       },
+       {
+        "name": "Energy Ring 05",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://9281305957"
+        }
+       },
+       {
+        "name": "Energy Ring 06",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://136578779995479"
+        }
+       },
+       {
+        "name": "Energy Ring 07",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://93092322979712"
+        }
+       },
+       {
+        "name": "Energy Ring 08",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://12104767407"
+        }
+       },
+       {
+        "name": "Energy Ring 09",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://110643841616326"
+        }
+       },
+       {
+        "name": "Energy Ring 10",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://85493037244981"
+        }
+       },
+       {
+        "name": "Energy Ring 11",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://14242086017"
+        }
+       },
+       {
+        "name": "Energy Ring 12",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://92352766971673"
+        }
+       },
+       {
+        "name": "Energy Ring 13",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://13388206804"
+        }
+       },
+       {
+        "name": "Energy Ring 14",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://99032232313539"
+        }
+       },
+       {
+        "name": "Energy Ring 15",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://116521934290468"
+        }
+       },
+       {
+        "name": "Energy Ring 16",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://81568543378972"
+        }
+       },
+       {
+        "name": "Energy Ring 17",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://80133514801282"
+        }
+       },
+       {
+        "name": "Energy Ring 18",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://15605294381"
+        }
+       },
+       {
+        "name": "Energy Ring 19",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://131090191010127"
+        }
+       },
+       {
+        "name": "Energy Ring 20",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://126387258280087"
+        }
+       },
+       {
+        "name": "Energy Ring 21",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://96314805507560"
+        }
+       },
+       {
+        "name": "Energy Ring 22",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://12318428842"
+        }
+       },
+       {
+        "name": "Energy Ring 23",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://86170268077110"
+        }
+       },
+       {
+        "name": "Energy Ring 24",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://6250126210"
+        }
+       },
+       {
+        "name": "Energy Ring 25",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://89354321776032"
+        }
+       },
+       {
+        "name": "Energy Ring 26",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://17612139917",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Smoke Ring 03",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://109337770807607"
+        }
+       },
+       {
+        "name": "Energy Ring 27",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://124167802896759",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Vortex Ring 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://13712006924"
+        }
+       },
+       {
+        "name": "Electric Ring 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://82257941699922"
+        }
+       },
+       {
+        "name": "Sparkle Ring 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://125519451389510"
+        }
+       },
+       {
+        "name": "Strand Ring 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://73348703338960",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Ring Arc 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://14006234837",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Ring Arc 02",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://13556736725"
+        }
+       },
+       {
+        "name": "Ring Arc 03",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://115307845727116"
+        }
+       },
+       {
+        "name": "Ring Arc 04",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://14677076652"
+        }
+       },
+       {
+        "name": "Ring Arc 05",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://92200863412578"
+        }
+       },
+       {
+        "name": "Ring Arc 06",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://10558425570"
+        }
+       },
+       {
+        "name": "Ring Arc 07",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://12506449597"
+        }
+       },
+       {
+        "name": "Ring Arc 08",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://86357914756259"
+        }
+       },
+       {
+        "name": "Ring Arc 09",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://92746375782714"
+        }
+       },
+       {
+        "name": "Ring Arc 10",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://102647564381538"
+        }
+       },
+       {
+        "name": "Ring Arc 11",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://78444095127079"
+        }
+       },
+       {
+        "name": "Ring Arc 12",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://112608826880149"
+        }
+       },
+       {
+        "name": "Ring Arc 13",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://16924973213"
+        }
+       },
+       {
+        "name": "Ring Arc 14",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://8315490497"
+        }
+       },
+       {
+        "name": "Ring Arc 15",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://116744116779136"
+        }
+       },
+       {
+        "name": "Ring Arc 16",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://13463779259"
+        }
+       },
+       {
+        "name": "Ring Arc 17",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://125878746149620"
+        }
+       },
+       {
+        "name": "Ring Arc 18",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://127531801136926"
+        }
+       },
+       {
+        "name": "Shockwave Ring 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://14057043166",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Circle Ring 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://12221912380",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Ring Arc 19",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://14471362207",
+         "layout": "8x8",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       }
+      ],
+      "folders": [],
+      "group": "Rings and Bursts"
+     },
+     {
+      "name": "Radial Bursts",
+      "assets": [
+       {
+        "name": "Radial Burst 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://9432628250"
+        }
+       },
+       {
+        "name": "Radial Burst 02",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://13712007548"
+        }
+       },
+       {
+        "name": "Radial Burst 03",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://15813093422"
+        }
+       },
+       {
+        "name": "Radial Burst 04",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://12386396405"
+        }
+       },
+       {
+        "name": "Radial Burst 05",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://126495111342009"
+        }
+       },
+       {
+        "name": "Radial Burst 06",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://98161445784635",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Radial Burst 07",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://14163269969"
+        }
+       },
+       {
+        "name": "Radial Burst 08",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://15846423599"
+        }
+       },
+       {
+        "name": "Radial Burst 09",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://82619312930225",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Radial Burst 10",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://15813089897"
+        }
+       },
+       {
+        "name": "Radial Burst 11",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://12402852980"
+        }
+       },
+       {
+        "name": "Radial Burst 12",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://137516575283030"
+        }
+       },
+       {
+        "name": "Radial Burst 13",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://111085977048658"
+        }
+       },
+       {
+        "name": "Radial Burst 14",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://12402865750"
+        }
+       },
+       {
+        "name": "Radial Burst 15",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://94642739767941"
+        }
+       },
+       {
+        "name": "Radial Burst 16",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://95241670499462",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Radial Burst 17",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://102697831417964"
+        }
+       },
+       {
+        "name": "Radial Burst 18",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://96991327507823"
+        }
+       },
+       {
+        "name": "Radial Burst 19",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://129644157697666"
+        }
+       },
+       {
+        "name": "Radial Burst 20",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://13712002536",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Radial Burst 21",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://10198434999",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Radial Burst 22",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://13992066650",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Radial Burst 23",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://138424266296876",
+         "layout": "8x8",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Radial Burst 24",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://13582043821",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Radial Burst 25",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://14050424199"
+        }
+       },
+       {
+        "name": "Radial Burst 26",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://12402901395"
+        }
+       },
+       {
+        "name": "Faint Burst 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://114702699122229"
+        }
+       },
+       {
+        "name": "Wisp Ring 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://108799905654350",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Glitch Burst 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://105651611130257",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Glitch Burst 02",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://84973521297575",
+         "layout": "8x8",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Petal Burst 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://113148223461660",
+         "layout": "8x8",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       }
+      ],
+      "folders": [],
+      "group": "Rings and Bursts"
+     },
+     {
+      "name": "Smoke Wisps",
+      "assets": [
+       {
+        "name": "Smoke Wisp 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://14256874133"
+        }
+       },
+       {
+        "name": "Smoke Wisp 02",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://18339394856"
+        }
+       },
+       {
+        "name": "Smoke Wisp 03",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://85494766386419"
+        }
+       },
+       {
+        "name": "Smoke Wisp 04",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://11163755167",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Smoke Wisp 05",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://13712000835",
+         "layout": "8x8",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Smoke Wisp 06",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://14050078974"
+        }
+       },
+       {
+        "name": "Smoke Wisp 07",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://13414392494",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Smoke Wisp 08",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://15398191874",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Smoke Puff 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://11989899750",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 512
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Smoke Wisp 09",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://97405341505834",
+         "layout": "8x8",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Smoke Burst 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://132447570393697"
+        }
+       },
+       {
+        "name": "Smoke Swirl 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://128368344888477"
+        }
+       },
+       {
+        "name": "Wisp Cluster 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://12656891791",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Smoke Wisp 10",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://8315468674"
+        }
+       },
+       {
+        "name": "Smoke Wisp 11",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://14029063178"
+        }
+       },
+       {
+        "name": "Smoke Wisp 12",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://8315479061"
+        }
+       },
+       {
+        "name": "Smoke Wisp 13",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://8315471743"
+        }
+       },
+       {
+        "name": "Smoke Wisp 14",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://8315480582"
+        }
+       },
+       {
+        "name": "Smoke Wisp 15",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://8965648552"
+        }
+       },
+       {
+        "name": "Smoke Wisp 16",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://8890671325"
+        }
+       },
+       {
+        "name": "Smoke Wisp 17",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://115754318758387"
+        }
+       },
+       {
+        "name": "Smoke Wisp 18",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://136213123959631"
+        }
+       },
+       {
+        "name": "Smoke Wisp 19",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://120372895725158"
+        }
+       },
+       {
+        "name": "Smoke Wisp 20",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://90367548159392",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Smoke Wisp 21",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://14633984190"
+        }
+       },
+       {
+        "name": "Smoke Wisp 22",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://134254043650523",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Smoke Wisp 23",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://115339349238918"
+        }
+       },
+       {
+        "name": "Smoke Wisp 24",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://13934610516",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Smoke Wisp 25",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://120741165655817"
+        }
+       },
+       {
+        "name": "Smoke Wisp 26",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://8890668553"
+        }
+       },
+       {
+        "name": "Smoke Wisp 27",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://8890673700"
+        }
+       },
+       {
+        "name": "Smoke Wisp 28",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://86583175913235"
+        }
+       },
+       {
+        "name": "Smoke Wisp 29",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://77458898203965"
+        }
+       },
+       {
+        "name": "Smoke Wisp 30",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://83976584090740"
+        }
+       },
+       {
+        "name": "Smoke Wisp 31",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://70578240338636"
+        }
+       },
+       {
+        "name": "Smoke Wisp 32",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://78702919643469"
+        }
+       },
+       {
+        "name": "Smoke Wisp 33",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://13703813488"
+        }
+       },
+       {
+        "name": "Smoke Wisp 34",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://8315483629"
+        }
+       },
+       {
+        "name": "Smoke Wisp 35",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://14248245925"
+        }
+       },
+       {
+        "name": "Smoke Wisp 36",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://8315484579"
+        }
+       },
+       {
+        "name": "Smoke Wisp 37",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://12251461261"
+        }
+       },
+       {
+        "name": "Smoke Wisp 38",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://10528782340"
+        }
+       },
+       {
+        "name": "Smoke Wisp 39",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://136236554845311",
+         "layout": "8x8",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Smoke Wisp 40",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://10472974536"
+        }
+       },
+       {
+        "name": "Smoke Wisp 41",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://14191591663"
+        }
+       },
+       {
+        "name": "Smoke Wisp 42",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://18762827354"
+        }
+       },
+       {
+        "name": "Smoke Wisp 43",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://79679281844185"
+        }
+       },
+       {
+        "name": "Smoke Wisp 44",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://132537238667080",
+         "layout": "8x8",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Smoke Ring 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://105183760767310"
+        }
+       },
+       {
+        "name": "Smoke Wisp 45",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://13013256540",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 512
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Smoke Ribbon 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://12191903502"
+        }
+       },
+       {
+        "name": "Smoke Wisp 46",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://116217104783414"
+        }
+       }
+      ],
+      "folders": [],
+      "group": "Smoke and Fog"
+     },
+     {
+      "name": "Fog Clouds",
+      "assets": [
+       {
+        "name": "Fog Puff 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://120619084932643",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Fog Puff 02",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://11381560992",
+         "layout": "8x8",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Fog Puff 03",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://130689728461532"
+        }
+       },
+       {
+        "name": "Fog Puff 04",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://71199878940163"
+        }
+       },
+       {
+        "name": "Fog Puff 05",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://11446801985",
+         "layout": "8x8",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Fog Puff 06",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://9841245981"
+        }
+       },
+       {
+        "name": "Fog Puff 07",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://14050038331"
+        }
+       },
+       {
+        "name": "Fog Puff 08",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://133868882234751"
+        }
+       },
+       {
+        "name": "Fog Puff 09",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://11917388916",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Fog Puff 10",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://11381556016",
+         "layout": "8x8",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Fog Puff 11",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://8315447357"
+        }
+       },
+       {
+        "name": "Fog Puff 12",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://8315453693"
+        }
+       },
+       {
+        "name": "Fog Puff 13",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://8315463235"
+        }
+       },
+       {
+        "name": "Fog Puff 14",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://14422630043"
+        }
+       },
+       {
+        "name": "Fog Band 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://3517446796"
+        }
+       },
+       {
+        "name": "Fog Puff 15",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://129953926068839"
+        }
+       },
+       {
+        "name": "Noise Puff 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://76564818345522"
+        }
+       },
+       {
+        "name": "Fog Puff 16",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://10890181552"
+        }
+       },
+       {
+        "name": "Fog Puff 17",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://13762623803",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 512
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Fog Puff 18",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://14006773822",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Fog Puff 19",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://12799115725",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       }
+      ],
+      "folders": [],
+      "group": "Smoke and Fog"
+     },
+     {
+      "name": "Lightning Beams",
+      "assets": [
+       {
+        "name": "Bolt Beam 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://15507852294"
+        }
+       },
+       {
+        "name": "Bolt Beam 02",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://102135446338516"
+        }
+       },
+       {
+        "name": "Bolt Beam 03",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://88990578414815"
+        }
+       },
+       {
+        "name": "Bolt Beam 04",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://116534473000212"
+        }
+       },
+       {
+        "name": "Bolt Beam 05",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://96719058831183"
+        }
+       },
+       {
+        "name": "Bolt Beam 06",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://446111271"
+        }
+       },
+       {
+        "name": "Bolt Beam 07",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://135763556027957"
+        }
+       },
+       {
+        "name": "Bolt Beam 08",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://8944337908"
+        }
+       },
+       {
+        "name": "Bolt Beam 09",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://11624551967"
+        }
+       },
+       {
+        "name": "Bolt Beam 10",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://17005532550",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 512
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Bolt Beam 11",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://132104620165123"
+        }
+       },
+       {
+        "name": "Bolt Beam 12",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://13712007292",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 512
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Bolt Beam 13",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://129857196781413"
+        }
+       },
+       {
+        "name": "Bolt Fragment 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://11492870634",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 512
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Electric Crackle 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://11597664950",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Bolt Beam 14",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://14197133127",
+         "layout": "8x8",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       }
+      ],
+      "folders": [],
+      "group": "Energy"
+     },
+     {
+      "name": "Glitch Streaks",
+      "assets": [
+       {
+        "name": "Glitch Streak 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://126335647843037"
+        }
+       },
+       {
+        "name": "Glitch Sparkle 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://132381361788808"
+        }
+       },
+       {
+        "name": "Glitch Band 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://124594286463322"
+        }
+       },
+       {
+        "name": "Glitch Streak 02",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://124778879045264"
+        }
+       },
+       {
+        "name": "Glitch Block 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://106149718055458"
+        }
+       },
+       {
+        "name": "Glitch Spike 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://100829679437157"
+        }
+       },
+       {
+        "name": "Light Streak 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://14191603094"
+        }
+       },
+       {
+        "name": "Glitch Streak 03",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://6091474388"
+        }
+       },
+       {
+        "name": "Glitch Streak 04",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://118154583001386"
+        }
+       },
+       {
+        "name": "Glitch Beam 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://131586483821960"
+        }
+       },
+       {
+        "name": "Glitch Waveform 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://84264596525704"
+        }
+       },
+       {
+        "name": "Glitch Block 02",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://76261455048237",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Glitch Streak 05",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://97186308360847"
+        }
+       },
+       {
+        "name": "Glitch Digit 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://87414876856793",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Glitch Fragment 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://12656892044",
+         "layout": "8x8",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Glitch Beam 02",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://134095631127258"
+        }
+       }
+      ],
+      "folders": [],
+      "group": "Energy"
+     },
+     {
+      "name": "Tiny Specks",
+      "assets": [
+       {
+        "name": "Speck 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://15419162005"
+        }
+       },
+       {
+        "name": "Speck 02",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://15419190159"
+        }
+       },
+       {
+        "name": "Speck 03",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://15419164985"
+        }
+       },
+       {
+        "name": "Speck 04",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://15011464541",
+         "layout": "8x8",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Speck 05",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://15419165429"
+        }
+       },
+       {
+        "name": "Speck 06",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://15419166109"
+        }
+       },
+       {
+        "name": "Speck 07",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://17005515456",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 512
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Speck 08",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://14197149690",
+         "layout": "8x8",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Speck 09",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://12376549723",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Spark Streak 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://14707966237",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Speck 10",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://78042884613047",
+         "layout": "8x8",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Spark Fleck 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://89169149094251",
+         "layout": "8x8",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       }
+      ],
+      "folders": [],
+      "group": "Stars and Specks"
+     },
+     {
+      "name": "Starfield",
+      "assets": [
+       {
+        "name": "Star Speck 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://76126495785178"
+        }
+       },
+       {
+        "name": "Star Speck 02",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://119821003025926"
+        }
+       },
+       {
+        "name": "Star Speck 03",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://18452666305"
+        }
+       },
+       {
+        "name": "Star Speck 04",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://132854652112923"
+        }
+       },
+       {
+        "name": "Star Speck 05",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://106835138892794"
+        }
+       },
+       {
+        "name": "Star Speck 06",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://116962877861479"
+        }
+       },
+       {
+        "name": "Star Speck 07",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://138730083976732"
+        }
+       },
+       {
+        "name": "Star Speck 08",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://119784156810130"
+        }
+       },
+       {
+        "name": "Star Speck 09",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://81252590200652"
+        }
+       },
+       {
+        "name": "Star Speck 10",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://78098427622116"
+        }
+       },
+       {
+        "name": "Star Speck 11",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://82929171982193"
+        }
+       },
+       {
+        "name": "Star Speck 12",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://113636566256730"
+        }
+       },
+       {
+        "name": "Star Speck 13",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://98115819941329"
+        }
+       },
+       {
+        "name": "Star Speck 14",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://82895644303093"
+        }
+       },
+       {
+        "name": "Star Speck 15",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://17511074515"
+        }
+       },
+       {
+        "name": "Star Speck 16",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://77375715174442"
+        }
+       },
+       {
+        "name": "Star Speck 17",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://86783342537531"
+        }
+       }
+      ],
+      "folders": [],
+      "group": "Stars and Specks"
+     },
+     {
+      "name": "Mixed Blobs",
+      "assets": [
+       {
+        "name": "Blob Noise 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://13712010449"
+        }
+       },
+       {
+        "name": "Splash Shard 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://13773336783",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 512
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Blob Shape 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://13975880803",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 512
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Splash Shard 02",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://11372606236",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Blob Shape 02",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://9612279614",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Squiggle Blob 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://13393030580",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 256
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Slash Arc 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://101373417793858",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Crescent Blob 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://16867548275",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 512
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Glow Crescent 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://84018603015609",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Blob Shape 03",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://133820948288848",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Blob Shape 04",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://13580372792",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Cracked Orb 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://17510987543",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Blob Shape 05",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://126096093929519",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Splash Blob 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://135839107600790",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Blob Shape 06",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://13180760354",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 512
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Blob Shape 07",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://12800351571"
+        }
+       },
+       {
+        "name": "Glow Blob 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://129451162420418",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Petal Shape 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://108484268879669",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 512
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Shard Shape 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://124826585169272",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 512
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Heart Shape 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://12800149611",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 420
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Splash Blob 02",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://11632052078",
+         "layout": "8x8",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Curved Shape 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://11137599166",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Blob Shape 08",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://12800352216",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Triangle Outline 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://135667813304469",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Triangle 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://126929596968702",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Square Outline 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://13273852131"
+        }
+       },
+       {
+        "name": "Star Outline 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://12853318983",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Gem Outline 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://18144297985",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 512
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       }
+      ],
+      "folders": [],
+      "group": "Shapes"
+     },
+     {
+      "name": "Lens Flares",
+      "assets": [
+       {
+        "name": "Flare Element 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://1075864321"
+        }
+       },
+       {
+        "name": "Flare Element 02",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://14197920028"
+        }
+       },
+       {
+        "name": "Flare Element 03",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://93019438419226"
+        }
+       },
+       {
+        "name": "Flare Element 04",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://139845944844503"
+        }
+       },
+       {
+        "name": "Flare Element 05",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://83544433635970"
+        }
+       },
+       {
+        "name": "Flare Element 06",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://8030760338"
+        }
+       },
+       {
+        "name": "Flare Element 07",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://13001447859"
+        }
+       },
+       {
+        "name": "Flare Element 08",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://13001447661"
+        }
+       },
+       {
+        "name": "Flare Element 09",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://75202463"
+        }
+       },
+       {
+        "name": "Flare Element 10",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://16171528032"
+        }
+       },
+       {
+        "name": "Flare Element 11",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://118256557126941"
+        }
+       },
+       {
+        "name": "Flare Element 12",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://13992057187",
+         "layout": "8x8",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Flare Element 13",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://13580373013",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Flare Element 14",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://94615835566088"
+        }
+       },
+       {
+        "name": "Flare Element 15",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://79060673167437"
+        }
+       },
+       {
+        "name": "Flare Element 16",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://16511720979",
+         "layout": "8x8",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Flare Streak 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://15989904878"
+        }
+       },
+       {
+        "name": "Rainbow Halo 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://12105193694"
+        }
+       },
+       {
+        "name": "Flare Streak 02",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://92772675508282"
+        }
+       }
+      ],
+      "folders": [],
+      "group": "Flares"
+     },
+     {
+      "name": "Star Flares",
+      "assets": [
+       {
+        "name": "Star Flare 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://88525485478259",
+         "layout": "2x2",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Star Flare 02",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://13008221535"
+        }
+       },
+       {
+        "name": "Star Flare 03",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://8037777212"
+        }
+       },
+       {
+        "name": "Star Flare 04",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://15785273325"
+        }
+       },
+       {
+        "name": "Star Flare 05",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://10598374841"
+        }
+       },
+       {
+        "name": "Star Flare 06",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://16409068152"
+        }
+       },
+       {
+        "name": "Star Flare 07",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://100105902174252"
+        }
+       },
+       {
+        "name": "Spike Star 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://134747059733311"
+        }
+       }
+      ],
+      "folders": [],
+      "group": "Flares"
+     },
+     {
+      "name": "Misc",
+      "assets": [
+       {
+        "name": "Cell Texture 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://14248247735"
+        }
+       },
+       {
+        "name": "Glow Square 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://16879800718"
+        }
+       },
+       {
+        "name": "Number Strip 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://79878314541954"
+        }
+       },
+       {
+        "name": "Square Frame 01",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://75990487030910",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Square Frame 02",
+        "type": "sprite",
+        "sprite": {
+         "spritesheet": "rbxassetid://133854801549883",
+         "layout": "4x4",
+         "fps": [
+          16.0,
+          16.0
+         ],
+         "mode": "Loop",
+         "startRandom": false,
+         "resolution": 1024
+        },
+        "tags": [
+         "particle flipbook"
+        ]
+       },
+       {
+        "name": "Water Ripple 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://12781852245"
+        }
+       },
+       {
+        "name": "Light Ribbon 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://132045246950994"
+        }
+       },
+       {
+        "name": "Exclamation Mark 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://16510114415"
+        }
+       },
+       {
+        "name": "Warning Sign 01",
+        "type": "texture",
+        "texture": {
+         "image": "rbxassetid://17426530339"
+        }
+       }
+      ],
+      "folders": [],
+      "group": "Misc"
+     }
+    ]
+   }
+  ]
+ },
+ "tags": {
+  "particle flipbook": {
+   "icon": "sparkles",
+   "color": "violet"
+  }
+ }
+}

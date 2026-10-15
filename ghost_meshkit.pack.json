@@ -1,0 +1,5523 @@
+{
+ "format": "forge",
+ "formatVersion": 1,
+ "id": "ghost_meshkit",
+ "name": "Ghost's Meshkit",
+ "version": "1.0.0",
+ "description": "A general use meshkit: primitives, polygons, loops, runes and debris.",
+ "authors": [
+  "Ghost",
+  "Shiver",
+  "1Tent"
+ ],
+ "license": {
+  "spdx": "CC-BY-4.0",
+  "url": "https://creativecommons.org/licenses/by/4.0/",
+  "scope": "pack",
+  "notice": "This license covers the pack file itself: the selection and arrangement of assets, their names, descriptions and source records. Reuse, modification or extraction of this data requires attribution to VFX Forge. The assets the pack references are not covered; see assetLicense."
+ },
+ "assetLicense": {
+  "name": "Starlight pack terms",
+  "url": "https://github.com/MrrowLabs/starlight-megarepo",
+  "notice": "Each asset is published by its Starlight pack's author under that pack's own terms."
+ },
+ "root": {
+  "assets": [],
+  "folders": [
+   {
+    "name": "Meshes",
+    "assets": [],
+    "folders": [
+     {
+      "name": "Cubes",
+      "group": "Primitives",
+      "assets": [
+       {
+        "name": "Cube 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://15282816613",
+         "vertices": 129,
+         "triangles": 188
+        }
+       },
+       {
+        "name": "Cube 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://72891469949098",
+         "vertices": 2004,
+         "triangles": 3498
+        }
+       },
+       {
+        "name": "Cube 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://115230640559555",
+         "vertices": 240,
+         "triangles": 108
+        }
+       },
+       {
+        "name": "Cube 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://95143416362363",
+         "vertices": 288,
+         "triangles": 144
+        }
+       },
+       {
+        "name": "Cube 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://18182317194",
+         "vertices": 494,
+         "triangles": 224
+        }
+       },
+       {
+        "name": "Cube 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://81939872081414",
+         "vertices": 264,
+         "triangles": 108
+        }
+       },
+       {
+        "name": "Cube 07",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://70394478588318",
+         "vertices": 264,
+         "triangles": 108
+        }
+       },
+       {
+        "name": "Cube 08",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://116309038552133",
+         "vertices": 2845,
+         "triangles": 1470
+        }
+       },
+       {
+        "name": "Cube 09",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://18182317165",
+         "vertices": 501,
+         "triangles": 224
+        }
+       },
+       {
+        "name": "Cube 10",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://138287682219147",
+         "vertices": 80,
+         "triangles": 48
+        }
+       },
+       {
+        "name": "Cube 11",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://95639904224921",
+         "vertices": 96,
+         "triangles": 32
+        }
+       },
+       {
+        "name": "Cube 12",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://130673151592299",
+         "vertices": 152,
+         "triangles": 300
+        }
+       },
+       {
+        "name": "Cube 13",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://72151148825512",
+         "vertices": 264,
+         "triangles": 108
+        }
+       },
+       {
+        "name": "Cube 14",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://73731559976727",
+         "vertices": 264,
+         "triangles": 108
+        }
+       },
+       {
+        "name": "Cube 15",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://18182317124",
+         "vertices": 494,
+         "triangles": 224
+        }
+       },
+       {
+        "name": "Cube 16",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://96940962689507",
+         "vertices": 1126,
+         "triangles": 1776
+        }
+       },
+       {
+        "name": "Cube 17",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://132617870747004",
+         "vertices": 240,
+         "triangles": 108
+        }
+       },
+       {
+        "name": "Cube 18",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://114271852536558",
+         "vertices": 2475,
+         "triangles": 3498
+        }
+       },
+       {
+        "name": "Cube 19",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://86890143941091",
+         "vertices": 339,
+         "triangles": 128
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Squares",
+      "group": "Primitives",
+      "assets": [
+       {
+        "name": "Square 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://138719042460667",
+         "vertices": 50,
+         "triangles": 32
+        }
+       },
+       {
+        "name": "Square 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://126421011121633",
+         "vertices": 52,
+         "triangles": 32
+        }
+       },
+       {
+        "name": "Square 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://78603000741509",
+         "vertices": 48,
+         "triangles": 32
+        }
+       },
+       {
+        "name": "Square 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://131308452151444",
+         "vertices": 38,
+         "triangles": 28
+        }
+       },
+       {
+        "name": "Square 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://95271180653983",
+         "vertices": 90,
+         "triangles": 48
+        }
+       },
+       {
+        "name": "Square 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://118653942750233",
+         "vertices": 24,
+         "triangles": 12
+        }
+       },
+       {
+        "name": "Square 07",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://72807241046968",
+         "vertices": 84,
+         "triangles": 48
+        }
+       },
+       {
+        "name": "Square 08",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://77839298547978",
+         "vertices": 129,
+         "triangles": 188
+        }
+       },
+       {
+        "name": "Square 09",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://120962249127421",
+         "vertices": 42,
+         "triangles": 20
+        }
+       },
+       {
+        "name": "Square 10",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://89752695737976",
+         "vertices": 112,
+         "triangles": 62
+        }
+       },
+       {
+        "name": "Square 11",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://103407361576276",
+         "vertices": 40,
+         "triangles": 20
+        }
+       },
+       {
+        "name": "Square 12",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://99129025676825",
+         "vertices": 24,
+         "triangles": 12
+        }
+       },
+       {
+        "name": "Square 13",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://108886735739283",
+         "vertices": 127,
+         "triangles": 64
+        }
+       },
+       {
+        "name": "Square 14",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://134372229103584",
+         "vertices": 50,
+         "triangles": 32
+        }
+       },
+       {
+        "name": "Square 15",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://107847329935053",
+         "vertices": 48,
+         "triangles": 32
+        }
+       },
+       {
+        "name": "Square 16",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://71270137402186",
+         "vertices": 48,
+         "triangles": 28
+        }
+       },
+       {
+        "name": "Square 17",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://76792720886658",
+         "vertices": 38,
+         "triangles": 20
+        }
+       },
+       {
+        "name": "Square 18",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://111847167695008",
+         "vertices": 40,
+         "triangles": 16
+        }
+       },
+       {
+        "name": "Square 19",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://85340129061113",
+         "vertices": 54,
+         "triangles": 28
+        }
+       },
+       {
+        "name": "Square 20",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://102632355986575",
+         "vertices": 24,
+         "triangles": 12
+        }
+       },
+       {
+        "name": "Square 21",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://138690309884488",
+         "vertices": 129,
+         "triangles": 64
+        }
+       },
+       {
+        "name": "Square 22",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://134070077677151",
+         "vertices": 69,
+         "triangles": 54
+        }
+       },
+       {
+        "name": "Square 23",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://108845994312436",
+         "vertices": 50,
+         "triangles": 28
+        }
+       },
+       {
+        "name": "Square 24",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://77533161223172",
+         "vertices": 16,
+         "triangles": 6
+        }
+       },
+       {
+        "name": "Square 25",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://79966301558007",
+         "vertices": 48,
+         "triangles": 28
+        }
+       },
+       {
+        "name": "Square 26",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://88355466237642",
+         "vertices": 125,
+         "triangles": 64
+        }
+       },
+       {
+        "name": "Square 27",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://81996497840897",
+         "vertices": 16,
+         "triangles": 8
+        }
+       },
+       {
+        "name": "Square 28",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://134774144368066",
+         "vertices": 38,
+         "triangles": 20
+        }
+       },
+       {
+        "name": "Square 29",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://99846068760376",
+         "vertices": 32,
+         "triangles": 16
+        }
+       },
+       {
+        "name": "Square 30",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://137630146578608",
+         "vertices": 24,
+         "triangles": 12
+        }
+       },
+       {
+        "name": "Square 31",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://123989847153575",
+         "vertices": 96,
+         "triangles": 48
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Cut Spheres",
+      "group": "Primitives",
+      "assets": [
+       {
+        "name": "Cut Sphere 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://126831692731308",
+         "vertices": 294,
+         "triangles": 396
+        }
+       },
+       {
+        "name": "Cut Sphere 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://74576932731126",
+         "vertices": 117,
+         "triangles": 132
+        }
+       },
+       {
+        "name": "Cut Sphere 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://119319189883365",
+         "vertices": 294,
+         "triangles": 396
+        }
+       },
+       {
+        "name": "Cut Sphere 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://80162681446547",
+         "vertices": 182,
+         "triangles": 238
+        }
+       },
+       {
+        "name": "Cut Sphere 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://123425474097991",
+         "vertices": 158,
+         "triangles": 216
+        }
+       },
+       {
+        "name": "Cut Sphere 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://140610426765352",
+         "vertices": 183,
+         "triangles": 240
+        }
+       },
+       {
+        "name": "Cut Sphere 07",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://117819591708950",
+         "vertices": 78,
+         "triangles": 72
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Cylinders",
+      "group": "Primitives",
+      "assets": [
+       {
+        "name": "Cylinder 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://123771453560044",
+         "vertices": 434,
+         "triangles": 288
+        }
+       },
+       {
+        "name": "Cylinder 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://106819317700809",
+         "vertices": 78,
+         "triangles": 60
+        }
+       },
+       {
+        "name": "Cylinder 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://74606698709139",
+         "vertices": 5581,
+         "triangles": 3664
+        }
+       },
+       {
+        "name": "Cylinder 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://134017916602905",
+         "vertices": 603,
+         "triangles": 384
+        }
+       },
+       {
+        "name": "Cylinder 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://100580125065907",
+         "vertices": 78,
+         "triangles": 60
+        }
+       },
+       {
+        "name": "Cylinder 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://88120312091728",
+         "vertices": 108,
+         "triangles": 92
+        }
+       },
+       {
+        "name": "Cylinder 07",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://120030811290120",
+         "vertices": 128,
+         "triangles": 96
+        }
+       },
+       {
+        "name": "Cylinder 08",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://80448620415400",
+         "vertices": 113,
+         "triangles": 96
+        }
+       },
+       {
+        "name": "Cylinder 09",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://74776119963354",
+         "vertices": 652,
+         "triangles": 800
+        }
+       },
+       {
+        "name": "Cylinder 10",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://75980002518873",
+         "vertices": 562,
+         "triangles": 480
+        }
+       },
+       {
+        "name": "Cylinder 11",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://90985334722018",
+         "vertices": 420,
+         "triangles": 288
+        }
+       },
+       {
+        "name": "Cylinder 12",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://17439184671",
+         "vertices": 1570,
+         "triangles": 1216
+        }
+       },
+       {
+        "name": "Cylinder 13",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://84539052227993",
+         "vertices": 294,
+         "triangles": 432
+        }
+       },
+       {
+        "name": "Cylinder 14",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://119380920142414",
+         "vertices": 411,
+         "triangles": 288
+        }
+       },
+       {
+        "name": "Cylinder 15",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://116105627145908",
+         "vertices": 7488,
+         "triangles": 14976
+        }
+       },
+       {
+        "name": "Cylinder 16",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://122461581508296",
+         "vertices": 224,
+         "triangles": 192
+        }
+       },
+       {
+        "name": "Cylinder 17",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://108323623079179",
+         "vertices": 65,
+         "triangles": 48
+        }
+       },
+       {
+        "name": "Cylinder 18",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://124284930550490",
+         "vertices": 632,
+         "triangles": 384
+        }
+       },
+       {
+        "name": "Cylinder 19",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://108394724331742",
+         "vertices": 594,
+         "triangles": 384
+        }
+       },
+       {
+        "name": "Cylinder 20",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://95150935991902",
+         "vertices": 667,
+         "triangles": 656
+        }
+       },
+       {
+        "name": "Cylinder 21",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://85019058473784",
+         "vertices": 78,
+         "triangles": 60
+        }
+       },
+       {
+        "name": "Cylinder 22",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://124715798190296",
+         "vertices": 116,
+         "triangles": 100
+        }
+       },
+       {
+        "name": "Cylinder 23",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://129063608869140",
+         "vertices": 296,
+         "triangles": 432
+        }
+       },
+       {
+        "name": "Cylinder 24",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://137277855232498",
+         "vertices": 211,
+         "triangles": 320
+        }
+       },
+       {
+        "name": "Cylinder 25",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://108223404375513",
+         "vertices": 200,
+         "triangles": 192
+        }
+       },
+       {
+        "name": "Cylinder 26",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://102484161930284",
+         "vertices": 1262,
+         "triangles": 1000
+        }
+       },
+       {
+        "name": "Cylinder 27",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://119938602294117",
+         "vertices": 349,
+         "triangles": 288
+        }
+       },
+       {
+        "name": "Cylinder 28",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://83228101001711",
+         "vertices": 200,
+         "triangles": 192
+        }
+       },
+       {
+        "name": "Cylinder 29",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://130521134881579",
+         "vertices": 397,
+         "triangles": 288
+        }
+       },
+       {
+        "name": "Cylinder 30",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://74127204621095",
+         "vertices": 116,
+         "triangles": 100
+        }
+       },
+       {
+        "name": "Cylinder 31",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://120741058473377",
+         "vertices": 78,
+         "triangles": 52
+        }
+       },
+       {
+        "name": "Cylinder 32",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://115353797168739",
+         "vertices": 460,
+         "triangles": 352
+        }
+       },
+       {
+        "name": "Cylinder 33",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://88702854033075",
+         "vertices": 1304,
+         "triangles": 1600
+        }
+       },
+       {
+        "name": "Cylinder 34",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://130297421910083",
+         "vertices": 116,
+         "triangles": 108
+        }
+       },
+       {
+        "name": "Cylinder 35",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://133674682354553",
+         "vertices": 113,
+         "triangles": 96
+        }
+       },
+       {
+        "name": "Cylinder 36",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://17475664256",
+         "vertices": 2708,
+         "triangles": 2568
+        }
+       },
+       {
+        "name": "Cylinder 37",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://80940047264664",
+         "vertices": 1699,
+         "triangles": 1136
+        }
+       },
+       {
+        "name": "Cylinder 38",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://106484854436138",
+         "vertices": 401,
+         "triangles": 384
+        }
+       },
+       {
+        "name": "Cylinder 39",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://138685017745528",
+         "vertices": 104,
+         "triangles": 96
+        }
+       },
+       {
+        "name": "Cylinder 40",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://94592779137541",
+         "vertices": 150,
+         "triangles": 96
+        }
+       },
+       {
+        "name": "Cylinder 41",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://86218210523879",
+         "vertices": 56,
+         "triangles": 48
+        }
+       },
+       {
+        "name": "Cylinder 42",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://17439184666",
+         "vertices": 1385,
+         "triangles": 1156
+        }
+       },
+       {
+        "name": "Cylinder 43",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://91135561651948",
+         "vertices": 124,
+         "triangles": 100
+        }
+       },
+       {
+        "name": "Cylinder 44",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://109957944952808",
+         "vertices": 664,
+         "triangles": 656
+        }
+       },
+       {
+        "name": "Cylinder 45",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://91626673627057",
+         "vertices": 419,
+         "triangles": 288
+        }
+       },
+       {
+        "name": "Cylinder 46",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://110921834603412",
+         "vertices": 235,
+         "triangles": 192
+        }
+       },
+       {
+        "name": "Cylinder 47",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://16639079536",
+         "vertices": 1327,
+         "triangles": 1536
+        }
+       },
+       {
+        "name": "Cylinder 48",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://117308988733988",
+         "vertices": 116,
+         "triangles": 100
+        }
+       },
+       {
+        "name": "Cylinder 49",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://120312235603599",
+         "vertices": 106,
+         "triangles": 96
+        }
+       },
+       {
+        "name": "Cylinder 50",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://109531842225332",
+         "vertices": 2009,
+         "triangles": 1568
+        }
+       },
+       {
+        "name": "Cylinder 51",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://81348961074867",
+         "vertices": 116,
+         "triangles": 100
+        }
+       },
+       {
+        "name": "Cylinder 52",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://17475682395",
+         "vertices": 2711,
+         "triangles": 2568
+        }
+       },
+       {
+        "name": "Cylinder 53",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://109020250470054",
+         "vertices": 1133,
+         "triangles": 896
+        }
+       },
+       {
+        "name": "Cylinder 54",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://103416991133298",
+         "vertices": 412,
+         "triangles": 288
+        }
+       },
+       {
+        "name": "Cylinder 55",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://72821953222268",
+         "vertices": 112,
+         "triangles": 96
+        }
+       },
+       {
+        "name": "Cylinder 56",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://118959543744468",
+         "vertices": 144,
+         "triangles": 100
+        }
+       },
+       {
+        "name": "Cylinder 57",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://111831494249695",
+         "vertices": 106,
+         "triangles": 96
+        }
+       },
+       {
+        "name": "Cylinder 58",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://17475352580",
+         "vertices": 2421,
+         "triangles": 2312
+        }
+       },
+       {
+        "name": "Cylinder 59",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://99929614002524",
+         "vertices": 2245,
+         "triangles": 1680
+        }
+       },
+       {
+        "name": "Cylinder 60",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://125656816219728",
+         "vertices": 116,
+         "triangles": 100
+        }
+       },
+       {
+        "name": "Cylinder 61",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://79714487173321",
+         "vertices": 664,
+         "triangles": 656
+        }
+       },
+       {
+        "name": "Cylinder 62",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://78414025232594",
+         "vertices": 108,
+         "triangles": 100
+        }
+       },
+       {
+        "name": "Cylinder 63",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://134940360969072",
+         "vertices": 1187,
+         "triangles": 896
+        }
+       },
+       {
+        "name": "Cylinder 64",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://116980124784842",
+         "vertices": 200,
+         "triangles": 192
+        }
+       },
+       {
+        "name": "Cylinder 65",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://85670371692292",
+         "vertices": 296,
+         "triangles": 432
+        }
+       },
+       {
+        "name": "Cylinder 66",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://110250225413045",
+         "vertices": 483,
+         "triangles": 288
+        }
+       },
+       {
+        "name": "Cylinder 67",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://72318849044170",
+         "vertices": 130,
+         "triangles": 100
+        }
+       },
+       {
+        "name": "Cylinder 68",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://17439184651",
+         "vertices": 678,
+         "triangles": 448
+        }
+       },
+       {
+        "name": "Cylinder 69",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://136374323640016",
+         "vertices": 117,
+         "triangles": 100
+        }
+       },
+       {
+        "name": "Cylinder 70",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://105381708597962",
+         "vertices": 3251,
+         "triangles": 2128
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Icospheres",
+      "group": "Primitives",
+      "assets": [
+       {
+        "name": "Icosphere 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://99567741914290",
+         "vertices": 60,
+         "triangles": 36
+        }
+       },
+       {
+        "name": "Icosphere 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://83547379811979",
+         "vertices": 180,
+         "triangles": 60
+        }
+       },
+       {
+        "name": "Icosphere 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://105766467041317",
+         "vertices": 1440,
+         "triangles": 720
+        }
+       },
+       {
+        "name": "Icosphere 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://122517630824864",
+         "vertices": 392,
+         "triangles": 680
+        }
+       },
+       {
+        "name": "Icosphere 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://135846038382667",
+         "vertices": 240,
+         "triangles": 80
+        }
+       },
+       {
+        "name": "Icosphere 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://115944333090977",
+         "vertices": 180,
+         "triangles": 60
+        }
+       },
+       {
+        "name": "Icosphere 07",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://129768380869562",
+         "vertices": 60,
+         "triangles": 20
+        }
+       },
+       {
+        "name": "Icosphere 08",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://124938198231234",
+         "vertices": 1440,
+         "triangles": 720
+        }
+       },
+       {
+        "name": "Icosphere 09",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://99562313432931",
+         "vertices": 960,
+         "triangles": 320
+        }
+       },
+       {
+        "name": "Icosphere 10",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://88347797129389",
+         "vertices": 420,
+         "triangles": 360
+        }
+       },
+       {
+        "name": "Icosphere 11",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://96530686079855",
+         "vertices": 720,
+         "triangles": 240
+        }
+       },
+       {
+        "name": "Icosphere 12",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://93432628103937",
+         "vertices": 392,
+         "triangles": 680
+        }
+       },
+       {
+        "name": "Icosphere 13",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://92633717954289",
+         "vertices": 5760,
+         "triangles": 2880
+        }
+       },
+       {
+        "name": "Icosphere 14",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://97879685270242",
+         "vertices": 240,
+         "triangles": 80
+        }
+       },
+       {
+        "name": "Icosphere 15",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://16794475003",
+         "vertices": 262,
+         "triangles": 260
+        }
+       },
+       {
+        "name": "Icosphere 16",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://135926526502186",
+         "vertices": 180,
+         "triangles": 60
+        }
+       },
+       {
+        "name": "Icosphere 17",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://136113042931911",
+         "vertices": 720,
+         "triangles": 240
+        }
+       },
+       {
+        "name": "Icosphere 18",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://71743778362957",
+         "vertices": 720,
+         "triangles": 360
+        }
+       },
+       {
+        "name": "Icosphere 19",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://135957130514859",
+         "vertices": 720,
+         "triangles": 360
+        }
+       },
+       {
+        "name": "Icosphere 20",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://84574639161581",
+         "vertices": 180,
+         "triangles": 60
+        }
+       },
+       {
+        "name": "Icosphere 21",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://136766445259746",
+         "vertices": 5760,
+         "triangles": 2880
+        }
+       },
+       {
+        "name": "Icosphere 22",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://97802906486282",
+         "vertices": 2880,
+         "triangles": 1440
+        }
+       },
+       {
+        "name": "Icosphere 23",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://119966403654542",
+         "vertices": 2880,
+         "triangles": 1440
+        }
+       },
+       {
+        "name": "Icosphere 24",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://16794475090",
+         "vertices": 262,
+         "triangles": 260
+        }
+       },
+       {
+        "name": "Icosphere 25",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://120143905666665",
+         "vertices": 420,
+         "triangles": 360
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Inverted",
+      "group": "Primitives",
+      "assets": [
+       {
+        "name": "Inverted Shape 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://102533012082133",
+         "vertices": 254,
+         "triangles": 192
+        }
+       },
+       {
+        "name": "Inverted Shape 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://109982079395622",
+         "vertices": 158,
+         "triangles": 216
+        }
+       },
+       {
+        "name": "Inverted Shape 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://136139940599401",
+         "vertices": 85,
+         "triangles": 108
+        }
+       },
+       {
+        "name": "Inverted Shape 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://13490279224",
+         "vertices": 24,
+         "triangles": 12
+        }
+       },
+       {
+        "name": "Inverted Shape 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://139774704268302",
+         "vertices": 268,
+         "triangles": 192
+        }
+       },
+       {
+        "name": "Inverted Shape 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://13490279239",
+         "vertices": 130,
+         "triangles": 124
+        }
+       },
+       {
+        "name": "Inverted Shape 07",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://72113917713926",
+         "vertices": 182,
+         "triangles": 238
+        }
+       },
+       {
+        "name": "Inverted Shape 08",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://95002981872090",
+         "vertices": 46,
+         "triangles": 54
+        }
+       },
+       {
+        "name": "Inverted Shape 09",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://15923904600",
+         "vertices": 64,
+         "triangles": 64
+        }
+       },
+       {
+        "name": "Inverted Shape 10",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://120290759350565",
+         "vertices": 257,
+         "triangles": 192
+        }
+       },
+       {
+        "name": "Inverted Shape 11",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://139285182243681",
+         "vertices": 114,
+         "triangles": 130
+        }
+       },
+       {
+        "name": "Inverted Shape 12",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://13490279232",
+         "vertices": 559,
+         "triangles": 960
+        }
+       },
+       {
+        "name": "Inverted Shape 13",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://97860277390610",
+         "vertices": 70,
+         "triangles": 72
+        }
+       },
+       {
+        "name": "Inverted Shape 14",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://80921291130949",
+         "vertices": 294,
+         "triangles": 432
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Slopes",
+      "group": "Primitives",
+      "assets": [
+       {
+        "name": "Slope 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://137226081331854",
+         "vertices": 74,
+         "triangles": 48
+        }
+       },
+       {
+        "name": "Slope 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://130854487701802",
+         "vertices": 40,
+         "triangles": 28
+        }
+       },
+       {
+        "name": "Slope 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://99526708579684",
+         "vertices": 12,
+         "triangles": 4
+        }
+       },
+       {
+        "name": "Slope 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://124619095848853",
+         "vertices": 142,
+         "triangles": 78
+        }
+       },
+       {
+        "name": "Slope 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://97075202948499",
+         "vertices": 56,
+         "triangles": 38
+        }
+       },
+       {
+        "name": "Slope 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://79376191307153",
+         "vertices": 81,
+         "triangles": 50
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Trapezoids",
+      "group": "Primitives",
+      "assets": [
+       {
+        "name": "Trapezoid 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://88288815939158",
+         "vertices": 52,
+         "triangles": 40
+        }
+       },
+       {
+        "name": "Trapezoid 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://87525204626115",
+         "vertices": 24,
+         "triangles": 12
+        }
+       },
+       {
+        "name": "Trapezoid 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://83263660167112",
+         "vertices": 24,
+         "triangles": 12
+        }
+       },
+       {
+        "name": "Trapezoid 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://115732652650726",
+         "vertices": 52,
+         "triangles": 40
+        }
+       },
+       {
+        "name": "Trapezoid 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://124636965807560",
+         "vertices": 24,
+         "triangles": 12
+        }
+       },
+       {
+        "name": "Trapezoid 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://74027916059909",
+         "vertices": 52,
+         "triangles": 40
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Triangles",
+      "group": "Polygons",
+      "assets": [
+       {
+        "name": "Triangle 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://98243516484104",
+         "vertices": 116,
+         "triangles": 140
+        }
+       },
+       {
+        "name": "Triangle 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://103043956171280",
+         "vertices": 12,
+         "triangles": 6
+        }
+       },
+       {
+        "name": "Triangle 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://116914053159872",
+         "vertices": 42,
+         "triangles": 26
+        }
+       },
+       {
+        "name": "Triangle 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://130397030140126",
+         "vertices": 44,
+         "triangles": 24
+        }
+       },
+       {
+        "name": "Triangle 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://81814994849180",
+         "vertices": 18,
+         "triangles": 8
+        }
+       },
+       {
+        "name": "Triangle 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://80641671500791",
+         "vertices": 18,
+         "triangles": 8
+        }
+       },
+       {
+        "name": "Triangle 07",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://111390932311847",
+         "vertices": 28,
+         "triangles": 12
+        }
+       },
+       {
+        "name": "Triangle 08",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://79613192242591",
+         "vertices": 18,
+         "triangles": 8
+        }
+       },
+       {
+        "name": "Triangle 09",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://89937137292269",
+         "vertices": 12,
+         "triangles": 4
+        }
+       },
+       {
+        "name": "Triangle 10",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://117413345914335",
+         "vertices": 89,
+         "triangles": 48
+        }
+       },
+       {
+        "name": "Triangle 11",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://103828109207244",
+         "vertices": 64,
+         "triangles": 36
+        }
+       },
+       {
+        "name": "Triangle 12",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://117817742699620",
+         "vertices": 30,
+         "triangles": 12
+        }
+       },
+       {
+        "name": "Triangle 13",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://121625562424774",
+         "vertices": 40,
+         "triangles": 24
+        }
+       },
+       {
+        "name": "Triangle 14",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://73139888398678",
+         "vertices": 46,
+         "triangles": 24
+        }
+       },
+       {
+        "name": "Triangle 15",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://113844515965583",
+         "vertices": 55,
+         "triangles": 40
+        }
+       },
+       {
+        "name": "Triangle 16",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://80323888643311",
+         "vertices": 44,
+         "triangles": 24
+        }
+       },
+       {
+        "name": "Triangle 17",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://116973507396965",
+         "vertices": 90,
+         "triangles": 48
+        }
+       },
+       {
+        "name": "Triangle 18",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://120905933719958",
+         "vertices": 70,
+         "triangles": 36
+        }
+       },
+       {
+        "name": "Triangle 19",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://122692074511106",
+         "vertices": 18,
+         "triangles": 8
+        }
+       },
+       {
+        "name": "Triangle 20",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://77549136531988",
+         "vertices": 88,
+         "triangles": 45
+        }
+       },
+       {
+        "name": "Triangle 21",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://101761094275764",
+         "vertices": 31,
+         "triangles": 14
+        }
+       },
+       {
+        "name": "Triangle 22",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://108110380469801",
+         "vertices": 72,
+         "triangles": 36
+        }
+       },
+       {
+        "name": "Triangle 23",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://135935490137282",
+         "vertices": 36,
+         "triangles": 24
+        }
+       },
+       {
+        "name": "Triangle 24",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://83625926274702",
+         "vertices": 92,
+         "triangles": 48
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Pentagons",
+      "group": "Polygons",
+      "assets": [
+       {
+        "name": "Pentagon 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://110350310636724",
+         "vertices": 160,
+         "triangles": 80
+        }
+       },
+       {
+        "name": "Pentagon 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://78174321259893",
+         "vertices": 64,
+         "triangles": 40
+        }
+       },
+       {
+        "name": "Pentagon 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://81191772020936",
+         "vertices": 152,
+         "triangles": 75
+        }
+       },
+       {
+        "name": "Pentagon 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://86572719373934",
+         "vertices": 117,
+         "triangles": 60
+        }
+       },
+       {
+        "name": "Pentagon 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://137107867536215",
+         "vertices": 160,
+         "triangles": 80
+        }
+       },
+       {
+        "name": "Pentagon 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://99707361971195",
+         "vertices": 30,
+         "triangles": 16
+        }
+       },
+       {
+        "name": "Pentagon 07",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://126847106463602",
+         "vertices": 72,
+         "triangles": 42
+        }
+       },
+       {
+        "name": "Pentagon 08",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://96802352477595",
+         "vertices": 30,
+         "triangles": 16
+        }
+       },
+       {
+        "name": "Pentagon 09",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://95349728150082",
+         "vertices": 120,
+         "triangles": 60
+        }
+       },
+       {
+        "name": "Pentagon 10",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://75576154940281",
+         "vertices": 76,
+         "triangles": 40
+        }
+       },
+       {
+        "name": "Pentagon 11",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://128349607761265",
+         "vertices": 78,
+         "triangles": 40
+        }
+       },
+       {
+        "name": "Pentagon 12",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://129336179249609",
+         "vertices": 96,
+         "triangles": 54
+        }
+       },
+       {
+        "name": "Pentagon 13",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://102652718531108",
+         "vertices": 30,
+         "triangles": 16
+        }
+       },
+       {
+        "name": "Pentagon 14",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://136658213247311",
+         "vertices": 20,
+         "triangles": 8
+        }
+       },
+       {
+        "name": "Pentagon 15",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://102071107845487",
+         "vertices": 50,
+         "triangles": 20
+        }
+       },
+       {
+        "name": "Pentagon 16",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://93917004813821",
+         "vertices": 20,
+         "triangles": 10
+        }
+       },
+       {
+        "name": "Pentagon 17",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://72508152145697",
+         "vertices": 48,
+         "triangles": 20
+        }
+       },
+       {
+        "name": "Pentagon 18",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://108171887860031",
+         "vertices": 157,
+         "triangles": 80
+        }
+       },
+       {
+        "name": "Pentagon 19",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://124281579542369",
+         "vertices": 30,
+         "triangles": 16
+        }
+       },
+       {
+        "name": "Pentagon 20",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://139269896750799",
+         "vertices": 80,
+         "triangles": 40
+        }
+       },
+       {
+        "name": "Pentagon 21",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://113533235829195",
+         "vertices": 62,
+         "triangles": 40
+        }
+       },
+       {
+        "name": "Pentagon 22",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://94348029383023",
+         "vertices": 120,
+         "triangles": 60
+        }
+       },
+       {
+        "name": "Pentagon 23",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://83966816133811",
+         "vertices": 164,
+         "triangles": 236
+        }
+       },
+       {
+        "name": "Pentagon 24",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://105084813197621",
+         "vertices": 91,
+         "triangles": 68
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Hexagons",
+      "group": "Polygons",
+      "assets": [
+       {
+        "name": "Hexagon 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://134638517251759",
+         "vertices": 36,
+         "triangles": 20
+        }
+       },
+       {
+        "name": "Hexagon 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://81718289342648",
+         "vertices": 88,
+         "triangles": 48
+        }
+       },
+       {
+        "name": "Hexagon 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://129040875157666",
+         "vertices": 182,
+         "triangles": 92
+        }
+       },
+       {
+        "name": "Hexagon 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://113903775519944",
+         "vertices": 36,
+         "triangles": 20
+        }
+       },
+       {
+        "name": "Hexagon 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://107177877485816",
+         "vertices": 48,
+         "triangles": 24
+        }
+       },
+       {
+        "name": "Hexagon 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://91286525042903",
+         "vertices": 91,
+         "triangles": 56
+        }
+       },
+       {
+        "name": "Hexagon 07",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://78866593407401",
+         "vertices": 177,
+         "triangles": 96
+        }
+       },
+       {
+        "name": "Hexagon 08",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://140526741771350",
+         "vertices": 196,
+         "triangles": 284
+        }
+       },
+       {
+        "name": "Hexagon 09",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://136016446466536",
+         "vertices": 39,
+         "triangles": 20
+        }
+       },
+       {
+        "name": "Hexagon 10",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://113119457336877",
+         "vertices": 122,
+         "triangles": 72
+        }
+       },
+       {
+        "name": "Hexagon 11",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://133914960927393",
+         "vertices": 60,
+         "triangles": 24
+        }
+       },
+       {
+        "name": "Hexagon 12",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://70734664846260",
+         "vertices": 48,
+         "triangles": 28
+        }
+       },
+       {
+        "name": "Hexagon 13",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://117923880244405",
+         "vertices": 103,
+         "triangles": 68
+        }
+       },
+       {
+        "name": "Hexagon 14",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://89387405826312",
+         "vertices": 126,
+         "triangles": 72
+        }
+       },
+       {
+        "name": "Hexagon 15",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://123803200643155",
+         "vertices": 58,
+         "triangles": 28
+        }
+       },
+       {
+        "name": "Hexagon 16",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://117019151509133",
+         "vertices": 52,
+         "triangles": 28
+        }
+       },
+       {
+        "name": "Hexagon 17",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://104873867506196",
+         "vertices": 24,
+         "triangles": 12
+        }
+       },
+       {
+        "name": "Hexagon 18",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://127955561492810",
+         "vertices": 184,
+         "triangles": 96
+        }
+       },
+       {
+        "name": "Hexagon 19",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://99789564473206",
+         "vertices": 72,
+         "triangles": 48
+        }
+       },
+       {
+        "name": "Hexagon 20",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://138958259989783",
+         "vertices": 96,
+         "triangles": 48
+        }
+       },
+       {
+        "name": "Hexagon 21",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://96731811650886",
+         "vertices": 24,
+         "triangles": 10
+        }
+       },
+       {
+        "name": "Hexagon 22",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://126270595007780",
+         "vertices": 134,
+         "triangles": 72
+        }
+       },
+       {
+        "name": "Hexagon 23",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://126268154925146",
+         "vertices": 76,
+         "triangles": 48
+        }
+       },
+       {
+        "name": "Hexagon 24",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://75304421605254",
+         "vertices": 103,
+         "triangles": 79
+        }
+       },
+       {
+        "name": "Hexagon 25",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://90680077339349",
+         "vertices": 36,
+         "triangles": 20
+        }
+       },
+       {
+        "name": "Hexagon 26",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://104575319713535",
+         "vertices": 88,
+         "triangles": 48
+        }
+       },
+       {
+        "name": "Hexagon 27",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://121568866436826",
+         "vertices": 192,
+         "triangles": 96
+        }
+       },
+       {
+        "name": "Hexagon 28",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://96366353696640",
+         "vertices": 52,
+         "triangles": 28
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Octagons",
+      "group": "Polygons",
+      "assets": [
+       {
+        "name": "Octagon 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://110888508251857",
+         "vertices": 48,
+         "triangles": 28
+        }
+       },
+       {
+        "name": "Octagon 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://77893591353149",
+         "vertices": 96,
+         "triangles": 64
+        }
+       },
+       {
+        "name": "Octagon 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://99556116073633",
+         "vertices": 56,
+         "triangles": 28
+        }
+       },
+       {
+        "name": "Octagon 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://108019840544648",
+         "vertices": 223,
+         "triangles": 120
+        }
+       },
+       {
+        "name": "Octagon 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://103192400313404",
+         "vertices": 32,
+         "triangles": 16
+        }
+       },
+       {
+        "name": "Octagon 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://112618925490161",
+         "vertices": 243,
+         "triangles": 128
+        }
+       },
+       {
+        "name": "Octagon 07",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://102057097074307",
+         "vertices": 253,
+         "triangles": 128
+        }
+       },
+       {
+        "name": "Octagon 08",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://75098215181264",
+         "vertices": 74,
+         "triangles": 44
+        }
+       },
+       {
+        "name": "Octagon 09",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://70929945332674",
+         "vertices": 96,
+         "triangles": 64
+        }
+       },
+       {
+        "name": "Octagon 10",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://79386851924930",
+         "vertices": 74,
+         "triangles": 44
+        }
+       },
+       {
+        "name": "Octagon 11",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://97257489343585",
+         "vertices": 54,
+         "triangles": 28
+        }
+       },
+       {
+        "name": "Octagon 12",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://71087786916142",
+         "vertices": 53,
+         "triangles": 28
+        }
+       },
+       {
+        "name": "Octagon 13",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://123585459268420",
+         "vertices": 148,
+         "triangles": 110
+        }
+       },
+       {
+        "name": "Octagon 14",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://89538172581384",
+         "vertices": 100,
+         "triangles": 64
+        }
+       },
+       {
+        "name": "Octagon 15",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://82512982877788",
+         "vertices": 260,
+         "triangles": 380
+        }
+       },
+       {
+        "name": "Octagon 16",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://74877567274297",
+         "vertices": 160,
+         "triangles": 96
+        }
+       },
+       {
+        "name": "Octagon 17",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://103795452840953",
+         "vertices": 54,
+         "triangles": 28
+        }
+       },
+       {
+        "name": "Octagon 18",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://118563433759268",
+         "vertices": 96,
+         "triangles": 64
+        }
+       },
+       {
+        "name": "Octagon 19",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://80531218938891",
+         "vertices": 48,
+         "triangles": 28
+        }
+       },
+       {
+        "name": "Octagon 20",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://87214233127266",
+         "vertices": 54,
+         "triangles": 28
+        }
+       },
+       {
+        "name": "Octagon 21",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://89629154312446",
+         "vertices": 80,
+         "triangles": 32
+        }
+       },
+       {
+        "name": "Octagon 22",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://70868960081340",
+         "vertices": 78,
+         "triangles": 44
+        }
+       },
+       {
+        "name": "Octagon 23",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://84895326029512",
+         "vertices": 74,
+         "triangles": 44
+        }
+       },
+       {
+        "name": "Octagon 24",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://118732383542732",
+         "vertices": 142,
+         "triangles": 84
+        }
+       },
+       {
+        "name": "Octagon 25",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://124457269188183",
+         "vertices": 186,
+         "triangles": 96
+        }
+       },
+       {
+        "name": "Octagon 26",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://138984687644382",
+         "vertices": 242,
+         "triangles": 128
+        }
+       },
+       {
+        "name": "Octagon 27",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://80247829503560",
+         "vertices": 32,
+         "triangles": 14
+        }
+       },
+       {
+        "name": "Octagon 28",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://93385374209461",
+         "vertices": 48,
+         "triangles": 28
+        }
+       },
+       {
+        "name": "Octagon 29",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://140648310709138",
+         "vertices": 64,
+         "triangles": 32
+        }
+       },
+       {
+        "name": "Octagon 30",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://89692113679330",
+         "vertices": 96,
+         "triangles": 64
+        }
+       },
+       {
+        "name": "Octagon 31",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://93373549524759",
+         "vertices": 184,
+         "triangles": 96
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Decagons",
+      "group": "Polygons",
+      "assets": [
+       {
+        "name": "Decagon 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://126987010771751",
+         "vertices": 60,
+         "triangles": 36
+        }
+       },
+       {
+        "name": "Decagon 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://130376717108787",
+         "vertices": 66,
+         "triangles": 36
+        }
+       },
+       {
+        "name": "Decagon 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://138947366387268",
+         "vertices": 136,
+         "triangles": 80
+        }
+       },
+       {
+        "name": "Decagon 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://74547346779077",
+         "vertices": 40,
+         "triangles": 20
+        }
+       },
+       {
+        "name": "Decagon 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://99617633305451",
+         "vertices": 40,
+         "triangles": 18
+        }
+       },
+       {
+        "name": "Decagon 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://103941920584978",
+         "vertices": 200,
+         "triangles": 124
+        }
+       },
+       {
+        "name": "Decagon 07",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://71090277785683",
+         "vertices": 308,
+         "triangles": 160
+        }
+       },
+       {
+        "name": "Decagon 08",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://91126013497920",
+         "vertices": 309,
+         "triangles": 152
+        }
+       },
+       {
+        "name": "Decagon 09",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://136824536895271",
+         "vertices": 100,
+         "triangles": 40
+        }
+       },
+       {
+        "name": "Decagon 10",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://118444359905892",
+         "vertices": 60,
+         "triangles": 36
+        }
+       },
+       {
+        "name": "Decagon 11",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://91199450728426",
+         "vertices": 228,
+         "triangles": 120
+        }
+       },
+       {
+        "name": "Decagon 12",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://95959309199148",
+         "vertices": 185,
+         "triangles": 138
+        }
+       },
+       {
+        "name": "Decagon 13",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://113468572607228",
+         "vertices": 60,
+         "triangles": 36
+        }
+       },
+       {
+        "name": "Decagon 14",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://125278760478680",
+         "vertices": 80,
+         "triangles": 44
+        }
+       },
+       {
+        "name": "Decagon 15",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://117845278384190",
+         "vertices": 72,
+         "triangles": 44
+        }
+       },
+       {
+        "name": "Decagon 16",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://136108089633614",
+         "vertices": 187,
+         "triangles": 112
+        }
+       },
+       {
+        "name": "Decagon 17",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://97418253325141",
+         "vertices": 80,
+         "triangles": 44
+        }
+       },
+       {
+        "name": "Decagon 18",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://75825121452693",
+         "vertices": 124,
+         "triangles": 80
+        }
+       },
+       {
+        "name": "Decagon 19",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://73209981659735",
+         "vertices": 212,
+         "triangles": 120
+        }
+       },
+       {
+        "name": "Decagon 20",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://116063995848601",
+         "vertices": 80,
+         "triangles": 44
+        }
+       },
+       {
+        "name": "Decagon 21",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://91067108127925",
+         "vertices": 120,
+         "triangles": 80
+        }
+       },
+       {
+        "name": "Decagon 22",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://123107161008074",
+         "vertices": 311,
+         "triangles": 160
+        }
+       },
+       {
+        "name": "Decagon 23",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://78091008913478",
+         "vertices": 80,
+         "triangles": 40
+        }
+       },
+       {
+        "name": "Decagon 24",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://78436209733754",
+         "vertices": 324,
+         "triangles": 476
+        }
+       },
+       {
+        "name": "Decagon 25",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://87414589334249",
+         "vertices": 136,
+         "triangles": 80
+        }
+       },
+       {
+        "name": "Decagon 26",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://103573620053255",
+         "vertices": 136,
+         "triangles": 80
+        }
+       },
+       {
+        "name": "Decagon 27",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://92290303816646",
+         "vertices": 312,
+         "triangles": 160
+        }
+       },
+       {
+        "name": "Decagon 28",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://139411077186727",
+         "vertices": 228,
+         "triangles": 120
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Dodecagons",
+      "group": "Polygons",
+      "assets": [
+       {
+        "name": "Dodecagon 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://117448611250111",
+         "vertices": 160,
+         "triangles": 96
+        }
+       },
+       {
+        "name": "Dodecagon 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://134616568578061",
+         "vertices": 256,
+         "triangles": 144
+        }
+       },
+       {
+        "name": "Dodecagon 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://90483246898659",
+         "vertices": 388,
+         "triangles": 572
+        }
+       },
+       {
+        "name": "Dodecagon 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://106092379156014",
+         "vertices": 72,
+         "triangles": 44
+        }
+       },
+       {
+        "name": "Dodecagon 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://131409279383748",
+         "vertices": 110,
+         "triangles": 60
+        }
+       },
+       {
+        "name": "Dodecagon 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://114536806653897",
+         "vertices": 268,
+         "triangles": 144
+        }
+       },
+       {
+        "name": "Dodecagon 07",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://132618313848757",
+         "vertices": 100,
+         "triangles": 60
+        }
+       },
+       {
+        "name": "Dodecagon 08",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://117153403327214",
+         "vertices": 364,
+         "triangles": 192
+        }
+       },
+       {
+        "name": "Dodecagon 09",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://133864608262500",
+         "vertices": 234,
+         "triangles": 140
+        }
+       },
+       {
+        "name": "Dodecagon 10",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://119067761681705",
+         "vertices": 148,
+         "triangles": 96
+        }
+       },
+       {
+        "name": "Dodecagon 11",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://71375669854814",
+         "vertices": 120,
+         "triangles": 48
+        }
+       },
+       {
+        "name": "Dodecagon 12",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://96597853029591",
+         "vertices": 100,
+         "triangles": 60
+        }
+       },
+       {
+        "name": "Dodecagon 13",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://90262156470167",
+         "vertices": 355,
+         "triangles": 192
+        }
+       },
+       {
+        "name": "Dodecagon 14",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://115822170711020",
+         "vertices": 144,
+         "triangles": 96
+        }
+       },
+       {
+        "name": "Dodecagon 15",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://103256847699252",
+         "vertices": 68,
+         "triangles": 36
+        }
+       },
+       {
+        "name": "Dodecagon 16",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://105579260401130",
+         "vertices": 144,
+         "triangles": 96
+        }
+       },
+       {
+        "name": "Dodecagon 17",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://97936622722234",
+         "vertices": 264,
+         "triangles": 144
+        }
+       },
+       {
+        "name": "Dodecagon 18",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://112907129988951",
+         "vertices": 48,
+         "triangles": 22
+        }
+       },
+       {
+        "name": "Dodecagon 19",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://96261143068178",
+         "vertices": 100,
+         "triangles": 60
+        }
+       },
+       {
+        "name": "Dodecagon 20",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://117217061536837",
+         "vertices": 342,
+         "triangles": 180
+        }
+       },
+       {
+        "name": "Dodecagon 21",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://121401259468033",
+         "vertices": 144,
+         "triangles": 96
+        }
+       },
+       {
+        "name": "Dodecagon 22",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://72693624570598",
+         "vertices": 68,
+         "triangles": 36
+        }
+       },
+       {
+        "name": "Dodecagon 23",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://89750870284822",
+         "vertices": 72,
+         "triangles": 44
+        }
+       },
+       {
+        "name": "Dodecagon 24",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://125809081969753",
+         "vertices": 96,
+         "triangles": 48
+        }
+       },
+       {
+        "name": "Dodecagon 25",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://81691642495576",
+         "vertices": 48,
+         "triangles": 24
+        }
+       },
+       {
+        "name": "Dodecagon 26",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://96579733250018",
+         "vertices": 68,
+         "triangles": 36
+        }
+       },
+       {
+        "name": "Dodecagon 27",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://136849552866154",
+         "vertices": 72,
+         "triangles": 44
+        }
+       },
+       {
+        "name": "Dodecagon 28",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://87492128368151",
+         "vertices": 214,
+         "triangles": 165
+        }
+       },
+       {
+        "name": "Dodecagon 29",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://129690732495043",
+         "vertices": 363,
+         "triangles": 192
+        }
+       },
+       {
+        "name": "Dodecagon 30",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://113084597279610",
+         "vertices": 79,
+         "triangles": 44
+        }
+       },
+       {
+        "name": "Dodecagon 31",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://78545692836294",
+         "vertices": 68,
+         "triangles": 36
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Diamonds",
+      "group": "Polygons",
+      "assets": [
+       {
+        "name": "Diamond 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://102167131706096",
+         "vertices": 36,
+         "triangles": 20
+        }
+       },
+       {
+        "name": "Diamond 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://110288381264472",
+         "vertices": 125,
+         "triangles": 64
+        }
+       },
+       {
+        "name": "Diamond 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://101518002425131",
+         "vertices": 40,
+         "triangles": 16
+        }
+       },
+       {
+        "name": "Diamond 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://109939873912379",
+         "vertices": 24,
+         "triangles": 12
+        }
+       },
+       {
+        "name": "Diamond 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://116981991047921",
+         "vertices": 36,
+         "triangles": 20
+        }
+       },
+       {
+        "name": "Diamond 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://110590440883074",
+         "vertices": 128,
+         "triangles": 64
+        }
+       },
+       {
+        "name": "Diamond 07",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://130515354614178",
+         "vertices": 50,
+         "triangles": 32
+        }
+       },
+       {
+        "name": "Diamond 08",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://139179753917366",
+         "vertices": 50,
+         "triangles": 32
+        }
+       },
+       {
+        "name": "Diamond 09",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://128893638013710",
+         "vertices": 38,
+         "triangles": 20
+        }
+       },
+       {
+        "name": "Diamond 10",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://136353679547936",
+         "vertices": 52,
+         "triangles": 40
+        }
+       },
+       {
+        "name": "Diamond 11",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://112991337399012",
+         "vertices": 119,
+         "triangles": 64
+        }
+       },
+       {
+        "name": "Diamond 12",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://132858296177802",
+         "vertices": 67,
+         "triangles": 54
+        }
+       },
+       {
+        "name": "Diamond 13",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://113181012844201",
+         "vertices": 24,
+         "triangles": 12
+        }
+       },
+       {
+        "name": "Diamond 14",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://85949717871546",
+         "vertices": 112,
+         "triangles": 62
+        }
+       },
+       {
+        "name": "Diamond 15",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://96529658942397",
+         "vertices": 16,
+         "triangles": 8
+        }
+       },
+       {
+        "name": "Diamond 16",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://138893407105963",
+         "vertices": 50,
+         "triangles": 32
+        }
+       },
+       {
+        "name": "Diamond 17",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://114249875445750",
+         "vertices": 24,
+         "triangles": 12
+        }
+       },
+       {
+        "name": "Diamond 18",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://73914227915042",
+         "vertices": 129,
+         "triangles": 188
+        }
+       },
+       {
+        "name": "Diamond 19",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://116129648527543",
+         "vertices": 36,
+         "triangles": 20
+        }
+       },
+       {
+        "name": "Diamond 20",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://85208756930086",
+         "vertices": 90,
+         "triangles": 48
+        }
+       },
+       {
+        "name": "Diamond 21",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://86847268780699",
+         "vertices": 95,
+         "triangles": 52
+        }
+       },
+       {
+        "name": "Diamond 22",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://71026145291309",
+         "vertices": 96,
+         "triangles": 48
+        }
+       },
+       {
+        "name": "Diamond 23",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://98210524169673",
+         "vertices": 24,
+         "triangles": 12
+        }
+       },
+       {
+        "name": "Diamond 24",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://84070549623100",
+         "vertices": 48,
+         "triangles": 32
+        }
+       },
+       {
+        "name": "Diamond 25",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://72210505665183",
+         "vertices": 52,
+         "triangles": 32
+        }
+       },
+       {
+        "name": "Diamond 26",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://97001107159314",
+         "vertices": 32,
+         "triangles": 16
+        }
+       },
+       {
+        "name": "Diamond 27",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://100340096693795",
+         "vertices": 16,
+         "triangles": 6
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Gems",
+      "group": "Polygons",
+      "assets": [
+       {
+        "name": "Gem 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://121525638650898",
+         "vertices": 80,
+         "triangles": 48
+        }
+       },
+       {
+        "name": "Gem 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://97156724288517",
+         "vertices": 544,
+         "triangles": 302
+        }
+       },
+       {
+        "name": "Gem 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://15106252612",
+         "vertices": 24,
+         "triangles": 8
+        }
+       },
+       {
+        "name": "Gem 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://109235842513080",
+         "vertices": 257,
+         "triangles": 128
+        }
+       },
+       {
+        "name": "Gem 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://76680778039311",
+         "vertices": 145,
+         "triangles": 64
+        }
+       },
+       {
+        "name": "Gem 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://138958639186893",
+         "vertices": 130,
+         "triangles": 128
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Stars",
+      "group": "Polygons",
+      "assets": [
+       {
+        "name": "Star 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://125859092136417",
+         "vertices": 589,
+         "triangles": 912
+        }
+       },
+       {
+        "name": "Star 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://113272920859301",
+         "vertices": 704,
+         "triangles": 672
+        }
+       },
+       {
+        "name": "Star 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://114252453577485",
+         "vertices": 224,
+         "triangles": 288
+        }
+       },
+       {
+        "name": "Star 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://109506926333661",
+         "vertices": 278,
+         "triangles": 220
+        }
+       },
+       {
+        "name": "Star 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://86156700038455",
+         "vertices": 704,
+         "triangles": 672
+        }
+       },
+       {
+        "name": "Star 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://110924075454326",
+         "vertices": 224,
+         "triangles": 288
+        }
+       },
+       {
+        "name": "Star 07",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://75452038452219",
+         "vertices": 264,
+         "triangles": 252
+        }
+       },
+       {
+        "name": "Star 08",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://71104676360096",
+         "vertices": 444,
+         "triangles": 392
+        }
+       },
+       {
+        "name": "Star 09",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://73499298401230",
+         "vertices": 1067,
+         "triangles": 1696
+        }
+       },
+       {
+        "name": "Star 10",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://80623237322533",
+         "vertices": 306,
+         "triangles": 252
+        }
+       },
+       {
+        "name": "Star 11",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://105889443284933",
+         "vertices": 536,
+         "triangles": 432
+        }
+       },
+       {
+        "name": "Star 12",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://135251514230777",
+         "vertices": 224,
+         "triangles": 288
+        }
+       },
+       {
+        "name": "Star 13",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://79438009534508",
+         "vertices": 601,
+         "triangles": 912
+        }
+       },
+       {
+        "name": "Star 14",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://96128997966832",
+         "vertices": 349,
+         "triangles": 260
+        }
+       },
+       {
+        "name": "Star 15",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://91655231613329",
+         "vertices": 374,
+         "triangles": 344
+        }
+       },
+       {
+        "name": "Star 16",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://74702679904893",
+         "vertices": 1070,
+         "triangles": 1712
+        }
+       },
+       {
+        "name": "Star 17",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://107346326926338",
+         "vertices": 800,
+         "triangles": 768
+        }
+       },
+       {
+        "name": "Star 18",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://117162219383154",
+         "vertices": 800,
+         "triangles": 768
+        }
+       },
+       {
+        "name": "Star 19",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://134697620464961",
+         "vertices": 800,
+         "triangles": 768
+        }
+       },
+       {
+        "name": "Star 20",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://104543262216379",
+         "vertices": 592,
+         "triangles": 496
+        }
+       },
+       {
+        "name": "Star 21",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://126030800586820",
+         "vertices": 1091,
+         "triangles": 1696
+        }
+       },
+       {
+        "name": "Star 22",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://124150647612309",
+         "vertices": 452,
+         "triangles": 392
+        }
+       },
+       {
+        "name": "Star 23",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://136818555397634",
+         "vertices": 232,
+         "triangles": 220
+        }
+       },
+       {
+        "name": "Star 24",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://90478723633863",
+         "vertices": 800,
+         "triangles": 768
+        }
+       },
+       {
+        "name": "Star 25",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://139037997122660",
+         "vertices": 264,
+         "triangles": 252
+        }
+       },
+       {
+        "name": "Star 26",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://76843076349228",
+         "vertices": 388,
+         "triangles": 344
+        }
+       },
+       {
+        "name": "Star 27",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://113912058486869",
+         "vertices": 467,
+         "triangles": 392
+        }
+       },
+       {
+        "name": "Star 28",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://137850360402033",
+         "vertices": 680,
+         "triangles": 512
+        }
+       },
+       {
+        "name": "Star 29",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://98502226842580",
+         "vertices": 480,
+         "triangles": 392
+        }
+       },
+       {
+        "name": "Star 30",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://87473158147022",
+         "vertices": 581,
+         "triangles": 912
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Rings",
+      "group": "Lines and Loops",
+      "assets": [
+       {
+        "name": "Ring 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://109436456313357",
+         "vertices": 4069,
+         "triangles": 7488
+        }
+       },
+       {
+        "name": "Ring 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://101082229371471",
+         "vertices": 338,
+         "triangles": 336
+        }
+       },
+       {
+        "name": "Ring 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://90823199498578",
+         "vertices": 338,
+         "triangles": 336
+        }
+       },
+       {
+        "name": "Ring 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://75331017321484",
+         "vertices": 869,
+         "triangles": 1556
+        }
+       },
+       {
+        "name": "Ring 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://113889461097770",
+         "vertices": 1183,
+         "triangles": 2016
+        }
+       },
+       {
+        "name": "Ring 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://16943955412",
+         "vertices": 2901,
+         "triangles": 1734
+        }
+       },
+       {
+        "name": "Ring 07",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://90058011194137",
+         "vertices": 873,
+         "triangles": 1536
+        }
+       },
+       {
+        "name": "Ring 08",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://85289094668567",
+         "vertices": 260,
+         "triangles": 88
+        }
+       },
+       {
+        "name": "Ring 09",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://104971354290242",
+         "vertices": 1183,
+         "triangles": 2016
+        }
+       },
+       {
+        "name": "Ring 10",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://92801086056098",
+         "vertices": 873,
+         "triangles": 1536
+        }
+       },
+       {
+        "name": "Ring 11",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://139325056253818",
+         "vertices": 338,
+         "triangles": 336
+        }
+       },
+       {
+        "name": "Ring 12",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://137776179915966",
+         "vertices": 1183,
+         "triangles": 2016
+        }
+       },
+       {
+        "name": "Ring 13",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://113793156084744",
+         "vertices": 1183,
+         "triangles": 2016
+        }
+       },
+       {
+        "name": "Ring 14",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://103748134777219",
+         "vertices": 7399,
+         "triangles": 13964
+        }
+       },
+       {
+        "name": "Ring 15",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://78212066023020",
+         "vertices": 338,
+         "triangles": 336
+        }
+       },
+       {
+        "name": "Ring 16",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://117372244769253",
+         "vertices": 310,
+         "triangles": 524
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Spirals",
+      "group": "Lines and Loops",
+      "assets": [
+       {
+        "name": "Spiral 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://81728314111453",
+         "vertices": 288,
+         "triangles": 286
+        }
+       },
+       {
+        "name": "Spiral 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://98234851985725",
+         "vertices": 240,
+         "triangles": 238
+        }
+       },
+       {
+        "name": "Spiral 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://140080416858006",
+         "vertices": 1946,
+         "triangles": 1158
+        }
+       },
+       {
+        "name": "Spiral 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://78232743352292",
+         "vertices": 1876,
+         "triangles": 3412
+        }
+       },
+       {
+        "name": "Spiral 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://99758970055045",
+         "vertices": 362,
+         "triangles": 620
+        }
+       },
+       {
+        "name": "Spiral 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://122234022789475",
+         "vertices": 2182,
+         "triangles": 3984
+        }
+       },
+       {
+        "name": "Spiral 07",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://130834787208083",
+         "vertices": 1614,
+         "triangles": 1248
+        }
+       },
+       {
+        "name": "Spiral 08",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://105611174217186",
+         "vertices": 937,
+         "triangles": 568
+        }
+       },
+       {
+        "name": "Spiral 09",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://86984141064723",
+         "vertices": 774,
+         "triangles": 576
+        }
+       },
+       {
+        "name": "Spiral 10",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://124751891255457",
+         "vertices": 783,
+         "triangles": 576
+        }
+       },
+       {
+        "name": "Spiral 11",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://127294869172785",
+         "vertices": 336,
+         "triangles": 334
+        }
+       },
+       {
+        "name": "Spiral 12",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://102595404310626",
+         "vertices": 1558,
+         "triangles": 2832
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Infinity Loops",
+      "group": "Lines and Loops",
+      "assets": [
+       {
+        "name": "Infinity Loop 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://113416481281866",
+         "vertices": 98,
+         "triangles": 96
+        }
+       },
+       {
+        "name": "Infinity Loop 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://87091365838752",
+         "vertices": 468,
+         "triangles": 384
+        }
+       },
+       {
+        "name": "Infinity Loop 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://135751673958331",
+         "vertices": 442,
+         "triangles": 380
+        }
+       },
+       {
+        "name": "Infinity Loop 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://105129930411979",
+         "vertices": 451,
+         "triangles": 371
+        }
+       },
+       {
+        "name": "Infinity Loop 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://134126531785958",
+         "vertices": 98,
+         "triangles": 96
+        }
+       },
+       {
+        "name": "Infinity Loop 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://95750256387420",
+         "vertices": 392,
+         "triangles": 384
+        }
+       },
+       {
+        "name": "Infinity Loop 07",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://110314832840337",
+         "vertices": 392,
+         "triangles": 384
+        }
+       },
+       {
+        "name": "Infinity Loop 08",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://123865314897748",
+         "vertices": 392,
+         "triangles": 384
+        }
+       },
+       {
+        "name": "Infinity Loop 09",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://125103527238264",
+         "vertices": 98,
+         "triangles": 96
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Wireframes",
+      "group": "Lines and Loops",
+      "assets": [
+       {
+        "name": "Wireframe 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://77987312084479",
+         "vertices": 858,
+         "triangles": 384
+        }
+       },
+       {
+        "name": "Wireframe 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://76666848164515",
+         "vertices": 11613,
+         "triangles": 5888
+        }
+       },
+       {
+        "name": "Wireframe 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://138116853251907",
+         "vertices": 172,
+         "triangles": 128
+        }
+       },
+       {
+        "name": "Wireframe 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://87818535868275",
+         "vertices": 96,
+         "triangles": 48,
+         "texture": "rbxassetid://7265756294"
+        }
+       },
+       {
+        "name": "Wireframe 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://103622411166266",
+         "vertices": 5279,
+         "triangles": 2304
+        }
+       },
+       {
+        "name": "Wireframe 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://89583671554821",
+         "vertices": 10678,
+         "triangles": 4352
+        }
+       },
+       {
+        "name": "Wireframe 07",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://138352550364257",
+         "vertices": 862,
+         "triangles": 512
+        }
+       },
+       {
+        "name": "Wireframe 08",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://89285005952838",
+         "vertices": 2357,
+         "triangles": 1024
+        }
+       },
+       {
+        "name": "Wireframe 09",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://131179470660323",
+         "vertices": 8762,
+         "triangles": 4096
+        }
+       },
+       {
+        "name": "Wireframe 10",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://104291848092518",
+         "vertices": 13388,
+         "triangles": 6144
+        }
+       },
+       {
+        "name": "Wireframe 11",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://89165101624851",
+         "vertices": 9198,
+         "triangles": 3840
+        }
+       },
+       {
+        "name": "Wireframe 12",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://130713956873441",
+         "vertices": 16824,
+         "triangles": 8448
+        }
+       },
+       {
+        "name": "Wireframe 13",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://90812247129501",
+         "vertices": 3456,
+         "triangles": 1728
+        }
+       },
+       {
+        "name": "Wireframe 14",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://86834143257764",
+         "vertices": 32,
+         "triangles": 32
+        }
+       },
+       {
+        "name": "Wireframe 15",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://94767598045156",
+         "vertices": 2942,
+         "triangles": 1280
+        }
+       },
+       {
+        "name": "Wireframe 16",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://99879809296885",
+         "vertices": 7517,
+         "triangles": 3840
+        }
+       },
+       {
+        "name": "Wireframe 17",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://94933438034105",
+         "vertices": 566,
+         "triangles": 240
+        }
+       },
+       {
+        "name": "Wireframe 18",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://94157167353398",
+         "vertices": 4845,
+         "triangles": 2048
+        }
+       },
+       {
+        "name": "Wireframe 19",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://130138509605066",
+         "vertices": 5508,
+         "triangles": 2560
+        }
+       },
+       {
+        "name": "Wireframe 20",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://112437873024786",
+         "vertices": 10307,
+         "triangles": 4352
+        }
+       },
+       {
+        "name": "Wireframe 21",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://116266101805118",
+         "vertices": 7342,
+         "triangles": 3072
+        }
+       },
+       {
+        "name": "Wireframe 22",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://117185792426138",
+         "vertices": 9336,
+         "triangles": 4096
+        }
+       },
+       {
+        "name": "Wireframe 23",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://98865221694036",
+         "vertices": 480,
+         "triangles": 240
+        }
+       },
+       {
+        "name": "Wireframe 24",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://76238854749254",
+         "vertices": 3415,
+         "triangles": 1536
+        }
+       },
+       {
+        "name": "Wireframe 25",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://123427662464137",
+         "vertices": 15353,
+         "triangles": 6400
+        }
+       },
+       {
+        "name": "Wireframe 26",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://136032497890677",
+         "vertices": 6912,
+         "triangles": 3456
+        }
+       },
+       {
+        "name": "Wireframe 27",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://123349909345794",
+         "vertices": 5517,
+         "triangles": 2304
+        }
+       },
+       {
+        "name": "Wireframe 28",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://74386586220086",
+         "vertices": 2250,
+         "triangles": 960
+        }
+       },
+       {
+        "name": "Wireframe 29",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://110984579415993",
+         "vertices": 7569,
+         "triangles": 3328
+        }
+       },
+       {
+        "name": "Wireframe 30",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://130541273919595",
+         "vertices": 17038,
+         "triangles": 7936
+        }
+       },
+       {
+        "name": "Wireframe 31",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://140508775097793",
+         "vertices": 384,
+         "triangles": 192,
+         "texture": "rbxassetid://7265756294"
+        }
+       },
+       {
+        "name": "Wireframe 32",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://109924430472654",
+         "vertices": 566,
+         "triangles": 240
+        }
+       },
+       {
+        "name": "Wireframe 33",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://110280019921348",
+         "vertices": 3421,
+         "triangles": 1792
+        }
+       },
+       {
+        "name": "Wireframe 34",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://76260068702882",
+         "vertices": 2252,
+         "triangles": 960
+        }
+       },
+       {
+        "name": "Wireframe 35",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://111598592650261",
+         "vertices": 20055,
+         "triangles": 8192
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Lightning",
+      "group": "Lines and Loops",
+      "assets": [
+       {
+        "name": "Lightning Bolt 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://90927367127179",
+         "vertices": 34,
+         "triangles": 24
+        }
+       },
+       {
+        "name": "Lightning Bolt 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://94722208015883",
+         "vertices": 198,
+         "triangles": 233
+        }
+       },
+       {
+        "name": "Lightning Bolt 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://140508804264141",
+         "vertices": 52,
+         "triangles": 32
+        }
+       },
+       {
+        "name": "Lightning Bolt 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://107652146241762",
+         "vertices": 68,
+         "triangles": 48
+        }
+       },
+       {
+        "name": "Lightning Bolt 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://101820552270073",
+         "vertices": 198,
+         "triangles": 233
+        }
+       },
+       {
+        "name": "Lightning Bolt 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://119907385997510",
+         "vertices": 52,
+         "triangles": 40
+        }
+       },
+       {
+        "name": "Lightning Bolt 07",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://109732042833188",
+         "vertices": 68,
+         "triangles": 56
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Flourishes",
+      "group": "Lines and Loops",
+      "assets": [
+       {
+        "name": "Flourish 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://126042143076837",
+         "vertices": 509,
+         "triangles": 528
+        }
+       },
+       {
+        "name": "Flourish 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://86195496170434",
+         "vertices": 906,
+         "triangles": 876
+        }
+       },
+       {
+        "name": "Flourish 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://102098134607179",
+         "vertices": 1752,
+         "triangles": 872
+        }
+       },
+       {
+        "name": "Flourish 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://129186199763177",
+         "vertices": 119,
+         "triangles": 48
+        }
+       },
+       {
+        "name": "Flourish 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://93332545980181",
+         "vertices": 1176,
+         "triangles": 1160
+        }
+       },
+       {
+        "name": "Flourish 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://74121900110537",
+         "vertices": 509,
+         "triangles": 528
+        }
+       },
+       {
+        "name": "Flourish 07",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://132130977059057",
+         "vertices": 1032,
+         "triangles": 1016
+        }
+       },
+       {
+        "name": "Flourish 08",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://127435030292278",
+         "vertices": 888,
+         "triangles": 872
+        }
+       },
+       {
+        "name": "Flourish 09",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://134734342468469",
+         "vertices": 1752,
+         "triangles": 872
+        }
+       },
+       {
+        "name": "Flourish 10",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://135449824161230",
+         "vertices": 1752,
+         "triangles": 872
+        }
+       },
+       {
+        "name": "Flourish 11",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://90760239334547",
+         "vertices": 1902,
+         "triangles": 3288
+        }
+       },
+       {
+        "name": "Flourish 12",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://71966506317161",
+         "vertices": 918,
+         "triangles": 876
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Runes",
+      "group": "Symbols",
+      "assets": [
+       {
+        "name": "Rune 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://97020099870160",
+         "vertices": 235,
+         "triangles": 352
+        }
+       },
+       {
+        "name": "Rune 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://131240822299826",
+         "vertices": 276,
+         "triangles": 306
+        }
+       },
+       {
+        "name": "Rune 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://100249960586746",
+         "vertices": 189,
+         "triangles": 370
+        }
+       },
+       {
+        "name": "Rune 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://77843969931183",
+         "vertices": 191,
+         "triangles": 370
+        }
+       },
+       {
+        "name": "Rune 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://130365163991455",
+         "vertices": 274,
+         "triangles": 438
+        }
+       },
+       {
+        "name": "Rune 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://97578678807771",
+         "vertices": 176,
+         "triangles": 226
+        }
+       },
+       {
+        "name": "Rune 07",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://86433317991395",
+         "vertices": 250,
+         "triangles": 246
+        }
+       },
+       {
+        "name": "Rune 08",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://93651464663051",
+         "vertices": 185,
+         "triangles": 358
+        }
+       },
+       {
+        "name": "Rune 09",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://96485343068847",
+         "vertices": 224,
+         "triangles": 444
+        }
+       },
+       {
+        "name": "Rune 10",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://77838820314519",
+         "vertices": 252,
+         "triangles": 312
+        }
+       },
+       {
+        "name": "Rune 11",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://115618582036240",
+         "vertices": 210,
+         "triangles": 262
+        }
+       },
+       {
+        "name": "Rune 12",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://104860800019615",
+         "vertices": 252,
+         "triangles": 312
+        }
+       },
+       {
+        "name": "Rune 13",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://101625702069409",
+         "vertices": 185,
+         "triangles": 252
+        }
+       },
+       {
+        "name": "Rune 14",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://138879380743458",
+         "vertices": 195,
+         "triangles": 256
+        }
+       },
+       {
+        "name": "Rune 15",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://103786316453217",
+         "vertices": 261,
+         "triangles": 382
+        }
+       },
+       {
+        "name": "Rune 16",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://136863263713808",
+         "vertices": 1574,
+         "triangles": 576
+        }
+       },
+       {
+        "name": "Rune 17",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://72682063329423",
+         "vertices": 297,
+         "triangles": 426
+        }
+       },
+       {
+        "name": "Rune 18",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://73524236805624",
+         "vertices": 251,
+         "triangles": 346
+        }
+       },
+       {
+        "name": "Rune 19",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://92635612933608",
+         "vertices": 208,
+         "triangles": 282
+        }
+       },
+       {
+        "name": "Rune 20",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://108366490290171",
+         "vertices": 720,
+         "triangles": 258
+        }
+       },
+       {
+        "name": "Rune 21",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://83925752652734",
+         "vertices": 252,
+         "triangles": 312
+        }
+       },
+       {
+        "name": "Rune 22",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://98299099727063",
+         "vertices": 188,
+         "triangles": 222
+        }
+       },
+       {
+        "name": "Rune 23",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://139009530508050",
+         "vertices": 365,
+         "triangles": 476
+        }
+       },
+       {
+        "name": "Rune 24",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://117574565441564",
+         "vertices": 269,
+         "triangles": 246
+        }
+       },
+       {
+        "name": "Rune 25",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://83421685768390",
+         "vertices": 257,
+         "triangles": 384
+        }
+       },
+       {
+        "name": "Rune 26",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://99510107262730",
+         "vertices": 234,
+         "triangles": 452
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Signs",
+      "group": "Symbols",
+      "assets": [
+       {
+        "name": "Sign 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://13294271354",
+         "vertices": 388,
+         "triangles": 360
+        }
+       },
+       {
+        "name": "Sign 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://135586802084750",
+         "vertices": 122,
+         "triangles": 80
+        }
+       },
+       {
+        "name": "Sign 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://125887164091518",
+         "vertices": 866,
+         "triangles": 672
+        }
+       },
+       {
+        "name": "Sign 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://85501819970079",
+         "vertices": 74,
+         "triangles": 48
+        }
+       },
+       {
+        "name": "Sign 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://13295282128",
+         "vertices": 367,
+         "triangles": 196
+        }
+       },
+       {
+        "name": "Sign 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://123957301137926",
+         "vertices": 98,
+         "triangles": 64
+        }
+       },
+       {
+        "name": "Sign 07",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://134384492943340",
+         "vertices": 62,
+         "triangles": 40
+        }
+       },
+       {
+        "name": "Sign 08",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://109999605972826",
+         "vertices": 108,
+         "triangles": 72
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Rocks",
+      "group": "Debris and Misc",
+      "assets": [
+       {
+        "name": "Rock 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://92602781502011",
+         "vertices": 72,
+         "triangles": 24
+        }
+       },
+       {
+        "name": "Rock 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://125884842464536",
+         "vertices": 240,
+         "triangles": 120
+        }
+       },
+       {
+        "name": "Rock 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://138506024099603",
+         "vertices": 36,
+         "triangles": 12
+        }
+       },
+       {
+        "name": "Rock 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://136675403260606",
+         "vertices": 24,
+         "triangles": 8
+        }
+       },
+       {
+        "name": "Rock 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://107451552211129",
+         "vertices": 542,
+         "triangles": 936
+        }
+       },
+       {
+        "name": "Rock 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://89170617701160",
+         "vertices": 48,
+         "triangles": 16
+        }
+       },
+       {
+        "name": "Rock 07",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://116601051259895",
+         "vertices": 372,
+         "triangles": 260
+        }
+       },
+       {
+        "name": "Rock 08",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://129027601369621",
+         "vertices": 96,
+         "triangles": 32
+        }
+       },
+       {
+        "name": "Rock 09",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://112595161689481",
+         "vertices": 168,
+         "triangles": 56
+        }
+       },
+       {
+        "name": "Rock 10",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://96066001979696",
+         "vertices": 485,
+         "triangles": 536
+        }
+       },
+       {
+        "name": "Rock 11",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://76386202743409",
+         "vertices": 499,
+         "triangles": 816
+        }
+       },
+       {
+        "name": "Rock 12",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://97541993024591",
+         "vertices": 329,
+         "triangles": 337
+        }
+       },
+       {
+        "name": "Rock 13",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://130826685550105",
+         "vertices": 632,
+         "triangles": 944
+        }
+       },
+       {
+        "name": "Rock 14",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://121777335217971",
+         "vertices": 120,
+         "triangles": 40
+        }
+       },
+       {
+        "name": "Rock 15",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://112861863860040",
+         "vertices": 645,
+         "triangles": 944
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Debris Rings",
+      "group": "Debris and Misc",
+      "assets": [
+       {
+        "name": "Debris Ring 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://91204106967241",
+         "vertices": 3625,
+         "triangles": 1741
+        }
+       },
+       {
+        "name": "Debris Ring 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://101901137359080",
+         "vertices": 334,
+         "triangles": 142
+        }
+       },
+       {
+        "name": "Debris Ring 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://74297329961380",
+         "vertices": 670,
+         "triangles": 282
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Horns",
+      "group": "Debris and Misc",
+      "assets": [
+       {
+        "name": "Horn 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://117108925585792",
+         "vertices": 674,
+         "triangles": 648
+        }
+       },
+       {
+        "name": "Horn 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://135060275197547",
+         "vertices": 378,
+         "triangles": 648
+        }
+       },
+       {
+        "name": "Horn 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://91163189729111",
+         "vertices": 672,
+         "triangles": 1148
+        }
+       },
+       {
+        "name": "Horn 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://135378373928716",
+         "vertices": 378,
+         "triangles": 648
+        }
+       },
+       {
+        "name": "Horn 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://116236769734556",
+         "vertices": 674,
+         "triangles": 648
+        }
+       }
+      ],
+      "folders": []
+     },
+     {
+      "name": "Misc",
+      "group": "Debris and Misc",
+      "assets": [
+       {
+        "name": "Misc Mesh 01",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://105390497607230",
+         "vertices": 44,
+         "triangles": 34
+        }
+       },
+       {
+        "name": "Misc Mesh 02",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://104379579391557",
+         "vertices": 44,
+         "triangles": 34
+        }
+       },
+       {
+        "name": "Misc Mesh 03",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://87530989421649",
+         "vertices": 421,
+         "triangles": 800
+        }
+       },
+       {
+        "name": "Misc Mesh 04",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://116581811912357",
+         "vertices": 764,
+         "triangles": 1472
+        }
+       },
+       {
+        "name": "Misc Mesh 05",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://94668072864701",
+         "vertices": 240,
+         "triangles": 156
+        }
+       },
+       {
+        "name": "Misc Mesh 06",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://90926886056953",
+         "vertices": 320,
+         "triangles": 476
+        }
+       },
+       {
+        "name": "Misc Mesh 07",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://14011476549",
+         "vertices": 1127,
+         "triangles": 1492
+        }
+       },
+       {
+        "name": "Misc Mesh 08",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://116507010892742",
+         "vertices": 38,
+         "triangles": 28
+        }
+       },
+       {
+        "name": "Misc Mesh 09",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://77826610154227",
+         "vertices": 56,
+         "triangles": 46
+        }
+       },
+       {
+        "name": "Misc Mesh 10",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://77473652894497",
+         "vertices": 32,
+         "triangles": 22
+        }
+       },
+       {
+        "name": "Misc Mesh 11",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://109126357509873",
+         "vertices": 377,
+         "triangles": 704
+        }
+       },
+       {
+        "name": "Misc Mesh 12",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://138796206718429",
+         "vertices": 1280,
+         "triangles": 1280
+        }
+       },
+       {
+        "name": "Misc Mesh 13",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://100888351140148",
+         "vertices": 600,
+         "triangles": 396
+        }
+       },
+       {
+        "name": "Misc Mesh 14",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://140145332759993",
+         "vertices": 4144,
+         "triangles": 1728
+        }
+       },
+       {
+        "name": "Misc Mesh 15",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://76162346787502",
+         "vertices": 2235,
+         "triangles": 1440
+        }
+       },
+       {
+        "name": "Misc Mesh 16",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://96550256817379",
+         "vertices": 1107,
+         "triangles": 720
+        }
+       },
+       {
+        "name": "Misc Mesh 17",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://85022348421982",
+         "vertices": 3798,
+         "triangles": 1540
+        }
+       },
+       {
+        "name": "Misc Mesh 18",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://102417397769002",
+         "vertices": 360,
+         "triangles": 236
+        }
+       },
+       {
+        "name": "Misc Mesh 19",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://110729403860943",
+         "vertices": 254,
+         "triangles": 212
+        }
+       },
+       {
+        "name": "Misc Mesh 20",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://96640138522427",
+         "vertices": 480,
+         "triangles": 461
+        }
+       },
+       {
+        "name": "Misc Mesh 21",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://97837087123778",
+         "vertices": 300,
+         "triangles": 196
+        }
+       },
+       {
+        "name": "Misc Mesh 22",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://135893251448310",
+         "vertices": 38,
+         "triangles": 28
+        }
+       },
+       {
+        "name": "Misc Mesh 23",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://77009845572816",
+         "vertices": 38,
+         "triangles": 28
+        }
+       },
+       {
+        "name": "Misc Mesh 24",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://117009213274232",
+         "vertices": 1367,
+         "triangles": 1540
+        }
+       },
+       {
+        "name": "Misc Mesh 25",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://129812282308173",
+         "vertices": 5758,
+         "triangles": 1932
+        }
+       },
+       {
+        "name": "Misc Mesh 26",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://93070464450641",
+         "vertices": 564,
+         "triangles": 1088
+        }
+       },
+       {
+        "name": "Misc Mesh 27",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://78700442504127",
+         "vertices": 1325,
+         "triangles": 2114
+        }
+       },
+       {
+        "name": "Misc Mesh 28",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://105842066679915",
+         "vertices": 456,
+         "triangles": 600
+        }
+       },
+       {
+        "name": "Misc Mesh 29",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://86633647182728",
+         "vertices": 1572,
+         "triangles": 1728
+        }
+       },
+       {
+        "name": "Misc Mesh 30",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://93954684348844",
+         "vertices": 56,
+         "triangles": 46
+        }
+       },
+       {
+        "name": "Misc Mesh 31",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://89181141853971",
+         "vertices": 1716,
+         "triangles": 3392
+        }
+       },
+       {
+        "name": "Misc Mesh 32",
+        "type": "mesh",
+        "mesh": {
+         "mesh": "rbxassetid://101338214567292",
+         "vertices": 1280,
+         "triangles": 1280
+        }
+       }
+      ],
+      "folders": []
+     }
+    ]
+   }
+  ]
+ }
+}
