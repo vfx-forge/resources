@@ -1096,35 +1096,6 @@
           ]
          },
          {
-          "name": "Smoke Puff 26",
-          "type": "sprite",
-          "sprite": {
-           "spritesheet": "rbxassetid://112387970399345",
-           "layout": "4x4",
-           "fps": [
-            16.0,
-            16.0
-           ],
-           "mode": "Loop",
-           "startRandom": false,
-           "resolution": 1024
-          },
-          "description": "Texture from the open-source RBXM file posted by @qlisor in RoVFX",
-          "source": {
-           "type": "discord",
-           "url": "https://discord.com/channels/911667183334084608/1529905656667312288/1529905705811710002",
-           "guild": "911667183334084608",
-           "channel": "1497326718581473370",
-           "thread": "1529905656667312288",
-           "message": "1529905705811710002",
-           "user": "936963792267542558",
-           "from": "model"
-          },
-          "tags": [
-           "particle flipbook"
-          ]
-         },
-         {
           "name": "Smoke Puff 27",
           "type": "texture",
           "texture": {
@@ -1308,35 +1279,6 @@
            "user": "1113077312968212501",
            "from": "attachment"
           }
-         },
-         {
-          "name": "Smoke Puff 32",
-          "type": "sprite",
-          "sprite": {
-           "spritesheet": "rbxassetid://116686317011720",
-           "layout": "4x4",
-           "fps": [
-            16.0,
-            16.0
-           ],
-           "mode": "Loop",
-           "startRandom": false,
-           "resolution": 1024
-          },
-          "description": "Texture from the open-source RBXM file posted by @omniphane_xyz in RoVFX",
-          "source": {
-           "type": "discord",
-           "url": "https://discord.com/channels/911667183334084608/1531067703119314965/1531067703119314965",
-           "guild": "911667183334084608",
-           "channel": "1497326718581473370",
-           "thread": "1531067703119314965",
-           "message": "1531067703119314965",
-           "user": "1255183171444801601",
-           "from": "model"
-          },
-          "tags": [
-           "particle flipbook"
-          ]
          },
          {
           "name": "Smoke Wisp 07",
@@ -4781,35 +4723,6 @@
            "thread": "1516193643671588874",
            "message": "1516193759673450677",
            "user": "723620901211471984",
-           "from": "model"
-          },
-          "tags": [
-           "particle flipbook"
-          ]
-         },
-         {
-          "name": "Smoke Puff 56",
-          "type": "sprite",
-          "sprite": {
-           "spritesheet": "rbxassetid://136095915586303",
-           "layout": "4x4",
-           "fps": [
-            16.0,
-            16.0
-           ],
-           "mode": "Loop",
-           "startRandom": false,
-           "resolution": 1024
-          },
-          "description": "Texture from the open-source RBXM file posted by @ihavegotlag in RoVFX",
-          "source": {
-           "type": "discord",
-           "url": "https://discord.com/channels/911667183334084608/1541208684359589968/1541208708007206912",
-           "guild": "911667183334084608",
-           "channel": "1497326718581473370",
-           "thread": "1541208684359589968",
-           "message": "1541208708007206912",
-           "user": "635593693608411154",
            "from": "model"
           },
           "tags": [
@@ -15646,24 +15559,6 @@
           ]
          },
          {
-          "name": "Arc Fragment 02",
-          "type": "texture",
-          "texture": {
-           "image": "rbxassetid://104421557382501"
-          },
-          "description": "Texture from the open-source RBXM file posted by @zulimeh in RoVFX",
-          "source": {
-           "type": "discord",
-           "url": "https://discord.com/channels/911667183334084608/1530924086920741095/1530924458951311410",
-           "guild": "911667183334084608",
-           "channel": "1497326718581473370",
-           "thread": "1530924086920741095",
-           "message": "1530924458951311410",
-           "user": "1518699133064577068",
-           "from": "model"
-          }
-         },
-         {
           "name": "Slash Shard 07",
           "type": "sprite",
           "sprite": {
@@ -19898,64 +19793,6 @@
            "user": "1255183171444801601",
            "from": "model"
           }
-         },
-         {
-          "name": "Smoke Ring 01",
-          "type": "sprite",
-          "sprite": {
-           "spritesheet": "rbxassetid://97774986006684",
-           "layout": "4x4",
-           "fps": [
-            16.0,
-            16.0
-           ],
-           "mode": "Loop",
-           "startRandom": false,
-           "resolution": 1024
-          },
-          "description": "Texture from the open-source RBXM file posted by @zxephr in RoVFX",
-          "source": {
-           "type": "discord",
-           "url": "https://discord.com/channels/911667183334084608/1520099487828148345/1520099487828148345",
-           "guild": "911667183334084608",
-           "channel": "1497326718581473370",
-           "thread": "1520099487828148345",
-           "message": "1520099487828148345",
-           "user": "1233475814415138867",
-           "from": "model"
-          },
-          "tags": [
-           "particle flipbook"
-          ]
-         },
-         {
-          "name": "Swirl Ring 25",
-          "type": "sprite",
-          "sprite": {
-           "spritesheet": "rbxassetid://85792106809232",
-           "layout": "3x3",
-           "fps": [
-            16.0,
-            16.0
-           ],
-           "mode": "Loop",
-           "startRandom": false,
-           "resolution": 1024
-          },
-          "description": "Texture from the open-source RBXM file posted by @azulvfx in RoVFX",
-          "source": {
-           "type": "discord",
-           "url": "https://discord.com/channels/911667183334084608/1520900030276571257/1520900030276571257",
-           "guild": "911667183334084608",
-           "channel": "1497326718581473370",
-           "thread": "1520900030276571257",
-           "message": "1520900030276571257",
-           "user": "1520886879648747752",
-           "from": "model"
-          },
-          "tags": [
-           "particle flipbook"
-          ]
          },
          {
           "name": "Swirl Ring 26",
